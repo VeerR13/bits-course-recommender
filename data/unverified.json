@@ -1,0 +1,1544 @@
+[
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CE F231",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '1201(M W) 6104(Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CE G549",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '1233(M W) 1219(Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CE G549",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '1233(M W) 1219(Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CHE F415",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '1203(M) 6117(W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CHE G553",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '1203(M) 6117(W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CHE G553",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '1203(M) 6117(W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CHEM F335",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6161(T) 6151(M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CS G527",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6109(T) 6101(M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "CS G527",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6109(T) 6101(M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "MAC F213",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6107(M W) 1223(Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "MATH F213",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6107(M W) 1223(Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "ME G553",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '1234(T) 1202(M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "MPBA G504",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '(F) 6154(M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "MPBA G517",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6108(F) 6108(T) 6157(Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "MPBA G532",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6157(M W) 6108(Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "PHA G538",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6160(F) 6161(T Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "PHA G538",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6160(F) 6161(T Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "PHA G616",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6153(F) 6104(M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "PHA G617",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6107(F) 6108(M) 6108(Th)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "PHA G625",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6161(F) 6162(M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "PHA G625",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6161(F) 6162(M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "PHY F111",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '6161(T) (M W)'"
+  },
+  {
+    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
+    "course_code": "SAN G511",
+    "field": "room",
+    "reason": "room differs by day, stored as raw text: '1220(M W) (Th)'"
+  },
+  {
+    "file": "handouts/001_AN_F314.pdf",
+    "course_code": "AN F314",
+    "field": "evaluation_scheme",
+    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
+  },
+  {
+    "file": "handouts/003_BIO_F211.pdf",
+    "course_code": "BIO F211",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/006_BIO_F214.pdf",
+    "course_code": "BIO F214",
+    "field": "course_code",
+    "reason": "handout text says 'BBIIOO FF221144' but filename implies 'BIO F214'"
+  },
+  {
+    "file": "handouts/017_BIO_G523.pdf",
+    "course_code": "BIO G523",
+    "field": "course_code",
+    "reason": "handout text says 'BIO F212' but filename implies 'BIO G523'"
+  },
+  {
+    "file": "handouts/025_BIO_U101.pdf",
+    "course_code": "BIO U101",
+    "field": "course_code",
+    "reason": "handout text says 'BIO F101' but filename implies 'BIO U101'"
+  },
+  {
+    "file": "handouts/026_BIO_U320.pdf",
+    "course_code": "BIO U320",
+    "field": "course_code",
+    "reason": "handout text says 'BIO F421' but filename implies 'BIO U320'"
+  },
+  {
+    "file": "handouts/032_BITS_F101-1.pdf",
+    "course_code": "BITS F101-1",
+    "field": "course_code",
+    "reason": "handout text says 'SW E101' but filename implies 'BITS F101-1'"
+  },
+  {
+    "file": "handouts/032_BITS_F101-1.pdf",
+    "course_code": "BITS F101-1",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/038_BITS_F218.pdf",
+    "course_code": "BITS F218",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/046_BITS_F364.pdf",
+    "course_code": "BITS F364",
+    "field": "makeup_policy",
+    "reason": "heading found but no text followed before the next section"
+  },
+  {
+    "file": "handouts/048_BITS_F415.pdf",
+    "course_code": "BITS F415",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F415/ BITS U415' but filename implies 'BITS F415'"
+  },
+  {
+    "file": "handouts/051_BITS_F429.pdf",
+    "course_code": "BITS F429",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F 429' but filename implies 'BITS F429'"
+  },
+  {
+    "file": "handouts/052_BITS_F431.pdf",
+    "course_code": "BITS F431",
+    "field": "course_code",
+    "reason": "handout text says '[BITS F431]' but filename implies 'BITS F431'"
+  },
+  {
+    "file": "handouts/053_BITS_F437.pdf",
+    "course_code": "BITS F437",
+    "field": "attendance_policy",
+    "reason": "heading found but no text followed before the next section"
+  },
+  {
+    "file": "handouts/055_BITS_F462.pdf",
+    "course_code": "BITS F462",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F462/BITS U462' but filename implies 'BITS F462'"
+  },
+  {
+    "file": "handouts/057_BITS_F464.pdf",
+    "course_code": "BITS F464",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F464 / CS U311' but filename implies 'BITS F464'"
+  },
+  {
+    "file": "handouts/057_BITS_F464.pdf",
+    "course_code": "BITS F464",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/059_BITS_F468.pdf",
+    "course_code": "BITS F468",
+    "field": "course_code",
+    "reason": "handout text says 'ECON F415 & BITS F468' but filename implies 'BITS F468'"
+  },
+  {
+    "file": "handouts/059_BITS_F468.pdf",
+    "course_code": "BITS F468",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/061_BITS_F482.pdf",
+    "course_code": "BITS F482",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F482/ECON F414' but filename implies 'BITS F482'"
+  },
+  {
+    "file": "handouts/062_BITS_F494.pdf",
+    "course_code": "BITS F494",
+    "field": "course_code",
+    "reason": "handout text says 'CE F434/BITS F494' but filename implies 'BITS F494'"
+  },
+  {
+    "file": "handouts/064_BITS_G540.pdf",
+    "course_code": "BITS G540",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/065_BITS_G562T.pdf",
+    "course_code": "BITS G562T",
+    "field": "course_code",
+    "reason": "handout text says 'BITS G629T/ BITS G561T/ BITS G562T/ BITS G563T/' but filename implies 'BITS G562T'"
+  },
+  {
+    "file": "handouts/066_BITS_G563T.pdf",
+    "course_code": "BITS G563T",
+    "field": "course_code",
+    "reason": "handout text says 'BITS G629T/ BITS G561T/ BITS G562T/ BITS G563T/' but filename implies 'BITS G563T'"
+  },
+  {
+    "file": "handouts/067_BITS_G564T.pdf",
+    "course_code": "BITS G564T",
+    "field": "course_code",
+    "reason": "handout text says 'BITS G629T/ BITS G561T/ BITS G562T/ BITS G563T/' but filename implies 'BITS G564T'"
+  },
+  {
+    "file": "handouts/072_BITS_U415.pdf",
+    "course_code": "BITS U415",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F415/ BITS U415' but filename implies 'BITS U415'"
+  },
+  {
+    "file": "handouts/073_BITS_U462.pdf",
+    "course_code": "BITS U462",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F462/BITS U462' but filename implies 'BITS U462'"
+  },
+  {
+    "file": "handouts/074_BITS_U467.pdf",
+    "course_code": "BITS U467",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F467 / BITS U467' but filename implies 'BITS U467'"
+  },
+  {
+    "file": "handouts/079_CE_F312.pdf",
+    "course_code": "CE F312",
+    "field": "evaluation_scheme",
+    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
+  },
+  {
+    "file": "handouts/085_CE_F434.pdf",
+    "course_code": "CE F434",
+    "field": "course_code",
+    "reason": "handout text says 'CE F434/BITS F494' but filename implies 'CE F434'"
+  },
+  {
+    "file": "handouts/101_CE_G551.pdf",
+    "course_code": "CE G551",
+    "field": "course_code",
+    "reason": "handout text says 'CEG551' but filename implies 'CE G551'"
+  },
+  {
+    "file": "handouts/102_CE_G551.pdf",
+    "course_code": "CE G551",
+    "field": "course_code",
+    "reason": "handout text says 'CEG551' but filename implies 'CE G551'"
+  },
+  {
+    "file": "handouts/111_CE_G616.pdf",
+    "course_code": "CE G616",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/112_CE_G616.pdf",
+    "course_code": "CE G616",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/116_CE_U434.pdf",
+    "course_code": "CE U434",
+    "field": "course_code",
+    "reason": "handout text says 'CE F434/BITS F494' but filename implies 'CE U434'"
+  },
+  {
+    "file": "handouts/122_CHE_F311.pdf",
+    "course_code": "CHE F311",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/123_CHE_F312.pdf",
+    "course_code": "CHE F312",
+    "field": "course_code",
+    "reason": "handout text says 'CHE F 312' but filename implies 'CHE F312'"
+  },
+  {
+    "file": "handouts/159_CHEM_U110.pdf",
+    "course_code": "CHEM U110",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/160_CS_F111.pdf",
+    "course_code": "CS F111",
+    "field": "course_code",
+    "reason": "handout text says 'CS U111' but filename implies 'CS F111'"
+  },
+  {
+    "file": "handouts/161_CS_F213.pdf",
+    "course_code": "CS F213",
+    "field": "course_code",
+    "reason": "handout text says 'CS F213 / MAC F212' but filename implies 'CS F213'"
+  },
+  {
+    "file": "handouts/162_CS_F215.pdf",
+    "course_code": "CS F215",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / ECE / INSTR / CS F342' but filename implies 'CS F215'"
+  },
+  {
+    "file": "handouts/166_CS_F320.pdf",
+    "course_code": "CS F320",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/170_CS_F407.pdf",
+    "course_code": "CS F407",
+    "field": "course_code",
+    "reason": "handout text says 'CS F407/ CS U407' but filename implies 'CS F407'"
+  },
+  {
+    "file": "handouts/175_CS_F469.pdf",
+    "course_code": "CS F469",
+    "field": "course_code",
+    "reason": "handout text says 'CS F469 / CS U469' but filename implies 'CS F469'"
+  },
+  {
+    "file": "handouts/180_CS_G527.pdf",
+    "course_code": "CS G527",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/180_CS_G527.pdf",
+    "course_code": "CS G527",
+    "field": "course_code",
+    "reason": "handout text says '& Title : CS/SS G 527 Cloud Computing' but filename implies 'CS G527'"
+  },
+  {
+    "file": "handouts/181_CS_G527.pdf",
+    "course_code": "CS G527",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/181_CS_G527.pdf",
+    "course_code": "CS G527",
+    "field": "course_code",
+    "reason": "handout text says '& Title : CS/SS G 527 Cloud Computing' but filename implies 'CS G527'"
+  },
+  {
+    "file": "handouts/182_CS_G553.pdf",
+    "course_code": "CS G553",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/183_CS_G553.pdf",
+    "course_code": "CS G553",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/190_CS_U311.pdf",
+    "course_code": "CS U311",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F464 / CS U311' but filename implies 'CS U311'"
+  },
+  {
+    "file": "handouts/190_CS_U311.pdf",
+    "course_code": "CS U311",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/191_CS_U407.pdf",
+    "course_code": "CS U407",
+    "field": "course_code",
+    "reason": "handout text says 'CS F407/ CS U407' but filename implies 'CS U407'"
+  },
+  {
+    "file": "handouts/193_CS_U429.pdf",
+    "course_code": "CS U429",
+    "field": "course_code",
+    "reason": "handout text says 'CS F429' but filename implies 'CS U429'"
+  },
+  {
+    "file": "handouts/194_CS_U446.pdf",
+    "course_code": "CS U446",
+    "field": "course_code",
+    "reason": "handout text says 'CS F446' but filename implies 'CS U446'"
+  },
+  {
+    "file": "handouts/195_CS_U469.pdf",
+    "course_code": "CS U469",
+    "field": "course_code",
+    "reason": "handout text says 'CS F469 / CS U469' but filename implies 'CS U469'"
+  },
+  {
+    "file": "handouts/198_DE_G531.pdf",
+    "course_code": "DE G531",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/199_DE_G531.pdf",
+    "course_code": "DE G531",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/202_DE_G612.pdf",
+    "course_code": "DE G612",
+    "field": "course_code",
+    "reason": "handout text says 'DEZG612' but filename implies 'DE G612'"
+  },
+  {
+    "file": "handouts/203_ECE_F211.pdf",
+    "course_code": "ECE F211",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F211/ECE F211/INSTR F211' but filename implies 'ECE F211'"
+  },
+  {
+    "file": "handouts/204_ECE_F214.pdf",
+    "course_code": "ECE F214",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F214/INSTR F214/ECE F214/SNS F242' but filename implies 'ECE F214'"
+  },
+  {
+    "file": "handouts/205_ECE_F215.pdf",
+    "course_code": "ECE F215",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / ECE / INSTR / CS F342' but filename implies 'ECE F215'"
+  },
+  {
+    "file": "handouts/206_ECE_F266.pdf",
+    "course_code": "ECE F266",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F266/ INSTR F266/ECE F266' but filename implies 'ECE F266'"
+  },
+  {
+    "file": "handouts/206_ECE_F266.pdf",
+    "course_code": "ECE F266",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/210_ECE_F366.pdf",
+    "course_code": "ECE F366",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F366, F367' but filename implies 'ECE F366'"
+  },
+  {
+    "file": "handouts/210_ECE_F366.pdf",
+    "course_code": "ECE F366",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/211_ECE_F367.pdf",
+    "course_code": "ECE F367",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F366, F367' but filename implies 'ECE F367'"
+  },
+  {
+    "file": "handouts/211_ECE_F367.pdf",
+    "course_code": "ECE F367",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/212_ECE_F376.pdf",
+    "course_code": "ECE F376",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F376, F377' but filename implies 'ECE F376'"
+  },
+  {
+    "file": "handouts/212_ECE_F376.pdf",
+    "course_code": "ECE F376",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/213_ECE_F377.pdf",
+    "course_code": "ECE F377",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F376, F377' but filename implies 'ECE F377'"
+  },
+  {
+    "file": "handouts/213_ECE_F377.pdf",
+    "course_code": "ECE F377",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/214_ECE_F434.pdf",
+    "course_code": "ECE F434",
+    "field": "course_code",
+    "reason": "handout text says 'ECE / EEE F434' but filename implies 'ECE F434'"
+  },
+  {
+    "file": "handouts/215_ECE_F491.pdf",
+    "course_code": "ECE F491",
+    "field": "course_code",
+    "reason": "handout text says 'EEE/ INSTR/ECE F491,' but filename implies 'ECE F491'"
+  },
+  {
+    "file": "handouts/215_ECE_F491.pdf",
+    "course_code": "ECE F491",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/217_ECON_F212.pdf",
+    "course_code": "ECON F212",
+    "field": "course_code",
+    "reason": "handout text says '[ ECON F212/FIN F212]' but filename implies 'ECON F212'"
+  },
+  {
+    "file": "handouts/223_ECON_F315.pdf",
+    "course_code": "ECON F315",
+    "field": "course_code",
+    "reason": "handout text says 'ECON F 315 / FIN F 315' but filename implies 'ECON F315'"
+  },
+  {
+    "file": "handouts/224_ECON_F354.pdf",
+    "course_code": "ECON F354",
+    "field": "course_code",
+    "reason": "handout text says 'ECON F354 / FIN F311' but filename implies 'ECON F354'"
+  },
+  {
+    "file": "handouts/226_ECON_F412.pdf",
+    "course_code": "ECON F412",
+    "field": "course_code",
+    "reason": "handout text says 'ECON F 412 / FIN F 313' but filename implies 'ECON F412'"
+  },
+  {
+    "file": "handouts/228_ECON_F414.pdf",
+    "course_code": "ECON F414",
+    "field": "course_code",
+    "reason": "handout text says 'BITS F482/ECON F414' but filename implies 'ECON F414'"
+  },
+  {
+    "file": "handouts/229_ECON_F415.pdf",
+    "course_code": "ECON F415",
+    "field": "course_code",
+    "reason": "handout text says 'ECON F415 & BITS F468' but filename implies 'ECON F415'"
+  },
+  {
+    "file": "handouts/229_ECON_F415.pdf",
+    "course_code": "ECON F415",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/230_ECON_F417.pdf",
+    "course_code": "ECON F417",
+    "field": "course_code",
+    "reason": "handout text says 'ECON F417/FIN F413' but filename implies 'ECON F417'"
+  },
+  {
+    "file": "handouts/231_EE_G501.pdf",
+    "course_code": "EE G501",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/232_EE_G501.pdf",
+    "course_code": "EE G501",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/236_EEE_F211.pdf",
+    "course_code": "EEE F211",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F211/ECE F211/INSTR F211' but filename implies 'EEE F211'"
+  },
+  {
+    "file": "handouts/237_EEE_F214.pdf",
+    "course_code": "EEE F214",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F214/INSTR F214/ECE F214/SNS F242' but filename implies 'EEE F214'"
+  },
+  {
+    "file": "handouts/238_EEE_F215.pdf",
+    "course_code": "EEE F215",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / ECE / INSTR / CS F342' but filename implies 'EEE F215'"
+  },
+  {
+    "file": "handouts/239_EEE_F244.pdf",
+    "course_code": "EEE F244",
+    "field": "course_code",
+    "reason": "handout text says 'EEE/INSTR/ ECE F244' but filename implies 'EEE F244'"
+  },
+  {
+    "file": "handouts/240_EEE_F266.pdf",
+    "course_code": "EEE F266",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F266/ INSTR F266/ECE F266' but filename implies 'EEE F266'"
+  },
+  {
+    "file": "handouts/240_EEE_F266.pdf",
+    "course_code": "EEE F266",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/242_EEE_F313.pdf",
+    "course_code": "EEE F313",
+    "field": "course_code",
+    "reason": "handout text says 'EEE/ INSTR F313' but filename implies 'EEE F313'"
+  },
+  {
+    "file": "handouts/245_EEE_F366.pdf",
+    "course_code": "EEE F366",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F366, F367' but filename implies 'EEE F366'"
+  },
+  {
+    "file": "handouts/245_EEE_F366.pdf",
+    "course_code": "EEE F366",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/246_EEE_F367.pdf",
+    "course_code": "EEE F367",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F366, F367' but filename implies 'EEE F367'"
+  },
+  {
+    "file": "handouts/246_EEE_F367.pdf",
+    "course_code": "EEE F367",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/247_EEE_F376.pdf",
+    "course_code": "EEE F376",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F376, F377' but filename implies 'EEE F376'"
+  },
+  {
+    "file": "handouts/247_EEE_F376.pdf",
+    "course_code": "EEE F376",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/248_EEE_F377.pdf",
+    "course_code": "EEE F377",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F376, F377' but filename implies 'EEE F377'"
+  },
+  {
+    "file": "handouts/248_EEE_F377.pdf",
+    "course_code": "EEE F377",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/250_EEE_F422.pdf",
+    "course_code": "EEE F422",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F 422' but filename implies 'EEE F422'"
+  },
+  {
+    "file": "handouts/252_EEE_F434.pdf",
+    "course_code": "EEE F434",
+    "field": "course_code",
+    "reason": "handout text says 'ECE / EEE F434' but filename implies 'EEE F434'"
+  },
+  {
+    "file": "handouts/255_EEE_F472.pdf",
+    "course_code": "EEE F472",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/256_EEE_F491.pdf",
+    "course_code": "EEE F491",
+    "field": "course_code",
+    "reason": "handout text says 'EEE/ INSTR/ECE F491,' but filename implies 'EEE F491'"
+  },
+  {
+    "file": "handouts/256_EEE_F491.pdf",
+    "course_code": "EEE F491",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/261_EEE_G513.pdf",
+    "course_code": "EEE G513",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/262_EEE_G513.pdf",
+    "course_code": "EEE G513",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/265_EEE_G516.pdf",
+    "course_code": "EEE G516",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/266_EEE_G516.pdf",
+    "course_code": "EEE G516",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/267_EEE_G539.pdf",
+    "course_code": "EEE G539",
+    "field": "course_code",
+    "reason": "handout text says 'EEE G539 (3 2 5)' but filename implies 'EEE G539'"
+  },
+  {
+    "file": "handouts/268_EEE_G549.pdf",
+    "course_code": "EEE G549",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/268_EEE_G549.pdf",
+    "course_code": "EEE G549",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/269_EEE_G554.pdf",
+    "course_code": "EEE G554",
+    "field": "course_code",
+    "reason": "handout text says 'Soft Switching Converter Technologies' but filename implies 'EEE G554'"
+  },
+  {
+    "file": "handouts/269_EEE_G554.pdf",
+    "course_code": "EEE G554",
+    "field": "attendance_policy",
+    "reason": "extracted text looks too short, may be cut off: 'NA'"
+  },
+  {
+    "file": "handouts/270_EEE_G554.pdf",
+    "course_code": "EEE G554",
+    "field": "course_code",
+    "reason": "handout text says 'Soft Switching Converter Technologies' but filename implies 'EEE G554'"
+  },
+  {
+    "file": "handouts/270_EEE_G554.pdf",
+    "course_code": "EEE G554",
+    "field": "attendance_policy",
+    "reason": "extracted text looks too short, may be cut off: 'NA'"
+  },
+  {
+    "file": "handouts/284_EEE_U422.pdf",
+    "course_code": "EEE U422",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F 422' but filename implies 'EEE U422'"
+  },
+  {
+    "file": "handouts/287_FIN_F212.pdf",
+    "course_code": "FIN F212",
+    "field": "course_code",
+    "reason": "handout text says '[ ECON F212/FIN F212]' but filename implies 'FIN F212'"
+  },
+  {
+    "file": "handouts/288_FIN_F313.pdf",
+    "course_code": "FIN F313",
+    "field": "course_code",
+    "reason": "handout text says 'ECON F 412 / FIN F 313' but filename implies 'FIN F313'"
+  },
+  {
+    "file": "handouts/289_FIN_F315.pdf",
+    "course_code": "FIN F315",
+    "field": "course_code",
+    "reason": "handout text says 'ECON F 315 / FIN F 315' but filename implies 'FIN F315'"
+  },
+  {
+    "file": "handouts/292_GS_F212.pdf",
+    "course_code": "GS F212",
+    "field": "course_code",
+    "reason": "handout text says 'GS F 212' but filename implies 'GS F212'"
+  },
+  {
+    "file": "handouts/293_GS_F213.pdf",
+    "course_code": "GS F213",
+    "field": "course_code",
+    "reason": "handout text says 'GSF213' but filename implies 'GS F213'"
+  },
+  {
+    "file": "handouts/295_GS_F222.pdf",
+    "course_code": "GS F222",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/300_GS_F241.pdf",
+    "course_code": "GS F241",
+    "field": "course_code",
+    "reason": "handout text says 'ENGL C261 GS F241' but filename implies 'GS F241'"
+  },
+  {
+    "file": "handouts/301_GS_F243.pdf",
+    "course_code": "GS F243",
+    "field": "course_code",
+    "reason": "handout text says 'GSF243' but filename implies 'GS F243'"
+  },
+  {
+    "file": "handouts/303_GS_F266.pdf",
+    "course_code": "GS F266",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/304_GS_F311.pdf",
+    "course_code": "GS F311",
+    "field": "course_code",
+    "reason": "handout text says 'BITS C484/GSF311' but filename implies 'GS F311'"
+  },
+  {
+    "file": "handouts/309_GS_F331.pdf",
+    "course_code": "GS F331",
+    "field": "course_code",
+    "reason": "handout text says 'GSF 331' but filename implies 'GS F331'"
+  },
+  {
+    "file": "handouts/311_GS_F344.pdf",
+    "course_code": "GS F344",
+    "field": "attendance_policy",
+    "reason": "heading found but no text followed before the next section"
+  },
+  {
+    "file": "handouts/312_GS_F366.pdf",
+    "course_code": "GS F366",
+    "field": "course_code",
+    "reason": "handout text says 'GS F F366' but filename implies 'GS F366'"
+  },
+  {
+    "file": "handouts/312_GS_F366.pdf",
+    "course_code": "GS F366",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/313_GS_F367.pdf",
+    "course_code": "GS F367",
+    "field": "course_code",
+    "reason": "handout text says 'GS F F367' but filename implies 'GS F367'"
+  },
+  {
+    "file": "handouts/313_GS_F367.pdf",
+    "course_code": "GS F367",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/314_GS_F376.pdf",
+    "course_code": "GS F376",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/314_GS_F376.pdf",
+    "course_code": "GS F376",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/315_GS_F377.pdf",
+    "course_code": "GS F377",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/315_GS_F377.pdf",
+    "course_code": "GS F377",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/316_GS_F491.pdf",
+    "course_code": "GS F491",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/316_GS_F491.pdf",
+    "course_code": "GS F491",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/319_HSS_F223.pdf",
+    "course_code": "HSS F223",
+    "field": "course_code",
+    "reason": "handout text says 'HSS F 223' but filename implies 'HSS F223'"
+  },
+  {
+    "file": "handouts/320_HSS_F227.pdf",
+    "course_code": "HSS F227",
+    "field": "course_code",
+    "reason": "handout text says 'HSS F 227' but filename implies 'HSS F227'"
+  },
+  {
+    "file": "handouts/322_HSS_F266.pdf",
+    "course_code": "HSS F266",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/322_HSS_F266.pdf",
+    "course_code": "HSS F266",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/322_HSS_F266.pdf",
+    "course_code": "HSS F266",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/325_HSS_F324.pdf",
+    "course_code": "HSS F324",
+    "field": "course_code",
+    "reason": "handout text says 'HSSF324' but filename implies 'HSS F324'"
+  },
+  {
+    "file": "handouts/327_HSS_F329.pdf",
+    "course_code": "HSS F329",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/331_HSS_F349.pdf",
+    "course_code": "HSS F349",
+    "field": "course_code",
+    "reason": "handout text says 'HSSF349' but filename implies 'HSS F349'"
+  },
+  {
+    "file": "handouts/332_HSS_U141.pdf",
+    "course_code": "HSS U141",
+    "field": "course_code",
+    "reason": "handout text says 'HSSU 141' but filename implies 'HSS U141'"
+  },
+  {
+    "file": "handouts/333_INSTR_F211.pdf",
+    "course_code": "INSTR F211",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F211/ECE F211/INSTR F211' but filename implies 'INSTR F211'"
+  },
+  {
+    "file": "handouts/334_INSTR_F214.pdf",
+    "course_code": "INSTR F214",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F214/INSTR F214/ECE F214/SNS F242' but filename implies 'INSTR F214'"
+  },
+  {
+    "file": "handouts/335_INSTR_F215.pdf",
+    "course_code": "INSTR F215",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / ECE / INSTR / CS F342' but filename implies 'INSTR F215'"
+  },
+  {
+    "file": "handouts/336_INSTR_F266.pdf",
+    "course_code": "INSTR F266",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F266/ INSTR F266/ECE F266' but filename implies 'INSTR F266'"
+  },
+  {
+    "file": "handouts/336_INSTR_F266.pdf",
+    "course_code": "INSTR F266",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/339_INSTR_F313.pdf",
+    "course_code": "INSTR F313",
+    "field": "course_code",
+    "reason": "handout text says 'EEE/ INSTR F313' but filename implies 'INSTR F313'"
+  },
+  {
+    "file": "handouts/340_INSTR_F366.pdf",
+    "course_code": "INSTR F366",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F366, F367' but filename implies 'INSTR F366'"
+  },
+  {
+    "file": "handouts/340_INSTR_F366.pdf",
+    "course_code": "INSTR F366",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/341_INSTR_F367.pdf",
+    "course_code": "INSTR F367",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F366, F367' but filename implies 'INSTR F367'"
+  },
+  {
+    "file": "handouts/341_INSTR_F367.pdf",
+    "course_code": "INSTR F367",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/342_INSTR_F376.pdf",
+    "course_code": "INSTR F376",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F376, F377' but filename implies 'INSTR F376'"
+  },
+  {
+    "file": "handouts/342_INSTR_F376.pdf",
+    "course_code": "INSTR F376",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/343_INSTR_F377.pdf",
+    "course_code": "INSTR F377",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F376, F377' but filename implies 'INSTR F377'"
+  },
+  {
+    "file": "handouts/343_INSTR_F377.pdf",
+    "course_code": "INSTR F377",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/344_INSTR_F491.pdf",
+    "course_code": "INSTR F491",
+    "field": "course_code",
+    "reason": "handout text says 'EEE / INSTR/ECE F366, F367' but filename implies 'INSTR F491'"
+  },
+  {
+    "file": "handouts/344_INSTR_F491.pdf",
+    "course_code": "INSTR F491",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/346_MAC_F212.pdf",
+    "course_code": "MAC F212",
+    "field": "course_code",
+    "reason": "handout text says 'CS F213 / MAC F212' but filename implies 'MAC F212'"
+  },
+  {
+    "file": "handouts/348_MAC_F214.pdf",
+    "course_code": "MAC F214",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/348_MAC_F214.pdf",
+    "course_code": "MAC F214",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/348_MAC_F214.pdf",
+    "course_code": "MAC F214",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/348_MAC_F214.pdf",
+    "course_code": "MAC F214",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/351_MAC_F312.pdf",
+    "course_code": "MAC F312",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/354_MAC_F367.pdf",
+    "course_code": "MAC F367",
+    "field": "course_code",
+    "reason": "handout text says 'MATH F367' but filename implies 'MAC F367'"
+  },
+  {
+    "file": "handouts/362_MATH_F214.pdf",
+    "course_code": "MATH F214",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/362_MATH_F214.pdf",
+    "course_code": "MATH F214",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/362_MATH_F214.pdf",
+    "course_code": "MATH F214",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/362_MATH_F214.pdf",
+    "course_code": "MATH F214",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/364_MATH_F266.pdf",
+    "course_code": "MATH F266",
+    "field": "course_code",
+    "reason": "handout text says 'MATHF266' but filename implies 'MATH F266'"
+  },
+  {
+    "file": "handouts/371_MATH_F421.pdf",
+    "course_code": "MATH F421",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/377_ME_F211.pdf",
+    "course_code": "ME F211",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/377_ME_F211.pdf",
+    "course_code": "ME F211",
+    "field": "course_code",
+    "reason": "handout text says 'ME F211/MF F211' but filename implies 'ME F211'"
+  },
+  {
+    "file": "handouts/378_ME_F212.pdf",
+    "course_code": "ME F212",
+    "field": "course_code",
+    "reason": "handout text says 'MEF 212' but filename implies 'ME F212'"
+  },
+  {
+    "file": "handouts/379_ME_F216.pdf",
+    "course_code": "ME F216",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/379_ME_F216.pdf",
+    "course_code": "ME F216",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/381_ME_F314.pdf",
+    "course_code": "ME F314",
+    "field": "course_code",
+    "reason": "handout text says 'ME F314 / MF F314' but filename implies 'ME F314'"
+  },
+  {
+    "file": "handouts/382_ME_F315.pdf",
+    "course_code": "ME F315",
+    "field": "course_code",
+    "reason": "handout text says '[ME F315]' but filename implies 'ME F315'"
+  },
+  {
+    "file": "handouts/385_ME_F321.pdf",
+    "course_code": "ME F321",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/388_ME_F415.pdf",
+    "course_code": "ME F415",
+    "field": "evaluation_scheme",
+    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
+  },
+  {
+    "file": "handouts/391_ME_F428.pdf",
+    "course_code": "ME F428",
+    "field": "course_code",
+    "reason": "handout text says 'ME F428/ ME U428' but filename implies 'ME F428'"
+  },
+  {
+    "file": "handouts/391_ME_F428.pdf",
+    "course_code": "ME F428",
+    "field": "evaluation_scheme",
+    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
+  },
+  {
+    "file": "handouts/392_ME_F443.pdf",
+    "course_code": "ME F443",
+    "field": "course_code",
+    "reason": "handout text says 'ME F443/ ME U443' but filename implies 'ME F443'"
+  },
+  {
+    "file": "handouts/400_ME_G545.pdf",
+    "course_code": "ME G545",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/400_ME_G545.pdf",
+    "course_code": "ME G545",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/401_ME_G545.pdf",
+    "course_code": "ME G545",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/401_ME_G545.pdf",
+    "course_code": "ME G545",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/409_ME_U428.pdf",
+    "course_code": "ME U428",
+    "field": "course_code",
+    "reason": "handout text says 'ME F428/ ME U428' but filename implies 'ME U428'"
+  },
+  {
+    "file": "handouts/409_ME_U428.pdf",
+    "course_code": "ME U428",
+    "field": "evaluation_scheme",
+    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
+  },
+  {
+    "file": "handouts/410_ME_U443.pdf",
+    "course_code": "ME U443",
+    "field": "course_code",
+    "reason": "handout text says 'ME F443/ ME U443' but filename implies 'ME U443'"
+  },
+  {
+    "file": "handouts/419_MEL_G628.pdf",
+    "course_code": "MEL G628",
+    "field": "course_code",
+    "reason": "handout text says 'MEL G 628' but filename implies 'MEL G628'"
+  },
+  {
+    "file": "handouts/424_MF_F211.pdf",
+    "course_code": "MF F211",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/424_MF_F211.pdf",
+    "course_code": "MF F211",
+    "field": "course_code",
+    "reason": "handout text says 'ME F211/MF F211' but filename implies 'MF F211'"
+  },
+  {
+    "file": "handouts/425_MF_F216.pdf",
+    "course_code": "MF F216",
+    "field": "course_title",
+    "reason": "no 'Course Title' line found in the header"
+  },
+  {
+    "file": "handouts/425_MF_F216.pdf",
+    "course_code": "MF F216",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/427_MF_F218.pdf",
+    "course_code": "MF F218",
+    "field": "course_code",
+    "reason": "handout text says 'MF F218, Unit: 3-1-4' but filename implies 'MF F218'"
+  },
+  {
+    "file": "handouts/428_MF_F314.pdf",
+    "course_code": "MF F314",
+    "field": "course_code",
+    "reason": "handout text says 'ME F314 / MF F314' but filename implies 'MF F314'"
+  },
+  {
+    "file": "handouts/443_MPBA_G506.pdf",
+    "course_code": "MPBA G506",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/444_MPBA_G506.pdf",
+    "course_code": "MPBA G506",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/452_MPBA_G520.pdf",
+    "course_code": "MPBA G520",
+    "field": "course_code",
+    "reason": "handout text says 'MPBA G521/BITS F455' but filename implies 'MPBA G520'"
+  },
+  {
+    "file": "handouts/453_MPBA_G520.pdf",
+    "course_code": "MPBA G520",
+    "field": "course_code",
+    "reason": "handout text says 'MPBA G521/BITS F455' but filename implies 'MPBA G520'"
+  },
+  {
+    "file": "handouts/454_MPBA_G523.pdf",
+    "course_code": "MPBA G523",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/454_MPBA_G523.pdf",
+    "course_code": "MPBA G523",
+    "field": "course_code",
+    "reason": "handout text says 'MPBA 523' but filename implies 'MPBA G523'"
+  },
+  {
+    "file": "handouts/455_MPBA_G523.pdf",
+    "course_code": "MPBA G523",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/455_MPBA_G523.pdf",
+    "course_code": "MPBA G523",
+    "field": "course_code",
+    "reason": "handout text says 'MPBA 523' but filename implies 'MPBA G523'"
+  },
+  {
+    "file": "handouts/456_MPBA_G524.pdf",
+    "course_code": "MPBA G524",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/457_MPBA_G524.pdf",
+    "course_code": "MPBA G524",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/459_MPBA_G529.pdf",
+    "course_code": "MPBA G529",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/460_MPBA_G529.pdf",
+    "course_code": "MPBA G529",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/473_PHA_F311.pdf",
+    "course_code": "PHA F311",
+    "field": "course_code",
+    "reason": "handout text says 'PHA F 311' but filename implies 'PHA F311'"
+  },
+  {
+    "file": "handouts/477_PHA_F413.pdf",
+    "course_code": "PHA F413",
+    "field": "course_code",
+    "reason": "handout text says 'PHAF413' but filename implies 'PHA F413'"
+  },
+  {
+    "file": "handouts/478_PHA_F415.pdf",
+    "course_code": "PHA F415",
+    "field": "course_code",
+    "reason": "handout text says 'PHA F 415' but filename implies 'PHA F415'"
+  },
+  {
+    "file": "handouts/478_PHA_F415.pdf",
+    "course_code": "PHA F415",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/481_PHA_G534.pdf",
+    "course_code": "PHA G534",
+    "field": "course_code",
+    "reason": "handout text says 'PHA G 534' but filename implies 'PHA G534'"
+  },
+  {
+    "file": "handouts/482_PHA_G534.pdf",
+    "course_code": "PHA G534",
+    "field": "course_code",
+    "reason": "handout text says 'PHA G 534' but filename implies 'PHA G534'"
+  },
+  {
+    "file": "handouts/493_PHA_G612.pdf",
+    "course_code": "PHA G612",
+    "field": "course_code",
+    "reason": "handout text says 'PHA G 612' but filename implies 'PHA G612'"
+  },
+  {
+    "file": "handouts/494_PHA_G612.pdf",
+    "course_code": "PHA G612",
+    "field": "course_code",
+    "reason": "handout text says 'PHA G 612' but filename implies 'PHA G612'"
+  },
+  {
+    "file": "handouts/498_PHA_G617.pdf",
+    "course_code": "PHA G617",
+    "field": "course_code",
+    "reason": "handout text says 'PHA G 617' but filename implies 'PHA G617'"
+  },
+  {
+    "file": "handouts/505_PHA_G624.pdf",
+    "course_code": "PHA G624",
+    "field": "course_code",
+    "reason": "handout text says 'PHA G 624' but filename implies 'PHA G624'"
+  },
+  {
+    "file": "handouts/506_PHA_G624.pdf",
+    "course_code": "PHA G624",
+    "field": "course_code",
+    "reason": "handout text says 'PHA G 624' but filename implies 'PHA G624'"
+  },
+  {
+    "file": "handouts/510_PHY_F213.pdf",
+    "course_code": "PHY F213",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/511_PHY_F214.pdf",
+    "course_code": "PHY F214",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/523_PHY_U102.pdf",
+    "course_code": "PHY U102",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "handouts/524_PHY_U110.pdf",
+    "course_code": "PHY U110",
+    "field": "topics",
+    "reason": "no description/scope/objective heading found"
+  },
+  {
+    "file": "handouts/535_SNS_F242.pdf",
+    "course_code": "SNS F242",
+    "field": "course_code",
+    "reason": "handout text says 'EEE F214/INSTR F214/ECE F214/SNS F242' but filename implies 'SNS F242'"
+  },
+  {
+    "file": "handouts/536_SS_G514.pdf",
+    "course_code": "SS G514",
+    "field": "course_code",
+    "reason": "handout text says 'CS G514 / SS G514' but filename implies 'SS G514'"
+  },
+  {
+    "file": "handouts/537_SS_G514.pdf",
+    "course_code": "SS G514",
+    "field": "course_code",
+    "reason": "handout text says 'CS G514 / SS G514' but filename implies 'SS G514'"
+  },
+  {
+    "file": "handouts/540_SW_E101.pdf",
+    "course_code": "SW E101",
+    "field": "evaluation_scheme",
+    "reason": "no evaluation scheme table found"
+  }
+]
