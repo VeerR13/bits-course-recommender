@@ -1,79 +1,135 @@
 {
   "general_institute_requirement": [
     {
-      "category": "Category",
-      "units_required": "Number of Units Required",
-      "courses_required": "Number of Courses Required"
-    },
-    {
       "category": "Humanities Electives",
-      "units_required": "8",
-      "courses_required": "3"
+      "min_units": 8,
+      "max_units": 8,
+      "min_courses": 3,
+      "max_courses": 3,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
       "category": "Science Foundation",
-      "units_required": "9",
-      "courses_required": "3"
+      "min_units": 9,
+      "max_units": 9,
+      "min_courses": 3,
+      "max_courses": 3,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
       "category": "Mathematics Foundation",
-      "units_required": "12",
-      "courses_required": "4"
+      "min_units": 12,
+      "max_units": 12,
+      "min_courses": 4,
+      "max_courses": 4,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
       "category": "Engineering Foundation",
-      "units_required": "6",
-      "courses_required": "2"
+      "min_units": 6,
+      "max_units": 6,
+      "min_courses": 2,
+      "max_courses": 2,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
       "category": "Technical Arts",
-      "units_required": "10",
-      "courses_required": "4"
+      "min_units": 10,
+      "max_units": 10,
+      "min_courses": 4,
+      "max_courses": 4,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
       "category": "General Awareness / Professional Courses",
-      "units_required": "6 to 9",
-      "courses_required": "3 to 6"
+      "min_units": 6,
+      "max_units": 9,
+      "min_courses": 3,
+      "max_courses": 6,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
-      "category": "Sub-Total",
-      "units_required": "51 to 54",
-      "courses_required": "19 to 22"
+      "category": "Discipline Core",
+      "min_units": 33,
+      "max_units": 48,
+      "min_courses": 10,
+      "max_courses": 16,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
-      "category": "Core",
-      "units_required": "33 to 48",
-      "courses_required": "10 to 16"
+      "category": "Discipline Elective",
+      "min_units": 12,
+      "max_units": 27,
+      "min_courses": 4,
+      "max_courses": 9,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
-      "category": "Elective",
-      "units_required": "12 to 27",
-      "courses_required": "4 to 9"
+      "category": "Open Electives",
+      "min_units": 15,
+      "max_units": 27,
+      "min_courses": 5,
+      "max_courses": 9,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
-      "category": "Sub-Total",
-      "units_required": "57 to 60",
-      "courses_required": "15 to 20"
-    },
-    {
-      "category": "(III) Open Electives",
-      "units_required": "15 to 27",
-      "courses_required": "5 to 9"
-    },
-    {
-      "category": "Course-work Sub-Total",
-      "units_required": "129 (min)",
-      "courses_required": "41 (min)"
-    },
-    {
-      "category": "(IV) PS-I and II OR Thesis",
-      "units_required": "25 OR 9 to 20",
-      "courses_required": "2 OR 1"
+      "category": "PS-I and II or Thesis",
+      "options": [
+        {
+          "min_units": 25,
+          "max_units": 25,
+          "min_courses": 2,
+          "max_courses": 2
+        },
+        {
+          "min_units": 9,
+          "max_units": 20,
+          "min_courses": 1,
+          "max_courses": 1
+        }
+      ],
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     },
     {
       "category": "Total",
-      "units_required": "144 (min)",
-      "courses_required": "42 (min)"
+      "min_units": 144,
+      "max_units": null,
+      "min_courses": 42,
+      "max_courses": null,
+      "source": {
+        "file": "bulletin.pdf",
+        "page": 209
+      }
     }
   ],
   "open_elective_rule": "Open Electives enable students to pursue courses that are not part of the discipline requirement nor part of the Humanities requirement. Normally any elective course will be treated as an Open Elective once the student's requirements under Discipline Electives and Humanities Electives have been accounted for. (Academic Regulations, page 9)",

@@ -182,6 +182,26 @@ def parse_discipline_courses():
     return parse_course_lines(lines)
 
 
+RENAME_CATEGORY = {
+    "Core": "Discipline Core",
+    "Elective": "Discipline Elective",
+    "(III) Open Electives": "Open Electives",
+}
+SKIP_CATEGORY = ("Category", "Sub-Total", "Course-work Sub-Total")
+GENERAL_REQ_SOURCE = {"file": "bulletin.pdf", "page": 209}
+
+
+# "6 to 9" -> (6, 9), "8" -> (8, 8), "129 (min)" -> (129, None) since "(min)" means no ceiling
+def parse_range(text):
+    is_min_only = "(min)" in text
+    text = text.replace("(min)", "").strip()
+    if " to " in text:
+        low, high = text.split(" to ")
+        return int(low.strip()), (None if is_min_only else int(high.strip()))
+    number = int(text.strip())
+    return number, (None if is_min_only else number)
+
+
 def parse_general_requirements():
     pdf = pdfplumber.open(BULLETIN_PATH)
     table = pdf.pages[208].extract_tables()[0]
@@ -191,10 +211,32 @@ def parse_general_requirements():
         if not name or units is None:
             continue
         name = " ".join(name.replace("\n", " ").split())
+        units = " ".join(units.replace("\n", " ").split())
+        num_courses = " ".join((num_courses or "").replace("\n", " ").split())
+
+        if name in SKIP_CATEGORY:
+            continue
+
+        # this row is an either/or (25 units PS, or 9 to 20 units thesis) not a single range
+        if "PS-I and II" in name:
+            options = []
+            for u, c in zip(units.split(" OR "), num_courses.split(" OR ")):
+                min_u, max_u = parse_range(u)
+                min_c, max_c = parse_range(c)
+                options.append({"min_units": min_u, "max_units": max_u, "min_courses": min_c, "max_courses": max_c})
+            rows.append({"category": "PS-I and II or Thesis", "options": options, "source": GENERAL_REQ_SOURCE})
+            continue
+
+        name = RENAME_CATEGORY.get(name, name)
+        min_units, max_units = parse_range(units)
+        min_courses, max_courses = parse_range(num_courses)
         rows.append({
             "category": name,
-            "units_required": units.replace("\n", " ") if units else None,
-            "courses_required": num_courses.replace("\n", " ") if num_courses else None,
+            "min_units": min_units,
+            "max_units": max_units,
+            "min_courses": min_courses,
+            "max_courses": max_courses,
+            "source": GENERAL_REQ_SOURCE,
         })
     return rows
 
