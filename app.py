@@ -179,7 +179,7 @@ if search:
     for r in results:
         title = str(r["course_code"]) + " - " + str(r["title"])
         if not r["handout_available"]:
-            title += "  ⚠️ no handout data"
+            title += "  [NO HANDOUT DATA]"
         with st.expander(title):
             category_line = "Category: " + r["category"]
             if r["category_inferred"]:
@@ -189,19 +189,18 @@ if search:
                 st.write("Satisfies your remaining requirement for: " + r["satisfies_requirement"])
             st.write("Units: " + str(r["units"]))
 
-            # a checkmark means the handout confirmed it, a question mark means we are guessing
-            # or have nothing at all - these must never look the same as a confirmed answer
+            # "verified" means the handout's own table says so - anything else is a guess or a
+            # blank, and must be labelled plainly so it never reads the same as a real answer
             for prop_name, label in PROPERTY_LABELS.items():
                 entry = r["properties"].get(prop_name)
                 if entry is None:
                     continue
                 if entry["verified"]:
-                    mark = "✅" if entry["value"] else "❌"
-                    st.write(mark + " " + label + ": " + str(entry["value"]) + " (verified from handout)")
+                    st.write(label + ": " + str(entry["value"]) + "  [verified from handout]")
                 elif entry["value"] is True:
-                    st.write("❓ " + label + ": possibly, based on policy text - not verified")
+                    st.write(label + ": possibly  [based on policy text, not verified]")
                 else:
-                    st.write("❓ " + label + ": could not be verified")
+                    st.write(label + ": not verified")
 
             if r["attendance_policy_text"]:
                 st.caption("Attendance policy text: " + r["attendance_policy_text"])
