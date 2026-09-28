@@ -12,7 +12,6 @@ except Exception:
 st.set_page_config(page_title="BITS Course Recommender", layout="wide")
 
 
-# load the JSON data once per session instead of on every rerun
 @st.cache_resource
 def get_data():
     return rec.load_data()
@@ -30,7 +29,7 @@ PROPERTY_LABELS = {
 }
 
 
-# picks a current Gemini model instead of trusting a name that might have been retired
+# avoids trusting a retired model name
 def pick_model(client):
     try:
         for m in client.models.list():
@@ -50,8 +49,6 @@ PROMPT_TEMPLATE = (
 )
 
 
-# turns a typed question into a filter dict using Gemini. returns None on any problem at all -
-# missing key, network error, bad JSON - so the caller can fall back to the plain widgets
 def ask_gemini(question):
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or genai is None:
@@ -74,7 +71,6 @@ def all_known_course_codes():
     return sorted(codes)
 
 
-# the digit right after the code's leading letter is its year level, e.g. "F211" is level 2
 def course_level(course_code):
     parts = course_code.split()
     if len(parts) < 2:
@@ -84,9 +80,7 @@ def course_level(course_code):
             return int(ch)
     return None
 
-
-# a rough guess only - the discipline's core courses a student in this semester has plausibly
-# already finished, based on course code level. always editable, never treated as fact
+# a rough guess. always editable, never fact
 def likely_completed_core(discipline, current_semester):
     max_level = (current_semester + 1) // 2 - 1
     codes = []
@@ -198,8 +192,6 @@ with tab_find:
                 if widget_topic.strip():
                     filters["topic"] = widget_topic.strip()
                 elif question.strip():
-                    # Gemini could not turn the typed question into filters, so at least
-                    # search it as plain keywords instead of silently dropping it
                     filters["topic"] = question.strip()
                 if widget_no_midsem:
                     filters["has_midsem"] = False
@@ -210,7 +202,7 @@ with tab_find:
                 if widget_no_attendance:
                     filters["attendance_free"] = True
 
-            # results are kept in session state so picking a course below doesn't lose them
+            # saved here so picking a course below keeps it
             st.session_state["last_results"] = rec.recommend(profile, filters, data)
 
         if "last_results" in st.session_state:
@@ -259,8 +251,7 @@ with tab_find:
                 if r["satisfies_requirement"]:
                     st.write("Satisfies your remaining requirement for: " + r["satisfies_requirement"])
 
-                # "verified" means the handout's own table says so - anything else is a guess or
-                # a blank, and must be labelled plainly so it never reads the same as a real answer
+                # unverified must not look the same as verified
                 property_table = []
                 for prop_name, label in PROPERTY_LABELS.items():
                     entry = r["properties"].get(prop_name)

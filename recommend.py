@@ -13,7 +13,6 @@ NO_ATTENDANCE_PHRASES = [
 ]
 
 
-# reads the four data files and builds the lookups every other function needs
 def load_data():
     courses = json.load(open("data/courses.json"))["courses"]
     handouts = json.load(open("data/handouts.json"))
@@ -32,8 +31,7 @@ def load_data():
     for d in discipline_courses:
         discipline_by_code.setdefault(d["course_code"], []).append(d)
 
-    # a wrapped title sometimes lost its second line in one discipline's listing but not
-    # another's, so when several copies exist we keep the longest one as the real title
+    # longest title wins when a wrapped title lost a line
     best_title = {}
     for d in discipline_courses:
         code = d["course_code"]
@@ -57,11 +55,7 @@ def load_data():
     }
 
 
-# CDC/DEL if it's core/elective for the student's own discipline, HUEL if it's in the bulletin's
-# named "Pool of Humanities courses for first degree programmes" (PDF page 333), OPEL if it's an
-# elective for some other discipline, UNKNOWN if none of that data exists for this course.
-# a course from the student's own discipline is never counted as HUEL even if it is in the pool -
-# that exclusion is stated on the same page 333 and is what the "not own_entries" check below does
+# own discipline never counts as HUEL. bulletin, page 333
 def categorise(course_code, discipline, data):
     entries = data["discipline_by_code"].get(course_code, [])
     own_entries = [e for e in entries if e["discipline"] == discipline]
@@ -83,8 +77,6 @@ def categorise(course_code, discipline, data):
     return {"category": "UNKNOWN", "inferred": False}
 
 
-# how many units a course carries, from the bulletin's catalog entry rather than any one
-# semester's timetable offering, since a completed course may not be offered this semester
 def catalog_units(course_code, data):
     for e in data["discipline_by_code"].get(course_code, []):
         if e["credits"].get("U") is not None:
@@ -92,9 +84,7 @@ def catalog_units(course_code, data):
     return None
 
 
-# for each general institute requirement category, how much the student has completed and how
-# much is left. categories with no extracted course list (Science Foundation, Technical Arts,
-# etc) are reported as not computable rather than silently shown as zero progress
+# no course list means not computable, never a fake zero
 def remaining_requirements(profile, data):
     discipline = profile["discipline"]
     by_short_category = {"CDC": [], "DEL": [], "HUEL": [], "OPEL": [], "UNKNOWN": []}
@@ -136,8 +126,6 @@ def remaining_requirements(profile, data):
     return results
 
 
-# courses offered this semester, minus whatever the student has done or is doing, minus the
-# com_cod >= 5000 courses unless the profile says they qualify for them
 def eligible_courses(profile, data):
     taken = set(profile["completed_courses"]) | set(profile["current_courses"])
     result = []
@@ -156,8 +144,6 @@ QUERY_STOPWORDS = [
     "it", "is", "of", "in", "on", "at", "this", "that", "behind", "about",
 ]
 
-# a few acronyms expanded into the phrases that actually show up in course titles and topics -
-# not a general synonym system, just enough to stop "AI" and friends from matching nothing
 ACRONYM_EXPANSIONS = {
     "ai": ["artificial intelligence", "machine learning", "neural", "deep learning"],
     "ml": ["machine learning", "neural", "deep learning"],
@@ -167,8 +153,7 @@ ACRONYM_EXPANSIONS = {
 }
 
 
-# turns a typed query into the words actually worth searching for - drops filler words, strips
-# trailing punctuation, and expands a known acronym into its real phrases instead of itself
+# expands acronyms, drops filler words. no general synonym system
 def query_terms(topic):
     terms = []
     for word in topic.lower().split():
@@ -181,13 +166,12 @@ def query_terms(topic):
     return terms
 
 
-# matches a whole word or phrase, not just a substring - "ai" must not match inside "available"
+# whole word only. not "ai" inside "available"
 def term_in_text(term, text):
     return re.search(r"\b" + re.escape(term) + r"\b", text) is not None
 
 
-# a term found in the course title counts for more than one only found in the handout's topics
-# text, and each term is counted at most once - title first, topics only if the title missed it
+# title hit scores three, topics hit scores one, each term counted once
 def match_courses(courses, topic, data):
     if not topic:
         return courses
@@ -218,22 +202,15 @@ def match_courses(courses, topic, data):
         matched.append(c)
     return matched
 
-
-# helper for the sort above - picks out just the score half of each (score, course) pair
 def by_score(pair):
     return pair[0]
 
-
-# has_midsem/has_compre/has_project/has_quiz/has_lab come straight from the handout's evaluation
-# table when one exists - if there is no table, the value is unknown, never assumed false
 def check_property(handout, prop_name):
     if handout is None or not handout["evaluation_components"]:
         return None, False
     return handout[prop_name], True
 
 
-# attendance is free text in the data, not a yes/no field, so this is always a guess and is
-# only ever used to keep courses in, never to drop one just because we lack information
 def looks_attendance_free(handout):
     if handout is None or not handout.get("attendance_policy"):
         return None
@@ -241,8 +218,6 @@ def looks_attendance_free(handout):
     return any(phrase in text for phrase in NO_ATTENDANCE_PHRASES)
 
 
-# the full pipeline: what's required, what's eligible, what category it is, does it match the
-# topic, do its properties fit - academic validity is decided before the topic is ever looked at
 def recommend(profile, filters, data):
     req_status = remaining_requirements(profile, data)
     remaining_by_category = {}
@@ -286,7 +261,7 @@ def recommend(profile, filters, data):
 
         attendance_guess = looks_attendance_free(handout)
         if filters.get("attendance_free") and attendance_guess is False:
-            continue  # only drop when the text actively suggests attendance IS required
+            continue
         properties["attendance_free"] = {"value": attendance_guess, "verified": False}
 
         req = remaining_by_category.get(info["category"])
@@ -310,8 +285,7 @@ def recommend(profile, filters, data):
             },
         })
 
-    # a course we could actually verify the requested property on should outrank a guess, which
-    # should outrank a course with no signal at all - without ever dropping the last two
+    # verified beats a guess, a guess beats nothing. nothing gets dropped
     requested_props = []
     for prop in ("has_midsem", "has_compre", "has_project", "has_quiz", "has_lab"):
         if filters.get(prop) is not None:
