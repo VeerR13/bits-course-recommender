@@ -1,5 +1,5 @@
 {
-  "001_AN_F314.pdf": {
+  "handouts/001_AN_F314.pdf": {
     "course_code": "AN F314",
     "course_title": "Introduction to Flight",
     "instructor_in_charge": "Biswadip Shome",
@@ -55,7 +55,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "002_BIO_F101.pdf": {
+  "handouts/002_BIO_F101.pdf": {
     "course_code": "BIO F101",
     "course_title": "INTRODUCTION TO BIOLOGICAL SCIENCES",
     "instructor_in_charge": "SHASHI PRAKASH SINGH",
@@ -123,7 +123,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "003_BIO_F211.pdf": {
+  "handouts/003_BIO_F211.pdf": {
     "course_code": "BIO F211",
     "course_title": "Biological Chemistry",
     "instructor_in_charge": null,
@@ -173,7 +173,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "004_BIO_F212.pdf": {
+  "handouts/004_BIO_F212.pdf": {
     "course_code": "BIO F212",
     "course_title": "Microbiology",
     "instructor_in_charge": "PRABHAT NATH JHA",
@@ -230,7 +230,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "005_BIO_F213.pdf": {
+  "handouts/005_BIO_F213.pdf": {
     "course_code": "BIO F213",
     "course_title": "CELL BIOLOGY",
     "instructor_in_charge": "Syamantak Majumder",
@@ -285,7 +285,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "006_BIO_F214.pdf": {
+  "handouts/006_BIO_F214.pdf": {
     "course_code": "BIO F214",
     "course_title": "IINNTTEEGGRRAATTEEDD BBIIOOLLOOGGYY",
     "instructor_in_charge": "PPaannkkaajj KKuummaarr SShhaarrmmaa",
@@ -326,7 +326,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "007_BIO_F311.pdf": {
+  "handouts/007_BIO_F311.pdf": {
     "course_code": "BIO F311",
     "course_title": "RECOMBINANT DNA TECHNOLOGY",
     "instructor_in_charge": "Prof. SOUMITRA GHOSH",
@@ -372,7 +372,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "008_BIO_F312.pdf": {
+  "handouts/008_BIO_F312.pdf": {
     "course_code": "BIO F312",
     "course_title": "Plant Physiology",
     "instructor_in_charge": "JITENDRA PANWAR",
@@ -422,7 +422,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "009_BIO_F313.pdf": {
+  "handouts/009_BIO_F313.pdf": {
     "course_code": "BIO F313",
     "course_title": "Animal Physiology",
     "instructor_in_charge": "SHILPI GARG",
@@ -472,7 +472,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "010_BIO_F417.pdf": {
+  "handouts/010_BIO_F417.pdf": {
     "course_code": "BIO F417",
     "course_title": "Biomolecular Modeling",
     "instructor_in_charge": "SHIBASISH CHOWDHURY",
@@ -522,7 +522,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "011_BIO_F418.pdf": {
+  "handouts/011_BIO_F418.pdf": {
     "course_code": "BIO F418",
     "course_title": "Genetic Engineering Techniques",
     "instructor_in_charge": "Sandhya Marathe (sandhya.marathe@pilani.bits-pilani.ac.in,",
@@ -572,7 +572,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "012_BIO_F421.pdf": {
+  "handouts/012_BIO_F421.pdf": {
     "course_code": "BIO F421",
     "course_title": "ENZYMOLOGY",
     "instructor_in_charge": "P. R. DEEPA",
@@ -615,7 +615,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "013_BIO_G512.pdf": {
+  "handouts/013_BIO_G512.pdf": {
     "course_code": "BIO G512",
     "course_title": "Molecular Mechanism of Gene Expression",
     "instructor_in_charge": "S. K. VERMA",
@@ -667,7 +667,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "014_BIO_G512.pdf": {
+  "handouts/014_BIO_G512.pdf": {
     "course_code": "BIO G512",
     "course_title": "Molecular Mechanism of Gene Expression",
     "instructor_in_charge": "S. K. VERMA",
@@ -719,7 +719,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "015_BIO_G514.pdf": {
+  "handouts/015_BIO_G514.pdf": {
     "course_code": "BIO G514",
     "course_title": "Molecular Immunology",
     "instructor_in_charge": "Ashis Kumar Das",
@@ -760,7 +760,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "016_BIO_G523.pdf": {
+  "handouts/016_BIO_G523.pdf": {
     "course_code": "BIO G523",
     "course_title": "Advanced & Applied Microbiology",
     "instructor_in_charge": "Prabhat Nath Jha",
@@ -814,7 +814,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "017_BIO_G523.pdf": {
+  "handouts/017_BIO_G523.pdf": {
     "course_code": "BIO G523",
     "course_title": "Microbiology",
     "instructor_in_charge": "PRABHAT NATH JHA",
@@ -871,7 +871,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "018_BIO_G524.pdf": {
+  "handouts/018_BIO_G524.pdf": {
     "course_code": "BIO G524",
     "course_title": "Animal Cell Technology",
     "instructor_in_charge": "SUDESHNA MUKHERJEE",
@@ -907,7 +907,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "019_BIO_G524.pdf": {
+  "handouts/019_BIO_G524.pdf": {
     "course_code": "BIO G524",
     "course_title": "Animal Cell Technology",
     "instructor_in_charge": "SUDESHNA MUKHERJEE",
@@ -943,7 +943,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "020_BIO_G525.pdf": {
+  "handouts/020_BIO_G525.pdf": {
     "course_code": "BIO G525",
     "course_title": "ENVIRONMENTAL BIOTECHNOLOGY AND WASTE",
     "instructor_in_charge": "B. Vani",
@@ -977,7 +977,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "021_BIO_G532.pdf": {
+  "handouts/021_BIO_G532.pdf": {
     "course_code": "BIO G532",
     "course_title": "BIOSTATISTICS & BIOMODELING",
     "instructor_in_charge": "SUSHMITA BASU",
@@ -1020,7 +1020,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "022_BIO_G532.pdf": {
+  "handouts/022_BIO_G532.pdf": {
     "course_code": "BIO G532",
     "course_title": "BIOSTATISTICS & BIOMODELING",
     "instructor_in_charge": "SUSHMITA BASU",
@@ -1063,7 +1063,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "023_BIO_G542.pdf": {
+  "handouts/023_BIO_G542.pdf": {
     "course_code": "BIO G542",
     "course_title": "Advanced Cell and Molecular Biology",
     "instructor_in_charge": "VISHAL SAXENA",
@@ -1109,7 +1109,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "024_BIO_G542.pdf": {
+  "handouts/024_BIO_G542.pdf": {
     "course_code": "BIO G542",
     "course_title": "Advanced Cell and Molecular Biology",
     "instructor_in_charge": "VISHAL SAXENA",
@@ -1155,7 +1155,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "025_BIO_U101.pdf": {
+  "handouts/025_BIO_U101.pdf": {
     "course_code": "BIO U101",
     "course_title": "INTRODUCTION TO BIOLOGICAL SCIENCES",
     "instructor_in_charge": "SHASHI PRAKASH SINGH",
@@ -1223,7 +1223,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "026_BIO_U320.pdf": {
+  "handouts/026_BIO_U320.pdf": {
     "course_code": "BIO U320",
     "course_title": "ENZYMOLOGY",
     "instructor_in_charge": "P. R. DEEPA",
@@ -1266,7 +1266,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "027_BIOT_F424.pdf": {
+  "handouts/027_BIOT_F424.pdf": {
     "course_code": "BIOT F424",
     "course_title": "Food Biotechnology",
     "instructor_in_charge": "SHILPI GARG",
@@ -1320,7 +1320,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "028_BITS_C797T.pdf": {
+  "handouts/028_BITS_C797T.pdf": {
     "course_code": "BITS C797T",
     "course_title": "Ph.D. SEMINAR",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -1352,7 +1352,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "029_BITS_E574.pdf": {
+  "handouts/029_BITS_E574.pdf": {
     "course_code": "BITS E574",
     "course_title": "STUDY IN ADVANCE TOPIC II",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -1384,7 +1384,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "030_BITS_E584.pdf": {
+  "handouts/030_BITS_E584.pdf": {
     "course_code": "BITS E584",
     "course_title": "Case Studies II",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -1427,7 +1427,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "031_BITS_E594.pdf": {
+  "handouts/031_BITS_E594.pdf": {
     "course_code": "BITS E594",
     "course_title": "Reading Course II",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -1470,7 +1470,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "032_BITS_F101-1.pdf": {
+  "handouts/032_BITS_F101-1.pdf": {
     "course_code": "BITS F101-1",
     "course_title": "Social Conduct 1",
     "instructor_in_charge": "Prof. Rajneesh Choubisa",
@@ -1489,7 +1489,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "033_BITS_F103.pdf": {
+  "handouts/033_BITS_F103.pdf": {
     "course_code": "BITS F103",
     "course_title": "Engineering Design & Prototyping",
     "instructor_in_charge": "GEETA BHATT",
@@ -1527,7 +1527,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "034_BITS_F110.pdf": {
+  "handouts/034_BITS_F110.pdf": {
     "course_code": "BITS F110",
     "course_title": "ENGINEERING GRAPHICS",
     "instructor_in_charge": "GEETA BHATT",
@@ -1568,7 +1568,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "035_BITS_F111.pdf": {
+  "handouts/035_BITS_F111.pdf": {
     "course_code": "BITS F111",
     "course_title": "Thermodynamics",
     "instructor_in_charge": "Amit Jain",
@@ -1616,7 +1616,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "036_BITS_F113.pdf": {
+  "handouts/036_BITS_F113.pdf": {
     "course_code": "BITS F113",
     "course_title": "General Mathematics-1",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -1662,7 +1662,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "037_BITS_F214.pdf": {
+  "handouts/037_BITS_F214.pdf": {
     "course_code": "BITS F214",
     "course_title": "Science, Technology and Modernity",
     "instructor_in_charge": "Prof. Natasha Hazarika",
@@ -1710,7 +1710,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "038_BITS_F218.pdf": {
+  "handouts/038_BITS_F218.pdf": {
     "course_code": "BITS F218",
     "course_title": "General Mathematics III",
     "instructor_in_charge": null,
@@ -1760,7 +1760,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "039_BITS_F219.pdf": {
+  "handouts/039_BITS_F219.pdf": {
     "course_code": "BITS F219",
     "course_title": "PROCESS ENGINEERING",
     "instructor_in_charge": "ANIL JINDAL",
@@ -1787,7 +1787,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "040_BITS_F225.pdf": {
+  "handouts/040_BITS_F225.pdf": {
     "course_code": "BITS F225",
     "course_title": "Environmental Studies",
     "instructor_in_charge": "B.Vani (Biological Sciences)",
@@ -1833,7 +1833,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "041_BITS_F232.pdf": {
+  "handouts/041_BITS_F232.pdf": {
     "course_code": "BITS F232",
     "course_title": "Foundations of Data Structures and Algorithms",
     "instructor_in_charge": "Veena Prabhakaran",
@@ -1888,7 +1888,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "042_BITS_F234.pdf": {
+  "handouts/042_BITS_F234.pdf": {
     "course_code": "BITS F234",
     "course_title": "Introduction to Engineering Design",
     "instructor_in_charge": "ABHIJIT DATE, GEETA BHATT",
@@ -1936,7 +1936,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "043_BITS_F314.pdf": {
+  "handouts/043_BITS_F314.pdf": {
     "course_code": "BITS F314",
     "course_title": "GAME THEORY & ITS APPLICATIONS",
     "instructor_in_charge": "PROF. BALAKRUSHNA PADHI",
@@ -2006,7 +2006,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "044_BITS_F327.pdf": {
+  "handouts/044_BITS_F327.pdf": {
     "course_code": "BITS F327",
     "course_title": "Artificial Intelligence for Robotics",
     "instructor_in_charge": "Dr. Yogesh Singh",
@@ -2017,7 +2017,7 @@
     "topics": "This course provides a comprehensive introduction to artificial intelligence techniques for robotic systems with emphasis on adaptive learning, machine learning, and cognitive decision making. Topics include: Evolution of intelligent robotics; adaptive learning algorithms; biologically inspired learning using Dynamic Hebbian Learning and adaptive oscillators; statistical learning and adaptive estimation; data-driven modelling of serial-chain manipulator kinematics using neural networks; reinforcement learning for robot trajectory planning and decision making; and high-level robot control through large language models/vision language models (using camera sensors). Each module contains hands-on sessions and project-based learning to emphasize implementation of intelligent algorithms for adaptation, learning, and autonomous algorithm for robotics.\n\nThis course introduces the fundamental concepts of Artificial Intelligence for Robotics through the lens of adaptive, data-driven, and cognitive robotic systems. Unlike conventional robotics courses that primarily focus on analytical modelling and control, this course emphasizes how robots can learn, adapt, and make intelligent decisions using modern AI techniques while remaining grounded in classical robotics principles. Students will explore multiple paradigms of robot intelligence, ranging from adaptive learning algorithms and biologically inspired learning mechanisms to neural networks, reinforcement learning, and high-level cognitive reasoning using vision and large language models. Through hands-on experiments, students will investigate how intelligent algorithms can be applied to serial-chain robotic manipulators for learning kinematics, trajectory generation, sensor adaptation, and autonomous task execution. Course Outcome: Upon successful completion of this course, students will be able to: CO1 Explain and compare adaptive, statistical, machine learning, and AI-based approaches for developing intelligent robotic systems. CO2 Develop and implement adaptive learning algorithms, including Dynamic Hebbian Learning and statistical learning methods, for robotic sensing, adaptation, and motion generation. CO3 Design and evaluate neural network and reinforcement learning approaches for solving robot kinematics and trajectory planning problems in serial-chain manipulators. CO4 Develop AI-enabled robotic applications that integrate vision to generate high-level task commands for autonomous robotic manipulation. _",
     "source": {
       "file": "handouts/044_BITS_F327.pdf",
-      "page": 3
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -2025,7 +2025,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "045_BITS_F343.pdf": {
+  "handouts/045_BITS_F343.pdf": {
     "course_code": "BITS F343",
     "course_title": "FUZZY LOGIC & APPLICATIONS",
     "instructor_in_charge": "CHANDRA SHEKHAR",
@@ -2073,7 +2073,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "046_BITS_F364.pdf": {
+  "handouts/046_BITS_F364.pdf": {
     "course_code": "BITS F364",
     "course_title": "Human Computer Interaction",
     "instructor_in_charge": "Prof. Siddharth Mehrotra",
@@ -2114,7 +2114,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "047_BITS_F385.pdf": {
+  "handouts/047_BITS_F385.pdf": {
     "course_code": "BITS F385",
     "course_title": "Introduction to Gender Studies",
     "instructor_in_charge": "Dr. Madhurima Das",
@@ -2166,7 +2166,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "048_BITS_F415.pdf": {
+  "handouts/048_BITS_F415.pdf": {
     "course_code": "BITS F415",
     "course_title": "Introduction to MEMS",
     "instructor_in_charge": "Venkatesh Kadbur Prabhakar Rao",
@@ -2214,7 +2214,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "049_BITS_F416.pdf": {
+  "handouts/049_BITS_F416.pdf": {
     "course_code": "BITS F416",
     "course_title": "Introduction to Nano Science",
     "instructor_in_charge": "Prof. Sarbani Ghosh",
@@ -2269,7 +2269,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "050_BITS_F428.pdf": {
+  "handouts/050_BITS_F428.pdf": {
     "course_code": "BITS F428",
     "course_title": "Essentials of Strategic Management",
     "instructor_in_charge": "Praveen Goyal",
@@ -2317,7 +2317,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "051_BITS_F429.pdf": {
+  "handouts/051_BITS_F429.pdf": {
     "course_code": "BITS F429",
     "course_title": "Nanotechnology for Renewable Energy and Environment",
     "instructor_in_charge": "Aditya Singh",
@@ -2365,7 +2365,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "052_BITS_F431.pdf": {
+  "handouts/052_BITS_F431.pdf": {
     "course_code": "BITS F431",
     "course_title": "[Flexible Manufacturing Systems]",
     "instructor_in_charge": "[Tufan Chandra Bera]",
@@ -2406,7 +2406,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "053_BITS_F437.pdf": {
+  "handouts/053_BITS_F437.pdf": {
     "course_code": "BITS F437",
     "course_title": "Technical Communication",
     "instructor_in_charge": "GAJENDRA SINGH CHAUHAN",
@@ -2460,7 +2460,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "054_BITS_F446.pdf": {
+  "handouts/054_BITS_F446.pdf": {
     "course_code": "BITS F446",
     "course_title": "Pattern Recognition",
     "instructor_in_charge": "Raj Kumar Gupta",
@@ -2524,7 +2524,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "055_BITS_F462.pdf": {
+  "handouts/055_BITS_F462.pdf": {
     "course_code": "BITS F462",
     "course_title": "Renewable energy",
     "instructor_in_charge": "MANOJ KUMAR SONI",
@@ -2588,7 +2588,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "056_BITS_F463.pdf": {
+  "handouts/056_BITS_F463.pdf": {
     "course_code": "BITS F463",
     "course_title": "Cryptography",
     "instructor_in_charge": "Ankan Pal",
@@ -2629,7 +2629,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "057_BITS_F464.pdf": {
+  "handouts/057_BITS_F464.pdf": {
     "course_code": "BITS F464",
     "course_title": "Machine Learning",
     "instructor_in_charge": "Rakhi Agrawal",
@@ -2679,7 +2679,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "058_BITS_F467.pdf": {
+  "handouts/058_BITS_F467.pdf": {
     "course_code": "BITS F467",
     "course_title": "BIOETHICS AND BIOSAFETY",
     "instructor_in_charge": "R. MAHESH",
@@ -2731,7 +2731,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "059_BITS_F468.pdf": {
+  "handouts/059_BITS_F468.pdf": {
     "course_code": "BITS F468",
     "course_title": "New Venture Creation",
     "instructor_in_charge": "(Pilani & All Campuses) : Prof. Jyoti Tikoria + Dr. Paul Lopez",
@@ -2756,7 +2756,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "060_BITS_F471.pdf": {
+  "handouts/060_BITS_F471.pdf": {
     "course_code": "BITS F471",
     "course_title": "Introduction to Large Language Models",
     "instructor_in_charge": "Dr. Dhruv Kumar",
@@ -2806,7 +2806,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "061_BITS_F482.pdf": {
+  "handouts/061_BITS_F482.pdf": {
     "course_code": "BITS F482",
     "course_title": "Creating and Leading Entrepreneurial Organization",
     "instructor_in_charge": "JYOTI",
@@ -2863,7 +2863,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "062_BITS_F494.pdf": {
+  "handouts/062_BITS_F494.pdf": {
     "course_code": "BITS F494",
     "course_title": "Environmental Impact Assessment",
     "instructor_in_charge": "Dr. Pubali Mandal",
@@ -2904,7 +2904,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "063_BITS_G511.pdf": {
+  "handouts/063_BITS_G511.pdf": {
     "course_code": "BITS G511",
     "course_title": "Advanced Project",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -2946,7 +2946,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "064_BITS_G540.pdf": {
+  "handouts/064_BITS_G540.pdf": {
     "course_code": "BITS G540",
     "course_title": "Research Practice",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -2988,7 +2988,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "065_BITS_G562T.pdf": {
+  "handouts/065_BITS_G562T.pdf": {
     "course_code": "BITS G562T",
     "course_title": "DISSERTATION",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -3034,7 +3034,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "066_BITS_G563T.pdf": {
+  "handouts/066_BITS_G563T.pdf": {
     "course_code": "BITS G563T",
     "course_title": "DISSERTATION",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -3080,7 +3080,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "067_BITS_G564T.pdf": {
+  "handouts/067_BITS_G564T.pdf": {
     "course_code": "BITS G564T",
     "course_title": "DISSERTATION",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -3126,7 +3126,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "068_BITS_G661.pdf": {
+  "handouts/068_BITS_G661.pdf": {
     "course_code": "BITS G661",
     "course_title": "Research Methodology I",
     "instructor_in_charge": "Associate Dean, AGSRD",
@@ -3170,7 +3170,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "069_BITS_U103.pdf": {
+  "handouts/069_BITS_U103.pdf": {
     "course_code": "BITS U103",
     "course_title": "Engineering Design & Prototyping",
     "instructor_in_charge": "GEETA BHATT",
@@ -3208,7 +3208,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "070_BITS_U104.pdf": {
+  "handouts/070_BITS_U104.pdf": {
     "course_code": "BITS U104",
     "course_title": "Foundations of Measurements and Experimentation",
     "instructor_in_charge": "Jayendra N. Bandyopadhyay",
@@ -3244,7 +3244,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "071_BITS_U107.pdf": {
+  "handouts/071_BITS_U107.pdf": {
     "course_code": "BITS U107",
     "course_title": "Introduction to Engineering",
     "instructor_in_charge": "Prof. Ravindra Dwivedi",
@@ -3255,7 +3255,7 @@
     "topics": "Introduction to the different engineering disciplines (e.g., civil, mechanical, electrical, chemical, computer, etc.), Historical development of engineering, Role of engineers in society, Ethical considerations in engineering, Problem-solving methodologies, Basics of physics and mechanics, Introduction to engineering design and the design process, Basic principles of thermodynamics, Sustainable engineering practices, Environmental impact assessment, Engineering and its influence on society, Business and Engineering. Course Pre- /Co- requisite (if any) & Catalogue / Bulletin Description: Textbook (TB) TB: Saeed Moaveni, \u201cEngineering Fundamentals: An Introduction to Engineering\u201d, Cengage Learning, 5th Edition, 2015. Reference Books (RBs) R1: N/A Course Plan / Schedule Chapter No Week No Learning objectives Contents (TB) #1 Introduction to the different Disciplines (civil, mechanical, Notes (2hours) engineering disciplines electrical, chemical, computer, architecture, etc.) Sub-disciplines Specializations #1 Historical development of Engineering in the B.C. Notes (2hours) engineering Engineering in the A.D. first millennium Engineering Today #2 Role of engineers in society Education, Practice, Certification 1,2 (2hours) Influence in Government Influence in Society #2 Ethical considerations in Role and types of engineering 4, 5 (2hours) engineering communication Engineering solution methodology Engineering Ethics #3 Introduction to engineering Design process 3 (4hours) design and the design process Design Considerations Teamwork Project Management Engineering Standards and Codes #4,5 Basics of physics and Dimensions and Units 6-9 (6hours) mechanics Newton\u2019s Laws",
     "source": {
       "file": "handouts/071_BITS_U107.pdf",
-      "page": 2
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -3263,7 +3263,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "072_BITS_U415.pdf": {
+  "handouts/072_BITS_U415.pdf": {
     "course_code": "BITS U415",
     "course_title": "Introduction to MEMS",
     "instructor_in_charge": "Venkatesh Kadbur Prabhakar Rao",
@@ -3311,7 +3311,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "073_BITS_U462.pdf": {
+  "handouts/073_BITS_U462.pdf": {
     "course_code": "BITS U462",
     "course_title": "Renewable energy",
     "instructor_in_charge": "MANOJ KUMAR SONI",
@@ -3375,7 +3375,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "074_BITS_U467.pdf": {
+  "handouts/074_BITS_U467.pdf": {
     "course_code": "BITS U467",
     "course_title": "BIOETHICS AND BIOSAFETY",
     "instructor_in_charge": "R. MAHESH",
@@ -3427,7 +3427,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "075_CE_F211.pdf": {
+  "handouts/075_CE_F211.pdf": {
     "course_code": "CE F211",
     "course_title": "Mechanics of Solids",
     "instructor_in_charge": "G MUTHUKUMAR",
@@ -3465,7 +3465,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "076_CE_F213.pdf": {
+  "handouts/076_CE_F213.pdf": {
     "course_code": "CE F213",
     "course_title": "SURVEYING",
     "instructor_in_charge": "Prof. Selva Balaji M (L & T1)",
@@ -3559,7 +3559,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "077_CE_F230.pdf": {
+  "handouts/077_CE_F230.pdf": {
     "course_code": "CE F230",
     "course_title": "Civil Engineering Materials",
     "instructor_in_charge": "Dr. Mukund Lahoti",
@@ -3614,7 +3614,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "078_CE_F231.pdf": {
+  "handouts/078_CE_F231.pdf": {
     "course_code": "CE F231",
     "course_title": "Fluid Mechanics",
     "instructor_in_charge": "Dr. Guntu Ravikumar (M W 5 Th 10 at 6104)",
@@ -3662,7 +3662,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "079_CE_F312.pdf": {
+  "handouts/079_CE_F312.pdf": {
     "course_code": "CE F312",
     "course_title": "Hydraulic Engineering",
     "instructor_in_charge": "Prof. SHIBANI KHANRA JHA",
@@ -3724,7 +3724,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "080_CE_F313.pdf": {
+  "handouts/080_CE_F313.pdf": {
     "course_code": "CE F313",
     "course_title": "Foundation Engineering",
     "instructor_in_charge": "Ravi Kant Mittal  Mb.9887692025",
@@ -3765,7 +3765,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "081_CE_F320.pdf": {
+  "handouts/081_CE_F320.pdf": {
     "course_code": "CE F320",
     "course_title": "DESIGN OF REINFORCED CONCRETE STRUCTURES",
     "instructor_in_charge": "MANOJ KUMAR",
@@ -3809,7 +3809,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "082_CE_F331.pdf": {
+  "handouts/082_CE_F331.pdf": {
     "course_code": "CE F331",
     "course_title": "In-situ Testing Methods in Geotechnical Engineering",
     "instructor_in_charge": "Dr. Sayantan Chakraborty",
@@ -3843,7 +3843,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "083_CE_F417.pdf": {
+  "handouts/083_CE_F417.pdf": {
     "course_code": "CE F417",
     "course_title": "Applications of Artificial Intelligence in Civil Engineering",
     "instructor_in_charge": "RAJIV GUPTA",
@@ -3891,7 +3891,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "084_CE_F423.pdf": {
+  "handouts/084_CE_F423.pdf": {
     "course_code": "CE F423",
     "course_title": "Green Buildings and Energy Conservation",
     "instructor_in_charge": "RAJIV GUPTA",
@@ -3939,7 +3939,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "085_CE_F434.pdf": {
+  "handouts/085_CE_F434.pdf": {
     "course_code": "CE F434",
     "course_title": "Environmental Impact Assessment",
     "instructor_in_charge": "Dr. Pubali Mandal",
@@ -3980,7 +3980,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "086_CE_G515.pdf": {
+  "handouts/086_CE_G515.pdf": {
     "course_code": "CE G515",
     "course_title": "Fundamentals of Systems Engineering",
     "instructor_in_charge": "Prof. Rallapalli Srinivas",
@@ -4014,7 +4014,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "087_CE_G515.pdf": {
+  "handouts/087_CE_G515.pdf": {
     "course_code": "CE G515",
     "course_title": "Fundamentals of Systems Engineering",
     "instructor_in_charge": "Prof. Rallapalli Srinivas",
@@ -4048,7 +4048,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "088_CE_G523.pdf": {
+  "handouts/088_CE_G523.pdf": {
     "course_code": "CE G523",
     "course_title": "Transportation Systems Planning and Management",
     "instructor_in_charge": "Vinayak Malaghan",
@@ -4089,7 +4089,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "089_CE_G525.pdf": {
+  "handouts/089_CE_G525.pdf": {
     "course_code": "CE G525",
     "course_title": "Water Resources Planning and Management",
     "instructor_in_charge": "AJIT PRATAP SINGH",
@@ -4125,7 +4125,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "090_CE_G525.pdf": {
+  "handouts/090_CE_G525.pdf": {
     "course_code": "CE G525",
     "course_title": "Water Resources Planning and Management",
     "instructor_in_charge": "AJIT PRATAP SINGH",
@@ -4161,7 +4161,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "091_CE_G527.pdf": {
+  "handouts/091_CE_G527.pdf": {
     "course_code": "CE G527",
     "course_title": "CONSTRUCTION MANAGEMENT",
     "instructor_in_charge": "ANSHUMAN",
@@ -4199,7 +4199,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "092_CE_G527.pdf": {
+  "handouts/092_CE_G527.pdf": {
     "course_code": "CE G527",
     "course_title": "CONSTRUCTION MANAGEMENT",
     "instructor_in_charge": "ANSHUMAN",
@@ -4237,7 +4237,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "093_CE_G534.pdf": {
+  "handouts/093_CE_G534.pdf": {
     "course_code": "CE G534",
     "course_title": "Pavement Material Characterization",
     "instructor_in_charge": "Dr. Vijay Bajirao Kakade",
@@ -4285,7 +4285,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "094_CE_G534.pdf": {
+  "handouts/094_CE_G534.pdf": {
     "course_code": "CE G534",
     "course_title": "Pavement Material Characterization",
     "instructor_in_charge": "Dr. Vijay Bajirao Kakade",
@@ -4333,7 +4333,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "095_CE_G545.pdf": {
+  "handouts/095_CE_G545.pdf": {
     "course_code": "CE G545",
     "course_title": "AIRPORT PLANNING & DESIGN",
     "instructor_in_charge": "G MUTHUKUMAR",
@@ -4388,7 +4388,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "096_CE_G545.pdf": {
+  "handouts/096_CE_G545.pdf": {
     "course_code": "CE G545",
     "course_title": "AIRPORT PLANNING & DESIGN",
     "instructor_in_charge": "G MUTHUKUMAR",
@@ -4443,7 +4443,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "097_CE_G547.pdf": {
+  "handouts/097_CE_G547.pdf": {
     "course_code": "CE G547",
     "course_title": "Pavement Failure Evaluation and Rehabilitation",
     "instructor_in_charge": "Nishant Bhargava",
@@ -4498,7 +4498,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "098_CE_G547.pdf": {
+  "handouts/098_CE_G547.pdf": {
     "course_code": "CE G547",
     "course_title": "Pavement Failure Evaluation and Rehabilitation",
     "instructor_in_charge": "Nishant Bhargava",
@@ -4553,7 +4553,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "099_CE_G549.pdf": {
+  "handouts/099_CE_G549.pdf": {
     "course_code": "CE G549",
     "course_title": "Rural Road Technology",
     "instructor_in_charge": "Dr. Vijay Bajirao Kakade",
@@ -4594,7 +4594,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "100_CE_G549.pdf": {
+  "handouts/100_CE_G549.pdf": {
     "course_code": "CE G549",
     "course_title": "Rural Road Technology",
     "instructor_in_charge": "Dr. Vijay Bajirao Kakade",
@@ -4635,7 +4635,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "101_CE_G551.pdf": {
+  "handouts/101_CE_G551.pdf": {
     "course_code": "CE G551",
     "course_title": "DYNAMICSOFSTRUCTURES",
     "instructor_in_charge": "DIPENDUBHUNIA",
@@ -4683,7 +4683,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "102_CE_G551.pdf": {
+  "handouts/102_CE_G551.pdf": {
     "course_code": "CE G551",
     "course_title": "DYNAMICSOFSTRUCTURES",
     "instructor_in_charge": "DIPENDUBHUNIA",
@@ -4731,7 +4731,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "103_CE_G565.pdf": {
+  "handouts/103_CE_G565.pdf": {
     "course_code": "CE G565",
     "course_title": "Transportation Planning",
     "instructor_in_charge": "Dr. Durgesh Vikram (Email: durgesh.vikram@pilani.bits-pilani.ac.in,",
@@ -4781,7 +4781,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "104_CE_G565.pdf": {
+  "handouts/104_CE_G565.pdf": {
     "course_code": "CE G565",
     "course_title": "Transportation Planning",
     "instructor_in_charge": "Dr. Durgesh Vikram (Email: durgesh.vikram@pilani.bits-pilani.ac.in,",
@@ -4831,7 +4831,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "105_CE_G567.pdf": {
+  "handouts/105_CE_G567.pdf": {
     "course_code": "CE G567",
     "course_title": "Highway Design",
     "instructor_in_charge": "Nishant Bhargava",
@@ -4879,7 +4879,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "106_CE_G567.pdf": {
+  "handouts/106_CE_G567.pdf": {
     "course_code": "CE G567",
     "course_title": "Highway Design",
     "instructor_in_charge": "Nishant Bhargava",
@@ -4927,7 +4927,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "107_CE_G613.pdf": {
+  "handouts/107_CE_G613.pdf": {
     "course_code": "CE G613",
     "course_title": "ADVANCED CONCRETE STRUCTURES",
     "instructor_in_charge": "G MUTHUKUMAR",
@@ -4979,7 +4979,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "108_CE_G613.pdf": {
+  "handouts/108_CE_G613.pdf": {
     "course_code": "CE G613",
     "course_title": "ADVANCED CONCRETE STRUCTURES",
     "instructor_in_charge": "G MUTHUKUMAR",
@@ -5031,7 +5031,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "109_CE_G614.pdf": {
+  "handouts/109_CE_G614.pdf": {
     "course_code": "CE G614",
     "course_title": "PRESTRESSED CONCRETE STRUCTURES",
     "instructor_in_charge": "Prof. Subhasis Pradhan",
@@ -5079,7 +5079,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "110_CE_G614.pdf": {
+  "handouts/110_CE_G614.pdf": {
     "course_code": "CE G614",
     "course_title": "PRESTRESSED CONCRETE STRUCTURES",
     "instructor_in_charge": "Prof. Subhasis Pradhan",
@@ -5127,7 +5127,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "111_CE_G616.pdf": {
+  "handouts/111_CE_G616.pdf": {
     "course_code": "CE G616",
     "course_title": null,
     "instructor_in_charge": "MANOJ KUMAR",
@@ -5195,7 +5195,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "112_CE_G616.pdf": {
+  "handouts/112_CE_G616.pdf": {
     "course_code": "CE G616",
     "course_title": null,
     "instructor_in_charge": "MANOJ KUMAR",
@@ -5263,7 +5263,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "113_CE_G617.pdf": {
+  "handouts/113_CE_G617.pdf": {
     "course_code": "CE G617",
     "course_title": "Advance Structural Analysis",
     "instructor_in_charge": "SHAMSHER BAHADUR SINGH",
@@ -5318,7 +5318,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "114_CE_G617.pdf": {
+  "handouts/114_CE_G617.pdf": {
     "course_code": "CE G617",
     "course_title": "Advance Structural Analysis",
     "instructor_in_charge": "SHAMSHER BAHADUR SINGH",
@@ -5373,7 +5373,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "115_CE_G619.pdf": {
+  "handouts/115_CE_G619.pdf": {
     "course_code": "CE G619",
     "course_title": "Finite Element Analysis",
     "instructor_in_charge": "SHUVENDU NARAYAN PATEL",
@@ -5417,7 +5417,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "116_CE_U434.pdf": {
+  "handouts/116_CE_U434.pdf": {
     "course_code": "CE U434",
     "course_title": "Environmental Impact Assessment",
     "instructor_in_charge": "Dr. Pubali Mandal",
@@ -5458,7 +5458,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "117_CHE_F211.pdf": {
+  "handouts/117_CHE_F211.pdf": {
     "course_code": "CHE F211",
     "course_title": "Chemical Process Calculations",
     "instructor_in_charge": "HARE KRISHNA MOHANTA",
@@ -5550,7 +5550,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "118_CHE_F212.pdf": {
+  "handouts/118_CHE_F212.pdf": {
     "course_code": "CHE F212",
     "course_title": "Fluid Mechanics",
     "instructor_in_charge": "DR PRATIK N SHETH",
@@ -5598,7 +5598,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "119_CHE_F213.pdf": {
+  "handouts/119_CHE_F213.pdf": {
     "course_code": "CHE F213",
     "course_title": "Chemical Engineering Thermodynamics",
     "instructor_in_charge": "Prof. Mohit Garg",
@@ -5646,7 +5646,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "120_CHE_F214.pdf": {
+  "handouts/120_CHE_F214.pdf": {
     "course_code": "CHE F214",
     "course_title": "Engineering Chemistry",
     "instructor_in_charge": "Prof. Krishna Etika",
@@ -5657,7 +5657,7 @@
     "topics": "Introduction to basic principles of various branches of chemistry and their applications in chemical Industries. Organic chemistry (Important functional groups and their reactions, Some important name reactions commonly used in the chemical industry); Physical chemistry (Thermodynamic processes, Thermochemistry, Electrochemistry, Adsorption, Catalysis), Chemical methods of analysis (volumetric analysis: neutralization, redox, complexometric titrations), Instrumental methods of analysis ( IR, UV- vis spectroscopy, Chromatography), Engineering materials (cementing materials, refractories, polymers), Metals and alloys (Iron and steel), Corrosion (types of corrosion and corrosion control methods), Water treatment (Hardness of water, water analysis and water treatment), Fuels and combustion (Classification of fuels, Analysis of coal, Combustion, Calorific value and its determination).\n\nThe course aims to introduce various aspects of chemistry as applied to engineering. The course also aims to bridge the theoretical concepts and their practical engineering applications, thus highlighting the role of chemistry in the field of chemical engineering.",
     "source": {
       "file": "handouts/120_CHE_F214.pdf",
-      "page": 4
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -5665,7 +5665,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "121_CHE_F266.pdf": {
+  "handouts/121_CHE_F266.pdf": {
     "course_code": "CHE F266",
     "course_title": "Study Project",
     "instructor_in_charge": "BANASRI ROY",
@@ -5727,7 +5727,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "122_CHE_F311.pdf": {
+  "handouts/122_CHE_F311.pdf": {
     "course_code": "CHE F311",
     "course_title": "Kinetics & Reactor Design (KRD)",
     "instructor_in_charge": null,
@@ -5787,7 +5787,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "123_CHE_F312.pdf": {
+  "handouts/123_CHE_F312.pdf": {
     "course_code": "CHE F312",
     "course_title": "Chemical Engineering Laboratory -1",
     "instructor_in_charge": "Pradipta Chattopadhyay",
@@ -5888,7 +5888,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "124_CHE_F313.pdf": {
+  "handouts/124_CHE_F313.pdf": {
     "course_code": "CHE F313",
     "course_title": "Separation Processes II",
     "instructor_in_charge": "PROF. SOMAK CHATTERJEE",
@@ -5948,7 +5948,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "125_CHE_F314.pdf": {
+  "handouts/125_CHE_F314.pdf": {
     "course_code": "CHE F314",
     "course_title": "Process Design Principles I",
     "instructor_in_charge": "SURESH GUPTA",
@@ -6002,7 +6002,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "126_CHE_F366.pdf": {
+  "handouts/126_CHE_F366.pdf": {
     "course_code": "CHE F366",
     "course_title": "Lab Project",
     "instructor_in_charge": "BANASRI ROY",
@@ -6070,7 +6070,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "127_CHE_F367.pdf": {
+  "handouts/127_CHE_F367.pdf": {
     "course_code": "CHE F367",
     "course_title": "Lab Project",
     "instructor_in_charge": "BANASRI ROY",
@@ -6138,7 +6138,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "128_CHE_F376.pdf": {
+  "handouts/128_CHE_F376.pdf": {
     "course_code": "CHE F376",
     "course_title": "Design Project",
     "instructor_in_charge": "BANASRI ROY",
@@ -6206,7 +6206,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "129_CHE_F377.pdf": {
+  "handouts/129_CHE_F377.pdf": {
     "course_code": "CHE F377",
     "course_title": "Design Project",
     "instructor_in_charge": "BANASRI ROY",
@@ -6274,7 +6274,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "130_CHE_F411.pdf": {
+  "handouts/130_CHE_F411.pdf": {
     "course_code": "CHE F411",
     "course_title": "Environmental Pollution Control",
     "instructor_in_charge": "Banasri Roy",
@@ -6334,7 +6334,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "131_CHE_F415.pdf": {
+  "handouts/131_CHE_F415.pdf": {
     "course_code": "CHE F415",
     "course_title": "MOLECULAR AND STATISTICAL THERMODYNAMICS",
     "instructor_in_charge": "MOHIT GARG",
@@ -6382,7 +6382,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "132_CHE_F491.pdf": {
+  "handouts/132_CHE_F491.pdf": {
     "course_code": "CHE F491",
     "course_title": "Special Projects",
     "instructor_in_charge": "BANASRI ROY",
@@ -6453,7 +6453,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "133_CHE_F497.pdf": {
+  "handouts/133_CHE_F497.pdf": {
     "course_code": "CHE F497",
     "course_title": "Atomic and Molecular Simulations",
     "instructor_in_charge": "Prof. Sarbani Ghosh",
@@ -6508,7 +6508,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "134_CHE_G552.pdf": {
+  "handouts/134_CHE_G552.pdf": {
     "course_code": "CHE G552",
     "course_title": "Advanced Transport Phenomena | ATP",
     "instructor_in_charge": "SAIKAT BHATTACHARJEE",
@@ -6570,7 +6570,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "135_CHE_G553.pdf": {
+  "handouts/135_CHE_G553.pdf": {
     "course_code": "CHE G553",
     "course_title": "STATISTICAL THERMODYNAMICS",
     "instructor_in_charge": "MOHIT GARG",
@@ -6597,7 +6597,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "136_CHE_G553.pdf": {
+  "handouts/136_CHE_G553.pdf": {
     "course_code": "CHE G553",
     "course_title": "STATISTICAL THERMODYNAMICS",
     "instructor_in_charge": "MOHIT GARG",
@@ -6624,7 +6624,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "137_CHE_G554.pdf": {
+  "handouts/137_CHE_G554.pdf": {
     "course_code": "CHE G554",
     "course_title": "COMPUTATIONAL FLUID DYNAMICS",
     "instructor_in_charge": "SAIKAT BHATTACHARJEE",
@@ -6672,7 +6672,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "138_CHE_G558.pdf": {
+  "handouts/138_CHE_G558.pdf": {
     "course_code": "CHE G558",
     "course_title": "Chemical Process Optimization",
     "instructor_in_charge": "AJAYA KUMAR PANI",
@@ -6720,7 +6720,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "139_CHE_G558.pdf": {
+  "handouts/139_CHE_G558.pdf": {
     "course_code": "CHE G558",
     "course_title": "Chemical Process Optimization",
     "instructor_in_charge": "AJAYA KUMAR PANI",
@@ -6768,7 +6768,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "140_CHEM_F212.pdf": {
+  "handouts/140_CHEM_F212.pdf": {
     "course_code": "CHEM F212",
     "course_title": "Organic Chemistry I",
     "instructor_in_charge": "PARITOSH SHUKLA",
@@ -6816,7 +6816,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "141_CHEM_F213.pdf": {
+  "handouts/141_CHEM_F213.pdf": {
     "course_code": "CHEM F213",
     "course_title": "Physical Chemistry-II",
     "instructor_in_charge": "Prof. Avik Kumar Pati",
@@ -6864,7 +6864,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "142_CHEM_F214.pdf": {
+  "handouts/142_CHEM_F214.pdf": {
     "course_code": "CHEM F214",
     "course_title": "Inorganic Chemistry I",
     "instructor_in_charge": "SUROJIT PANDE",
@@ -6912,7 +6912,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "143_CHEM_F242.pdf": {
+  "handouts/143_CHEM_F242.pdf": {
     "course_code": "CHEM F242",
     "course_title": "Chemical Experimentation I",
     "instructor_in_charge": "Dalip Kumar",
@@ -6923,7 +6923,7 @@
     "topics": "The chemical experimentation course is based on laboratory experiments in organic chemistry, and the course is available for second-year M.Sc. Chemistry students.\n\nThe course\u2019s main objective is to provide students with a firsthand experience of basic techniques used in an organic chemistry laboratory. Broadly, the experiments include qualitative organic analysis, detection of known and unknown functional groups, chemical separation of a mixture of two compounds, examples of single-step and two-step organic syntheses, extraction of organic compounds from natural sources or from drugs, chromatographic separation of the pure compound from a mixture obtained in a multistep reaction, etc.",
     "source": {
       "file": "handouts/143_CHEM_F242.pdf",
-      "page": 2
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -6931,7 +6931,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "144_CHEM_F311.pdf": {
+  "handouts/144_CHEM_F311.pdf": {
     "course_code": "CHEM F311",
     "course_title": "Organic Chemistry-III",
     "instructor_in_charge": "ANIL KUMAR",
@@ -6981,7 +6981,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "145_CHEM_F312.pdf": {
+  "handouts/145_CHEM_F312.pdf": {
     "course_code": "CHEM F312",
     "course_title": "Physical Chemistry IV",
     "instructor_in_charge": "SHAMIK CHAKRABORTY",
@@ -7035,7 +7035,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "146_CHEM_F313.pdf": {
+  "handouts/146_CHEM_F313.pdf": {
     "course_code": "CHEM F313",
     "course_title": "Instrumental Methods of Analysis",
     "instructor_in_charge": "Ajay Kumar Sah",
@@ -7085,7 +7085,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "147_CHEM_F320.pdf": {
+  "handouts/147_CHEM_F320.pdf": {
     "course_code": "CHEM F320",
     "course_title": "Introductory Computational Chemistry Laboratory",
     "instructor_in_charge": "Prashant Uday Manohar",
@@ -7147,7 +7147,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "148_CHEM_F330.pdf": {
+  "handouts/148_CHEM_F330.pdf": {
     "course_code": "CHEM F330",
     "course_title": "Photophysical Chemistry",
     "instructor_in_charge": "INAMUR RAHAMANLASKAR",
@@ -7181,7 +7181,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "149_CHEM_F333.pdf": {
+  "handouts/149_CHEM_F333.pdf": {
     "course_code": "CHEM F333",
     "course_title": "Chemistry of Materials",
     "instructor_in_charge": "MADHUSHREE SARKAR",
@@ -7216,7 +7216,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "150_CHEM_F335.pdf": {
+  "handouts/150_CHEM_F335.pdf": {
     "course_code": "CHEM F335",
     "course_title": "Organic Chemistry and Drug Design",
     "instructor_in_charge": "Dalip Kumar",
@@ -7257,7 +7257,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "151_CHEM_F337.pdf": {
+  "handouts/151_CHEM_F337.pdf": {
     "course_code": "CHEM F337",
     "course_title": "Green Chemistry and Catalysis",
     "instructor_in_charge": "PARTHA SARATHI ADDY",
@@ -7298,7 +7298,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "152_CHEM_G521.pdf": {
+  "handouts/152_CHEM_G521.pdf": {
     "course_code": "CHEM G521",
     "course_title": "Environmental Chemistry",
     "instructor_in_charge": "BHARTI KHUNGAR",
@@ -7346,7 +7346,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "153_CHEM_G521.pdf": {
+  "handouts/153_CHEM_G521.pdf": {
     "course_code": "CHEM G521",
     "course_title": "Environmental Chemistry",
     "instructor_in_charge": "BHARTI KHUNGAR",
@@ -7394,7 +7394,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "154_CHEM_G551.pdf": {
+  "handouts/154_CHEM_G551.pdf": {
     "course_code": "CHEM G551",
     "course_title": "Advanced Organic Chemistry",
     "instructor_in_charge": "INDRESH KUMAR",
@@ -7442,7 +7442,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "155_CHEM_G551.pdf": {
+  "handouts/155_CHEM_G551.pdf": {
     "course_code": "CHEM G551",
     "course_title": "Advanced Organic Chemistry",
     "instructor_in_charge": "INDRESH KUMAR",
@@ -7490,7 +7490,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "156_CHEM_G553.pdf": {
+  "handouts/156_CHEM_G553.pdf": {
     "course_code": "CHEM G553",
     "course_title": "Advanced Physical Chemistry",
     "instructor_in_charge": "Satyajit Patra",
@@ -7501,7 +7501,7 @@
     "topics": ". Course No. : CHEM G553 Course Title : Advanced Physical Chemistry Instructor-in-charge : Satyajit Patra\n\nStructure: Principles and techniques of quantum mechanics, applications to atomic and molecular structure and spectroscopy, statistical thermodynamics, molecular interactions, macromolecules, solid state; Equilibrium: The laws of Thermodynamics, applications to phase equilibrium, reaction equilibrium, and electrochemistry; Dynamics: Molecular motion in gases and liquids, reaction rate laws, mechanisms and rate theories of complex reactions, molecular reaction dynamics, surface processes, electron transfer dynamics.\n\nThe course aims at covering topics in advanced areas of physical chemistry, with the broad classification of the entire subject into three domains viz., structure, equilibrium and dynamics. Starting with fundamental principles and their application, the ultimate purpose of this course will be to understand the recent developments in experimental and theoretical physical chemistry before starting formal research in any of the chemistry areas.",
     "source": {
       "file": "handouts/156_CHEM_G553.pdf",
-      "page": 3
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -7509,7 +7509,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "157_CHEM_G553.pdf": {
+  "handouts/157_CHEM_G553.pdf": {
     "course_code": "CHEM G553",
     "course_title": "Advanced Physical Chemistry",
     "instructor_in_charge": "Satyajit Patra",
@@ -7520,7 +7520,7 @@
     "topics": ". Course No. : CHEM G553 Course Title : Advanced Physical Chemistry Instructor-in-charge : Satyajit Patra\n\nStructure: Principles and techniques of quantum mechanics, applications to atomic and molecular structure and spectroscopy, statistical thermodynamics, molecular interactions, macromolecules, solid state; Equilibrium: The laws of Thermodynamics, applications to phase equilibrium, reaction equilibrium, and electrochemistry; Dynamics: Molecular motion in gases and liquids, reaction rate laws, mechanisms and rate theories of complex reactions, molecular reaction dynamics, surface processes, electron transfer dynamics.\n\nThe course aims at covering topics in advanced areas of physical chemistry, with the broad classification of the entire subject into three domains viz., structure, equilibrium and dynamics. Starting with fundamental principles and their application, the ultimate purpose of this course will be to understand the recent developments in experimental and theoretical physical chemistry before starting formal research in any of the chemistry areas.",
     "source": {
       "file": "handouts/157_CHEM_G553.pdf",
-      "page": 3
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -7528,7 +7528,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "158_CHEM_U101.pdf": {
+  "handouts/158_CHEM_U101.pdf": {
     "course_code": "CHEM U101",
     "course_title": "Atomic Structure, Bonding and Spectroscopy",
     "instructor_in_charge": "Pritam Kumar Jana",
@@ -7574,7 +7574,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "159_CHEM_U110.pdf": {
+  "handouts/159_CHEM_U110.pdf": {
     "course_code": "CHEM U110",
     "course_title": "CHEMISTRY LABORATORY",
     "instructor_in_charge": "BIBHAS RANJAN SARKAR",
@@ -7611,7 +7611,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "160_CS_F111.pdf": {
+  "handouts/160_CS_F111.pdf": {
     "course_code": "CS F111",
     "course_title": "Computational Thinking & Programming",
     "instructor_in_charge": "Prof. Vinti Agarwal",
@@ -7659,7 +7659,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "161_CS_F213.pdf": {
+  "handouts/161_CS_F213.pdf": {
     "course_code": "CS F213",
     "course_title": "Object Oriented Programming",
     "instructor_in_charge": "Dr. Pratik Narang",
@@ -7714,7 +7714,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "162_CS_F215.pdf": {
+  "handouts/162_CS_F215.pdf": {
     "course_code": "CS F215",
     "course_title": "Digital Design",
     "instructor_in_charge": "(lec) Saurabh Gandhi  [https://tinyurl.com/f215-contact; office 2220-M]",
@@ -7779,7 +7779,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "163_CS_F222.pdf": {
+  "handouts/163_CS_F222.pdf": {
     "course_code": "CS F222",
     "course_title": "Discrete Structures for Computer Science",
     "instructor_in_charge": "L. Rajya Lakshmi",
@@ -7833,7 +7833,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "164_CS_F301.pdf": {
+  "handouts/164_CS_F301.pdf": {
     "course_code": "CS F301",
     "course_title": "Principles of Programming Languages",
     "instructor_in_charge": "Amit Dua",
@@ -7870,7 +7870,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "165_CS_F317.pdf": {
+  "handouts/165_CS_F317.pdf": {
     "course_code": "CS F317",
     "course_title": "Reinforcement Learning",
     "instructor_in_charge": "Dr. Prashant Trivedi",
@@ -7926,7 +7926,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "166_CS_F320.pdf": {
+  "handouts/166_CS_F320.pdf": {
     "course_code": "CS F320",
     "course_title": "Foundations of Data Science",
     "instructor_in_charge": "NAVNEET GOYAL",
@@ -7976,7 +7976,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "167_CS_F342.pdf": {
+  "handouts/167_CS_F342.pdf": {
     "course_code": "CS F342",
     "course_title": "COMPUTER ARCHITECTURE",
     "instructor_in_charge": "VIRENDRA SINGH SHEKHAWAT",
@@ -8030,7 +8030,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "168_CS_F351.pdf": {
+  "handouts/168_CS_F351.pdf": {
     "course_code": "CS F351",
     "course_title": "Theory of Computation",
     "instructor_in_charge": "VISHAL GUPTA",
@@ -8087,7 +8087,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "169_CS_F372.pdf": {
+  "handouts/169_CS_F372.pdf": {
     "course_code": "CS F372",
     "course_title": "Operating Systems",
     "instructor_in_charge": "Prof. Avinash Gautam",
@@ -8137,7 +8137,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "170_CS_F407.pdf": {
+  "handouts/170_CS_F407.pdf": {
     "course_code": "CS F407",
     "course_title": "ARTIFICIAL INTELLIGENCE",
     "instructor_in_charge": "GOPAL SINGH PHARTIYAL",
@@ -8181,7 +8181,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "171_CS_F415.pdf": {
+  "handouts/171_CS_F415.pdf": {
     "course_code": "CS F415",
     "course_title": "Data Mining",
     "instructor_in_charge": "YASHVARDHAN SHARMA",
@@ -8225,7 +8225,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "172_CS_F425.pdf": {
+  "handouts/172_CS_F425.pdf": {
     "course_code": "CS F425",
     "course_title": "Deep Learning",
     "instructor_in_charge": "Dr. Bharat Richhariya",
@@ -8287,7 +8287,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "173_CS_F429.pdf": {
+  "handouts/173_CS_F429.pdf": {
     "course_code": "CS F429",
     "course_title": "Natural Language Processing",
     "instructor_in_charge": "Poonam Goyal",
@@ -8343,7 +8343,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "174_CS_F446.pdf": {
+  "handouts/174_CS_F446.pdf": {
     "course_code": "CS F446",
     "course_title": "Data Storage Technologies and Networks",
     "instructor_in_charge": "J.P. Mishra  (email: jpm)",
@@ -8384,7 +8384,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "175_CS_F469.pdf": {
+  "handouts/175_CS_F469.pdf": {
     "course_code": "CS F469",
     "course_title": "Information Retrieval",
     "instructor_in_charge": "Rakhi Agrawal ,",
@@ -8428,7 +8428,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "176_CS_G525.pdf": {
+  "handouts/176_CS_G525.pdf": {
     "course_code": "CS G525",
     "course_title": "Advanced Computer Networks",
     "instructor_in_charge": "YASH SINHA (yash.sinha[AT]pilani.bits-pilani.ac.in, 6120-J.)",
@@ -8486,7 +8486,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "177_CS_G525.pdf": {
+  "handouts/177_CS_G525.pdf": {
     "course_code": "CS G525",
     "course_title": "Advanced Computer Networks",
     "instructor_in_charge": "YASH SINHA (yash.sinha[AT]pilani.bits-pilani.ac.in, 6120-J.)",
@@ -8544,7 +8544,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "178_CS_G526.pdf": {
+  "handouts/178_CS_G526.pdf": {
     "course_code": "CS G526",
     "course_title": "Advanced Algorithms & Complexity",
     "instructor_in_charge": "Abhishek Mishra",
@@ -8585,7 +8585,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "179_CS_G526.pdf": {
+  "handouts/179_CS_G526.pdf": {
     "course_code": "CS G526",
     "course_title": "Advanced Algorithms & Complexity",
     "instructor_in_charge": "Abhishek Mishra",
@@ -8626,7 +8626,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "180_CS_G527.pdf": {
+  "handouts/180_CS_G527.pdf": {
     "course_code": "CS G527",
     "course_title": null,
     "instructor_in_charge": "HARI BABU K",
@@ -8681,7 +8681,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "181_CS_G527.pdf": {
+  "handouts/181_CS_G527.pdf": {
     "course_code": "CS G527",
     "course_title": null,
     "instructor_in_charge": "HARI BABU K",
@@ -8736,7 +8736,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "182_CS_G553.pdf": {
+  "handouts/182_CS_G553.pdf": {
     "course_code": "CS G553",
     "course_title": "Reconfigurable Computing",
     "instructor_in_charge": null,
@@ -8791,7 +8791,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "183_CS_G553.pdf": {
+  "handouts/183_CS_G553.pdf": {
     "course_code": "CS G553",
     "course_title": "Reconfigurable Computing",
     "instructor_in_charge": null,
@@ -8846,7 +8846,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "184_CS_G569.pdf": {
+  "handouts/184_CS_G569.pdf": {
     "course_code": "CS G569",
     "course_title": "Agentic AI",
     "instructor_in_charge": "Dr. Dhruv Kumar",
@@ -8901,7 +8901,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "185_CS_G569.pdf": {
+  "handouts/185_CS_G569.pdf": {
     "course_code": "CS G569",
     "course_title": "Agentic AI",
     "instructor_in_charge": "Dr. Dhruv Kumar",
@@ -8956,7 +8956,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "186_CS_G623.pdf": {
+  "handouts/186_CS_G623.pdf": {
     "course_code": "CS G623",
     "course_title": "ADVANCED OPERATING SYSTEMS",
     "instructor_in_charge": "Asish Bera",
@@ -9004,7 +9004,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "187_CS_G623.pdf": {
+  "handouts/187_CS_G623.pdf": {
     "course_code": "CS G623",
     "course_title": "ADVANCED OPERATING SYSTEMS",
     "instructor_in_charge": "Asish Bera",
@@ -9052,7 +9052,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "188_CS_U101.pdf": {
+  "handouts/188_CS_U101.pdf": {
     "course_code": "CS U101",
     "course_title": "Introduction to Python",
     "instructor_in_charge": "Dr. Prashant Trivedi",
@@ -9100,7 +9100,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "189_CS_U111.pdf": {
+  "handouts/189_CS_U111.pdf": {
     "course_code": "CS U111",
     "course_title": "Computational Thinking & Programming",
     "instructor_in_charge": "Prof. Vinti Agarwal",
@@ -9148,7 +9148,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "190_CS_U311.pdf": {
+  "handouts/190_CS_U311.pdf": {
     "course_code": "CS U311",
     "course_title": "Machine Learning",
     "instructor_in_charge": "Rakhi Agrawal",
@@ -9198,7 +9198,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "191_CS_U407.pdf": {
+  "handouts/191_CS_U407.pdf": {
     "course_code": "CS U407",
     "course_title": "ARTIFICIAL INTELLIGENCE",
     "instructor_in_charge": "GOPAL SINGH PHARTIYAL",
@@ -9242,7 +9242,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "192_CS_U425.pdf": {
+  "handouts/192_CS_U425.pdf": {
     "course_code": "CS U425",
     "course_title": "Deep Learning",
     "instructor_in_charge": "Dr. Bharat Richhariya",
@@ -9304,7 +9304,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "193_CS_U429.pdf": {
+  "handouts/193_CS_U429.pdf": {
     "course_code": "CS U429",
     "course_title": "Natural Language Processing",
     "instructor_in_charge": "Poonam Goyal",
@@ -9360,7 +9360,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "194_CS_U446.pdf": {
+  "handouts/194_CS_U446.pdf": {
     "course_code": "CS U446",
     "course_title": "Data Storage Technologies and Networks",
     "instructor_in_charge": "J.P. Mishra  (email: jpm)",
@@ -9401,7 +9401,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "195_CS_U469.pdf": {
+  "handouts/195_CS_U469.pdf": {
     "course_code": "CS U469",
     "course_title": "Information Retrieval",
     "instructor_in_charge": "Rakhi Agrawal ,",
@@ -9445,7 +9445,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "196_DE_G513.pdf": {
+  "handouts/196_DE_G513.pdf": {
     "course_code": "DE G513",
     "course_title": "TRIBOLOGY",
     "instructor_in_charge": "Dr. ARUN KUMAR JALAN",
@@ -9493,7 +9493,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "197_DE_G513.pdf": {
+  "handouts/197_DE_G513.pdf": {
     "course_code": "DE G513",
     "course_title": "TRIBOLOGY",
     "instructor_in_charge": "Dr. ARUN KUMAR JALAN",
@@ -9541,7 +9541,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "198_DE_G531.pdf": {
+  "handouts/198_DE_G531.pdf": {
     "course_code": "DE G531",
     "course_title": null,
     "instructor_in_charge": "Radha Raman Mishra",
@@ -9593,7 +9593,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "199_DE_G531.pdf": {
+  "handouts/199_DE_G531.pdf": {
     "course_code": "DE G531",
     "course_title": null,
     "instructor_in_charge": "Radha Raman Mishra",
@@ -9645,7 +9645,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "200_DE_G611.pdf": {
+  "handouts/200_DE_G611.pdf": {
     "course_code": "DE G611",
     "course_title": "DYNAMICS & VIBRATION",
     "instructor_in_charge": "Dr. Arun Kumar Jalan",
@@ -9693,7 +9693,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "201_DE_G611.pdf": {
+  "handouts/201_DE_G611.pdf": {
     "course_code": "DE G611",
     "course_title": "DYNAMICS & VIBRATION",
     "instructor_in_charge": "Dr. Arun Kumar Jalan",
@@ -9741,7 +9741,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "202_DE_G612.pdf": {
+  "handouts/202_DE_G612.pdf": {
     "course_code": "DE G612",
     "course_title": "Materials Testing and Selection",
     "instructor_in_charge": "Srinivasan Periaswamy",
@@ -9796,7 +9796,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "203_ECE_F211.pdf": {
+  "handouts/203_ECE_F211.pdf": {
     "course_code": "ECE F211",
     "course_title": "Electrical Machines",
     "instructor_in_charge": "HARI OM BANSAL",
@@ -9858,7 +9858,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "204_ECE_F214.pdf": {
+  "handouts/204_ECE_F214.pdf": {
     "course_code": "ECE F214",
     "course_title": "ELECTRONIC DEVICES",
     "instructor_in_charge": "NAVNEET GUPTA  (Chamber Bo.: 2210-H)",
@@ -9906,7 +9906,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "205_ECE_F215.pdf": {
+  "handouts/205_ECE_F215.pdf": {
     "course_code": "ECE F215",
     "course_title": "Digital Design",
     "instructor_in_charge": "(lec) Saurabh Gandhi  [https://tinyurl.com/f215-contact; office 2220-M]",
@@ -9971,7 +9971,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "206_ECE_F266.pdf": {
+  "handouts/206_ECE_F266.pdf": {
     "course_code": "ECE F266",
     "course_title": "Study Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -9990,7 +9990,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "207_ECE_F311.pdf": {
+  "handouts/207_ECE_F311.pdf": {
     "course_code": "ECE F311",
     "course_title": "Communication Systems",
     "instructor_in_charge": "Prof. Syed Mohammad Zafaruddin",
@@ -10047,7 +10047,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "208_ECE_F314.pdf": {
+  "handouts/208_ECE_F314.pdf": {
     "course_code": "ECE F314",
     "course_title": "Electromagnetic Fields and Microwave Engineering",
     "instructor_in_charge": "Prof. Pankaj Arora",
@@ -10127,7 +10127,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "209_ECE_F331.pdf": {
+  "handouts/209_ECE_F331.pdf": {
     "course_code": "ECE F331",
     "course_title": "Microwave Engineering",
     "instructor_in_charge": "Prof. Dinesh Rano (dinesh.rano@pilani.bits-pilani.ac.in,",
@@ -10185,7 +10185,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "210_ECE_F366.pdf": {
+  "handouts/210_ECE_F366.pdf": {
     "course_code": "ECE F366",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -10204,7 +10204,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "211_ECE_F367.pdf": {
+  "handouts/211_ECE_F367.pdf": {
     "course_code": "ECE F367",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -10223,7 +10223,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "212_ECE_F376.pdf": {
+  "handouts/212_ECE_F376.pdf": {
     "course_code": "ECE F376",
     "course_title": "Design Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -10242,7 +10242,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "213_ECE_F377.pdf": {
+  "handouts/213_ECE_F377.pdf": {
     "course_code": "ECE F377",
     "course_title": "Design Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -10261,7 +10261,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "214_ECE_F434.pdf": {
+  "handouts/214_ECE_F434.pdf": {
     "course_code": "ECE F434",
     "course_title": "Digital Signal Processing",
     "instructor_in_charge": "Sandeep Joshi",
@@ -10315,7 +10315,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "215_ECE_F491.pdf": {
+  "handouts/215_ECE_F491.pdf": {
     "course_code": "ECE F491",
     "course_title": "Special Projects",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -10334,7 +10334,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "216_ECON_F211.pdf": {
+  "handouts/216_ECON_F211.pdf": {
     "course_code": "ECON F211",
     "course_title": "PRINCIPLES OF ECONOMICS",
     "instructor_in_charge": "Prof. GEETILAXMI MOHAPATRA",
@@ -10384,7 +10384,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "217_ECON_F212.pdf": {
+  "handouts/217_ECON_F212.pdf": {
     "course_code": "ECON F212",
     "course_title": "[Fundamentals of Finance and Accounting]",
     "instructor_in_charge": null,
@@ -10425,7 +10425,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "218_ECON_F213.pdf": {
+  "handouts/218_ECON_F213.pdf": {
     "course_code": "ECON F213",
     "course_title": "MATHEMATICAL AND STATISTICAL METHODS",
     "instructor_in_charge": "PROF. RAHUL ARORA",
@@ -10501,7 +10501,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "219_ECON_F214.pdf": {
+  "handouts/219_ECON_F214.pdf": {
     "course_code": "ECON F214",
     "course_title": "ECONOMIC ENVIRONMENT OF BUSINESS",
     "instructor_in_charge": "PROF. SURUCHI SHRIMALI",
@@ -10575,7 +10575,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "220_ECON_F311.pdf": {
+  "handouts/220_ECON_F311.pdf": {
     "course_code": "ECON F311",
     "course_title": "INTERNATIONAL ECONOMICS",
     "instructor_in_charge": "Prof. GEETILAXMI MOHAPATRA",
@@ -10630,7 +10630,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "221_ECON_F312.pdf": {
+  "handouts/221_ECON_F312.pdf": {
     "course_code": "ECON F312",
     "course_title": "Money, Banking and Financial Markets",
     "instructor_in_charge": "ARUN KUMAR GIRI",
@@ -10685,7 +10685,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "222_ECON_F313.pdf": {
+  "handouts/222_ECON_F313.pdf": {
     "course_code": "ECON F313",
     "course_title": "ISSUES IN ECONOMIC DEVELOPMENT",
     "instructor_in_charge": "Prof. BALAKRUSHNA PADHI",
@@ -10763,7 +10763,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "223_ECON_F315.pdf": {
+  "handouts/223_ECON_F315.pdf": {
     "course_code": "ECON F315",
     "course_title": "Financial Management",
     "instructor_in_charge": "Rajan Pandey",
@@ -10797,7 +10797,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "224_ECON_F354.pdf": {
+  "handouts/224_ECON_F354.pdf": {
     "course_code": "ECON F354",
     "course_title": "Derivatives & Risk Management",
     "instructor_in_charge": "Prof. Aditya Sharma",
@@ -10837,7 +10837,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "225_ECON_F355.pdf": {
+  "handouts/225_ECON_F355.pdf": {
     "course_code": "ECON F355",
     "course_title": "BUSINESS ANALYSIS AND VALUATION",
     "instructor_in_charge": "Dr. Aprajita Pandey",
@@ -10881,7 +10881,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "226_ECON_F412.pdf": {
+  "handouts/226_ECON_F412.pdf": {
     "course_code": "ECON F412",
     "course_title": "Security Analysis and Portfolio Management",
     "instructor_in_charge": "Prof. Arya Kumar",
@@ -10935,7 +10935,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "227_ECON_F413.pdf": {
+  "handouts/227_ECON_F413.pdf": {
     "course_code": "ECON F413",
     "course_title": "FINANCIAL ENGINEERING",
     "instructor_in_charge": "Prof. Aditya Sharma",
@@ -10975,7 +10975,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "228_ECON_F414.pdf": {
+  "handouts/228_ECON_F414.pdf": {
     "course_code": "ECON F414",
     "course_title": "Creating and Leading Entrepreneurial Organization",
     "instructor_in_charge": "JYOTI",
@@ -11032,7 +11032,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "229_ECON_F415.pdf": {
+  "handouts/229_ECON_F415.pdf": {
     "course_code": "ECON F415",
     "course_title": "New Venture Creation",
     "instructor_in_charge": "(Pilani & All Campuses) : Prof. Jyoti Tikoria + Dr. Paul Lopez",
@@ -11057,7 +11057,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "230_ECON_F417.pdf": {
+  "handouts/230_ECON_F417.pdf": {
     "course_code": "ECON F417",
     "course_title": "RISK MANAGEMENT AND INSURANCE",
     "instructor_in_charge": "N V M RAO",
@@ -11105,7 +11105,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "231_EE_G501.pdf": {
+  "handouts/231_EE_G501.pdf": {
     "course_code": "EE G501",
     "course_title": "Environmental Sampling and Analytical Methods",
     "instructor_in_charge": "PUBALI MANDAL",
@@ -11124,7 +11124,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "232_EE_G501.pdf": {
+  "handouts/232_EE_G501.pdf": {
     "course_code": "EE G501",
     "course_title": "Environmental Sampling and Analytical Methods",
     "instructor_in_charge": "PUBALI MANDAL",
@@ -11143,7 +11143,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "233_EE_G508.pdf": {
+  "handouts/233_EE_G508.pdf": {
     "course_code": "EE G508",
     "course_title": "Urban Water Management",
     "instructor_in_charge": "Prof. Rallapalli Srinivas",
@@ -11198,7 +11198,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "234_EE_G508.pdf": {
+  "handouts/234_EE_G508.pdf": {
     "course_code": "EE G508",
     "course_title": "Urban Water Management",
     "instructor_in_charge": "Prof. Rallapalli Srinivas",
@@ -11253,7 +11253,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "235_EEE_F111.pdf": {
+  "handouts/235_EEE_F111.pdf": {
     "course_code": "EEE F111",
     "course_title": "ELECTRICAL SCIENCES",
     "instructor_in_charge": "Hitesh Datt Mathur",
@@ -11281,7 +11281,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "236_EEE_F211.pdf": {
+  "handouts/236_EEE_F211.pdf": {
     "course_code": "EEE F211",
     "course_title": "Electrical Machines",
     "instructor_in_charge": "HARI OM BANSAL",
@@ -11343,7 +11343,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "237_EEE_F214.pdf": {
+  "handouts/237_EEE_F214.pdf": {
     "course_code": "EEE F214",
     "course_title": "ELECTRONIC DEVICES",
     "instructor_in_charge": "NAVNEET GUPTA  (Chamber Bo.: 2210-H)",
@@ -11391,7 +11391,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "238_EEE_F215.pdf": {
+  "handouts/238_EEE_F215.pdf": {
     "course_code": "EEE F215",
     "course_title": "Digital Design",
     "instructor_in_charge": "(lec) Saurabh Gandhi  [https://tinyurl.com/f215-contact; office 2220-M]",
@@ -11456,7 +11456,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "239_EEE_F244.pdf": {
+  "handouts/239_EEE_F244.pdf": {
     "course_code": "EEE F244",
     "course_title": "Microelectronic Circuits",
     "instructor_in_charge": "ANU GUPTA",
@@ -11497,7 +11497,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "240_EEE_F266.pdf": {
+  "handouts/240_EEE_F266.pdf": {
     "course_code": "EEE F266",
     "course_title": "Study Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -11516,7 +11516,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "241_EEE_F311.pdf": {
+  "handouts/241_EEE_F311.pdf": {
     "course_code": "EEE F311",
     "course_title": "Communication Systems",
     "instructor_in_charge": "Prof. Syed Mohammad Zafaruddin",
@@ -11573,7 +11573,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "242_EEE_F313.pdf": {
+  "handouts/242_EEE_F313.pdf": {
     "course_code": "EEE F313",
     "course_title": "ANALOG AND DIGITAL VLSI DESIGN",
     "instructor_in_charge": "ANU GUPTA",
@@ -11621,7 +11621,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "243_EEE_F314.pdf": {
+  "handouts/243_EEE_F314.pdf": {
     "course_code": "EEE F314",
     "course_title": "FPGA BASED SYSTEM DESIGN",
     "instructor_in_charge": "GOVIND PRASAD",
@@ -11681,7 +11681,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "244_EEE_F346.pdf": {
+  "handouts/244_EEE_F346.pdf": {
     "course_code": "EEE F346",
     "course_title": "Data Communications and Networks",
     "instructor_in_charge": "RAHUL SINGHAL",
@@ -11713,7 +11713,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "245_EEE_F366.pdf": {
+  "handouts/245_EEE_F366.pdf": {
     "course_code": "EEE F366",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -11732,7 +11732,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "246_EEE_F367.pdf": {
+  "handouts/246_EEE_F367.pdf": {
     "course_code": "EEE F367",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -11751,7 +11751,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "247_EEE_F376.pdf": {
+  "handouts/247_EEE_F376.pdf": {
     "course_code": "EEE F376",
     "course_title": "Design Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -11770,7 +11770,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "248_EEE_F377.pdf": {
+  "handouts/248_EEE_F377.pdf": {
     "course_code": "EEE F377",
     "course_title": "Design Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -11789,7 +11789,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "249_EEE_F411.pdf": {
+  "handouts/249_EEE_F411.pdf": {
     "course_code": "EEE F411",
     "course_title": "Internet of Things",
     "instructor_in_charge": "Prof. Vinay Chamola",
@@ -11839,7 +11839,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "250_EEE_F422.pdf": {
+  "handouts/250_EEE_F422.pdf": {
     "course_code": "EEE F422",
     "course_title": "Modern Control Systems",
     "instructor_in_charge": "Prof. Dheerendra Singh",
@@ -11885,7 +11885,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "251_EEE_F426.pdf": {
+  "handouts/251_EEE_F426.pdf": {
     "course_code": "EEE F426",
     "course_title": "Fiber Optics and Optoelectronics",
     "instructor_in_charge": "VINOD KUMAR CHAUBEY",
@@ -11937,7 +11937,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "252_EEE_F434.pdf": {
+  "handouts/252_EEE_F434.pdf": {
     "course_code": "EEE F434",
     "course_title": "Digital Signal Processing",
     "instructor_in_charge": "Sandeep Joshi",
@@ -11991,7 +11991,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "253_EEE_F435.pdf": {
+  "handouts/253_EEE_F435.pdf": {
     "course_code": "EEE F435",
     "course_title": "Digital Image Processing",
     "instructor_in_charge": "Pawan Kamalkishor Ajmera",
@@ -12059,7 +12059,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "254_EEE_F437.pdf": {
+  "handouts/254_EEE_F437.pdf": {
     "course_code": "EEE F437",
     "course_title": "Semiconductor Fabrication Technology",
     "instructor_in_charge": "Pankaj Arora",
@@ -12129,7 +12129,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "255_EEE_F472.pdf": {
+  "handouts/255_EEE_F472.pdf": {
     "course_code": "EEE F472",
     "course_title": "Satellite Communications",
     "instructor_in_charge": null,
@@ -12186,7 +12186,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "256_EEE_F491.pdf": {
+  "handouts/256_EEE_F491.pdf": {
     "course_code": "EEE F491",
     "course_title": "Special Projects",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -12205,7 +12205,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "257_EEE_G511.pdf": {
+  "handouts/257_EEE_G511.pdf": {
     "course_code": "EEE G511",
     "course_title": "RF AND MICROWAVE CIRCUIT DESIGN",
     "instructor_in_charge": "Dinesh Rano",
@@ -12263,7 +12263,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "258_EEE_G511.pdf": {
+  "handouts/258_EEE_G511.pdf": {
     "course_code": "EEE G511",
     "course_title": "RF AND MICROWAVE CIRCUIT DESIGN",
     "instructor_in_charge": "Dinesh Rano",
@@ -12321,7 +12321,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "259_EEE_G512.pdf": {
+  "handouts/259_EEE_G512.pdf": {
     "course_code": "EEE G512",
     "course_title": "Embedded System Design",
     "instructor_in_charge": "Meetha V Shenoy",
@@ -12353,7 +12353,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "260_EEE_G512.pdf": {
+  "handouts/260_EEE_G512.pdf": {
     "course_code": "EEE G512",
     "course_title": "Embedded System Design",
     "instructor_in_charge": "Meetha V Shenoy",
@@ -12385,7 +12385,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "261_EEE_G513.pdf": {
+  "handouts/261_EEE_G513.pdf": {
     "course_code": "EEE G513",
     "course_title": "Machine Learning for Electronics Engineers",
     "instructor_in_charge": "Dr. Ritesh Vyas",
@@ -12429,7 +12429,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "262_EEE_G513.pdf": {
+  "handouts/262_EEE_G513.pdf": {
     "course_code": "EEE G513",
     "course_title": "Machine Learning for Electronics Engineers",
     "instructor_in_charge": "Dr. Ritesh Vyas",
@@ -12473,7 +12473,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "263_EEE_G515.pdf": {
+  "handouts/263_EEE_G515.pdf": {
     "course_code": "EEE G515",
     "course_title": "Real-Time Embedded Systems",
     "instructor_in_charge": "G S SESHA CHALAPATHI",
@@ -12517,7 +12517,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "264_EEE_G515.pdf": {
+  "handouts/264_EEE_G515.pdf": {
     "course_code": "EEE G515",
     "course_title": "Real-Time Embedded Systems",
     "instructor_in_charge": "G S SESHA CHALAPATHI",
@@ -12561,7 +12561,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "265_EEE_G516.pdf": {
+  "handouts/265_EEE_G516.pdf": {
     "course_code": "EEE G516",
     "course_title": "Signal Theory and Optimization",
     "instructor_in_charge": null,
@@ -12621,7 +12621,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "266_EEE_G516.pdf": {
+  "handouts/266_EEE_G516.pdf": {
     "course_code": "EEE G516",
     "course_title": "Signal Theory and Optimization",
     "instructor_in_charge": null,
@@ -12681,7 +12681,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "267_EEE_G539.pdf": {
+  "handouts/267_EEE_G539.pdf": {
     "course_code": "EEE G539",
     "course_title": "Modelling and Analysis of Electrical Machines",
     "instructor_in_charge": "Prof. Aditya R. Gautam",
@@ -12729,12 +12729,53 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "268_EEE_G549.pdf": {
+  "handouts/268_EEE_G549.pdf": {
     "course_code": "EEE G549",
     "course_title": null,
     "instructor_in_charge": "Prof. Rahul Kumar , Prof. Navneet Gupta, Prof. V. K. Chaubey",
     "other_instructors": [],
-    "evaluation_components": [],
+    "evaluation_components": [
+      {
+        "Evaluation Components": "Mid-semester Test",
+        "Duration": "90 min",
+        "Weightage (%)": "25",
+        "Marks": "25",
+        "Date & time": "10/10 FN2",
+        "Remarks": "CB"
+      },
+      {
+        "Evaluation Components": "Lab Component",
+        "Duration": "-",
+        "Weightage (%)": "30",
+        "Marks": "20",
+        "Date & time": "-",
+        "Remarks": "OB"
+      },
+      {
+        "Evaluation Components": "Quizzes",
+        "Duration": "10-15 mins",
+        "Weightage (%)": "10",
+        "Marks": "10",
+        "Date & time": "Total 5",
+        "Remarks": "CB"
+      },
+      {
+        "Evaluation Components": "Comprehensive Examination",
+        "Duration": "3 Hours",
+        "Weightage (%)": "35",
+        "Marks": "35",
+        "Date & time": "15/12 AN",
+        "Remarks": "CB/OB"
+      },
+      {
+        "Evaluation Components": "TOTAL",
+        "Duration": null,
+        "Weightage (%)": null,
+        "Marks": "100",
+        "Date & time": null,
+        "Remarks": null
+      }
+    ],
     "makeup_policy": null,
     "attendance_policy": null,
     "topics": null,
@@ -12742,13 +12783,13 @@
       "file": "handouts/268_EEE_G549.pdf",
       "page": 3
     },
-    "has_midsem": false,
-    "has_compre": false,
+    "has_midsem": true,
+    "has_compre": true,
     "has_project": false,
-    "has_quiz": false,
-    "has_lab": false
+    "has_quiz": true,
+    "has_lab": true
   },
-  "269_EEE_G554.pdf": {
+  "handouts/269_EEE_G554.pdf": {
     "course_code": "EEE G554",
     "course_title": "EEE G554",
     "instructor_in_charge": "Rajneesh Kumar",
@@ -12833,7 +12874,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "270_EEE_G554.pdf": {
+  "handouts/270_EEE_G554.pdf": {
     "course_code": "EEE G554",
     "course_title": "EEE G554",
     "instructor_in_charge": "Rajneesh Kumar",
@@ -12918,7 +12959,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "271_EEE_G559.pdf": {
+  "handouts/271_EEE_G559.pdf": {
     "course_code": "EEE G559",
     "course_title": "ADV Power Electronics",
     "instructor_in_charge": "Rajneesh Kumar",
@@ -12966,7 +13007,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "272_EEE_G559.pdf": {
+  "handouts/272_EEE_G559.pdf": {
     "course_code": "EEE G559",
     "course_title": "ADV Power Electronics",
     "instructor_in_charge": "Rajneesh Kumar",
@@ -13014,7 +13055,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "273_EEE_G593.pdf": {
+  "handouts/273_EEE_G593.pdf": {
     "course_code": "EEE G593",
     "course_title": "Power Quality",
     "instructor_in_charge": "Ashish Patel",
@@ -13071,7 +13112,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "274_EEE_G593.pdf": {
+  "handouts/274_EEE_G593.pdf": {
     "course_code": "EEE G593",
     "course_title": "Power Quality",
     "instructor_in_charge": "Ashish Patel",
@@ -13128,7 +13169,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "275_EEE_G595.pdf": {
+  "handouts/275_EEE_G595.pdf": {
     "course_code": "EEE G595",
     "course_title": "NANO-ELECTRONICS AND NANO-PHOTONICS TECHNOLOGY",
     "instructor_in_charge": "V K CHAUBEY",
@@ -13176,7 +13217,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "276_EEE_G595.pdf": {
+  "handouts/276_EEE_G595.pdf": {
     "course_code": "EEE G595",
     "course_title": "NANO-ELECTRONICS AND NANO-PHOTONICS TECHNOLOGY",
     "instructor_in_charge": "V K CHAUBEY",
@@ -13224,7 +13265,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "277_EEE_G614.pdf": {
+  "handouts/277_EEE_G614.pdf": {
     "course_code": "EEE G614",
     "course_title": "Advanced Wireless Communications",
     "instructor_in_charge": "Dr. Monolina Dutta",
@@ -13281,7 +13322,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "278_EEE_G614.pdf": {
+  "handouts/278_EEE_G614.pdf": {
     "course_code": "EEE G614",
     "course_title": "Advanced Wireless Communications",
     "instructor_in_charge": "Dr. Monolina Dutta",
@@ -13338,7 +13379,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "279_EEE_G622.pdf": {
+  "handouts/279_EEE_G622.pdf": {
     "course_code": "EEE G622",
     "course_title": "Advanced Digital Communication",
     "instructor_in_charge": "Dr. Sharda Tripathi",
@@ -13393,7 +13434,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "280_EEE_G622.pdf": {
+  "handouts/280_EEE_G622.pdf": {
     "course_code": "EEE G622",
     "course_title": "Advanced Digital Communication",
     "instructor_in_charge": "Dr. Sharda Tripathi",
@@ -13448,7 +13489,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "281_EEE_G626.pdf": {
+  "handouts/281_EEE_G626.pdf": {
     "course_code": "EEE G626",
     "course_title": "Hardware and Software Codesign",
     "instructor_in_charge": "Prof. Vinay Chamola",
@@ -13508,7 +13549,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "282_EEE_G626.pdf": {
+  "handouts/282_EEE_G626.pdf": {
     "course_code": "EEE G626",
     "course_title": "Hardware and Software Codesign",
     "instructor_in_charge": "Prof. Vinay Chamola",
@@ -13568,28 +13609,83 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "283_EEE_U111.pdf": {
+  "handouts/283_EEE_U111.pdf": {
     "course_code": "EEE U111",
     "course_title": "ELECTRICAL SCIENCES",
     "instructor_in_charge": "ABHIJIT ASATI",
     "other_instructors": [
       "] Tutorial"
     ],
-    "evaluation_components": [],
+    "evaluation_components": [
+      {
+        "Sr. No.": "1.",
+        "Evaluation Component": "Class participation*",
+        "Duration": "*",
+        "Weightage": "5 %",
+        "Marks (300)": "15",
+        "Date & Time": "During lecture Hour",
+        "Nature of Component": "-"
+      },
+      {
+        "Sr. No.": "2.",
+        "Evaluation Component": "Tutorial - Quizzes",
+        "Duration": "15 Min.",
+        "Weightage": "15 %",
+        "Marks (300)": "45 (15xBest 3)",
+        "Date & Time": "During Tutorial Hour",
+        "Nature of Component": "Closed Book"
+      },
+      {
+        "Sr. No.": "3.",
+        "Evaluation Component": "Lab Regularity",
+        "Duration": "Lab hour",
+        "Weightage": "20 %",
+        "Marks (300)": "60 (=6x10)",
+        "Date & Time": "During Lab Hour",
+        "Nature of Component": "Open Book"
+      },
+      {
+        "Sr. No.": "4.",
+        "Evaluation Component": "Lab Comprehensive Evaluation",
+        "Duration": "2 Hour",
+        "Weightage": "10 %",
+        "Marks (300)": "30",
+        "Date & Time": "During Lab Comprehensive Exam",
+        "Nature of Component": "Closed Book"
+      },
+      {
+        "Sr. No.": "3.",
+        "Evaluation Component": "Mid-Sem. Exam",
+        "Duration": "90 Min.",
+        "Weightage": "20 %",
+        "Marks (300)": "60",
+        "Date & Time": "9/10/2026 (AN2)",
+        "Nature of Component": "Open Book"
+      },
+      {
+        "Sr. No.": "4.",
+        "Evaluation Component": "Comprehensive Exam.",
+        "Duration": "180 Min.",
+        "Weightage": "30 %",
+        "Marks (300)": "90",
+        "Date & Time": "14/12/2026 (AN)",
+        "Nature of Component": "Closed Book"
+      }
+    ],
     "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for mid semester or comprehensive exam only.",
     "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
     "topics": "Course covers basic passive circuit elements, dependent and independent sources, network theorems, circuit analysis techniques and transient response of first and second order circuits. Sinusoidal steady-state analysis and AC power analysis. Semiconductors - operation of diodes (ideal and real), Zener diodes and its applications. Introduction of BJTs, Introduction to operational amplifiers and applications. Birla Institute of Technology & Science, Pilani Pilani | Dubai | Goa | Hyderabad ACADEMIC\u2014 UNDER GRADUATE STUDIES DIVISION\n\nThe primary objective of this course is to teach the principles of different aspects of electrical sciences: (1) Circuits Analysis both steady state and transient (2) Electronic Devices: Diode, BJT and OPAMP.",
     "source": {
       "file": "handouts/283_EEE_U111.pdf",
-      "page": 3
+      "page": 5
     },
-    "has_midsem": false,
-    "has_compre": false,
+    "has_midsem": true,
+    "has_compre": true,
     "has_project": false,
-    "has_quiz": false,
-    "has_lab": false
+    "has_quiz": true,
+    "has_lab": true
   },
-  "284_EEE_U422.pdf": {
+  "handouts/284_EEE_U422.pdf": {
     "course_code": "EEE U422",
     "course_title": "Modern Control Systems",
     "instructor_in_charge": "Prof. Dheerendra Singh",
@@ -13635,7 +13731,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "285_ENVS_F211.pdf": {
+  "handouts/285_ENVS_F211.pdf": {
     "course_code": "ENVS F211",
     "course_title": "Hydraulic and Fluid Mechanics",
     "instructor_in_charge": "Prof. SHIBANI KHANRA JHA",
@@ -13683,7 +13779,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "286_ENVS_F212.pdf": {
+  "handouts/286_ENVS_F212.pdf": {
     "course_code": "ENVS F212",
     "course_title": "Environmental Chemistry and Environmental Biotechnology",
     "instructor_in_charge": "and other instructor : Prof. Bibhas R. Sarkar , and Prof. B. Vani",
@@ -13721,7 +13817,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "287_FIN_F212.pdf": {
+  "handouts/287_FIN_F212.pdf": {
     "course_code": "FIN F212",
     "course_title": "[Fundamentals of Finance and Accounting]",
     "instructor_in_charge": null,
@@ -13762,7 +13858,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "288_FIN_F313.pdf": {
+  "handouts/288_FIN_F313.pdf": {
     "course_code": "FIN F313",
     "course_title": "Security Analysis and Portfolio Management",
     "instructor_in_charge": "Prof. Arya Kumar",
@@ -13816,7 +13912,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "289_FIN_F315.pdf": {
+  "handouts/289_FIN_F315.pdf": {
     "course_code": "FIN F315",
     "course_title": "Financial Management",
     "instructor_in_charge": "Rajan Pandey",
@@ -13850,7 +13946,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "290_FIN_F414.pdf": {
+  "handouts/290_FIN_F414.pdf": {
     "course_code": "FIN F414",
     "course_title": "Financial Risk Analytics and Management",
     "instructor_in_charge": "Prof. Byomakesh Debata",
@@ -13878,7 +13974,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "291_GS_F211.pdf": {
+  "handouts/291_GS_F211.pdf": {
     "course_code": "GS F211",
     "course_title": "Modern Political Concepts",
     "instructor_in_charge": "Dr. Veena R",
@@ -13935,7 +14031,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "292_GS_F212.pdf": {
+  "handouts/292_GS_F212.pdf": {
     "course_code": "GS F212",
     "course_title": "Environment, Development and Climate Change (EDCC)",
     "instructor_in_charge": "Prof. Sailaja Nandigama",
@@ -13985,7 +14081,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "293_GS_F213.pdf": {
+  "handouts/293_GS_F213.pdf": {
     "course_code": "GS F213",
     "course_title": "Development Theories",
     "instructor_in_charge": "Prof. Sailaja Nandigama",
@@ -14035,7 +14131,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "294_GS_F221.pdf": {
+  "handouts/294_GS_F221.pdf": {
     "course_code": "GS F221",
     "course_title": "Business Communication",
     "instructor_in_charge": "SUSHILA SHEKHAWAT",
@@ -14081,7 +14177,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "295_GS_F222.pdf": {
+  "handouts/295_GS_F222.pdf": {
     "course_code": "GS F222",
     "course_title": "Language Lab Practice",
     "instructor_in_charge": null,
@@ -14110,7 +14206,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "296_GS_F223.pdf": {
+  "handouts/296_GS_F223.pdf": {
     "course_code": "GS F223",
     "course_title": "Introduction to Mass Communication",
     "instructor_in_charge": "SUSHILA SHEKHAWAT",
@@ -14160,7 +14256,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "297_GS_F224.pdf": {
+  "handouts/297_GS_F224.pdf": {
     "course_code": "GS F224",
     "course_title": "PRINT & AUDIO-VISUAL ADVERTISING",
     "instructor_in_charge": "SANGEETA SHARMA",
@@ -14196,7 +14292,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "298_GS_F232.pdf": {
+  "handouts/298_GS_F232.pdf": {
     "course_code": "GS F232",
     "course_title": "Introductory Psychology",
     "instructor_in_charge": "Prof. Tanu Shukla",
@@ -14230,7 +14326,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "299_GS_F233.pdf": {
+  "handouts/299_GS_F233.pdf": {
     "course_code": "GS F233",
     "course_title": "Public Policy",
     "instructor_in_charge": "Prof. Natasha Hazarika",
@@ -14257,7 +14353,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "300_GS_F241.pdf": {
+  "handouts/300_GS_F241.pdf": {
     "course_code": "GS F241",
     "course_title": "Creative Writing",
     "instructor_in_charge": "DEVIKA",
@@ -14298,7 +14394,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "301_GS_F243.pdf": {
+  "handouts/301_GS_F243.pdf": {
     "course_code": "GS F243",
     "course_title": "Current Affairs",
     "instructor_in_charge": "SANJIV KUMAR CHOUDHARY",
@@ -14350,7 +14446,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "302_GS_F245.pdf": {
+  "handouts/302_GS_F245.pdf": {
     "course_code": "GS F245",
     "course_title": "Effective Public Speaking",
     "instructor_in_charge": "PUSHP LATA",
@@ -14377,7 +14473,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "303_GS_F266.pdf": {
+  "handouts/303_GS_F266.pdf": {
     "course_code": "GS F266",
     "course_title": "Study Project",
     "instructor_in_charge": "SANGEETA SHARMA",
@@ -14396,7 +14492,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "304_GS_F311.pdf": {
+  "handouts/304_GS_F311.pdf": {
     "course_code": "GS F311",
     "course_title": "Introduction to Conflict Management",
     "instructor_in_charge": "MADHURIMA DAS",
@@ -14448,7 +14544,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "305_GS_F312.pdf": {
+  "handouts/305_GS_F312.pdf": {
     "course_code": "GS F312",
     "course_title": "Applied Philosophy",
     "instructor_in_charge": "Dr. Rasleen Kour",
@@ -14503,7 +14599,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "306_GS_F313.pdf": {
+  "handouts/306_GS_F313.pdf": {
     "course_code": "GS F313",
     "course_title": "Marxian Thought",
     "instructor_in_charge": "Dr. Paul Mathew",
@@ -14558,7 +14654,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "307_GS_F321.pdf": {
+  "handouts/307_GS_F321.pdf": {
     "course_code": "GS F321",
     "course_title": "Mass Media Content and Design",
     "instructor_in_charge": "V S NIRBAN",
@@ -14606,7 +14702,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "308_GS_F322.pdf": {
+  "handouts/308_GS_F322.pdf": {
     "course_code": "GS F322",
     "course_title": "Critical Analysis of Literature and Cinema",
     "instructor_in_charge": "PRATEEK",
@@ -14647,7 +14743,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "309_GS_F331.pdf": {
+  "handouts/309_GS_F331.pdf": {
     "course_code": "GS F331",
     "course_title": "TECHNIQUES IN SOCIAL RESEARCH",
     "instructor_in_charge": "Dr. Tanu Shukla",
@@ -14695,7 +14791,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "310_GS_F342.pdf": {
+  "handouts/310_GS_F342.pdf": {
     "course_code": "GS F342",
     "course_title": "Computer-Mediated Communication",
     "instructor_in_charge": "Virendra Singh Nirban",
@@ -14733,7 +14829,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "311_GS_F344.pdf": {
+  "handouts/311_GS_F344.pdf": {
     "course_code": "GS F344",
     "course_title": "COPYWRITING",
     "instructor_in_charge": "GAJENDRA SINGH CHAUHAN",
@@ -14779,7 +14875,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "312_GS_F366.pdf": {
+  "handouts/312_GS_F366.pdf": {
     "course_code": "GS F366",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "SANGEETA SHARMA",
@@ -14800,7 +14896,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "313_GS_F367.pdf": {
+  "handouts/313_GS_F367.pdf": {
     "course_code": "GS F367",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "SANGEETA SHARMA",
@@ -14821,7 +14917,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "314_GS_F376.pdf": {
+  "handouts/314_GS_F376.pdf": {
     "course_code": "GS F376",
     "course_title": null,
     "instructor_in_charge": "SANGEETA SHARMA",
@@ -14840,7 +14936,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "315_GS_F377.pdf": {
+  "handouts/315_GS_F377.pdf": {
     "course_code": "GS F377",
     "course_title": null,
     "instructor_in_charge": "SANGEETA SHARMA",
@@ -14859,7 +14955,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "316_GS_F491.pdf": {
+  "handouts/316_GS_F491.pdf": {
     "course_code": "GS F491",
     "course_title": null,
     "instructor_in_charge": "SANGEETA SHARMA",
@@ -14878,7 +14974,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "317_HSS_F221.pdf": {
+  "handouts/317_HSS_F221.pdf": {
     "course_code": "HSS F221",
     "course_title": "Readings from Drama",
     "instructor_in_charge": "PRATEEK",
@@ -14926,7 +15022,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "318_HSS_F222.pdf": {
+  "handouts/318_HSS_F222.pdf": {
     "course_code": "HSS F222",
     "course_title": "LINGUISTICS",
     "instructor_in_charge": "SANJIV KUMAR CHOUDHARY",
@@ -14978,7 +15074,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "319_HSS_F223.pdf": {
+  "handouts/319_HSS_F223.pdf": {
     "course_code": "HSS F223",
     "course_title": "Appreciation of Indian Music",
     "instructor_in_charge": "Dr. Hricha Rashmi",
@@ -15034,7 +15130,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "320_HSS_F227.pdf": {
+  "handouts/320_HSS_F227.pdf": {
     "course_code": "HSS F227",
     "course_title": "Cross Cultural Skills",
     "instructor_in_charge": "PUSHP LATA",
@@ -15088,7 +15184,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "321_HSS_F235.pdf": {
+  "handouts/321_HSS_F235.pdf": {
     "course_code": "HSS F235",
     "course_title": "Introductory Philosophy",
     "instructor_in_charge": "Anupam Yadav",
@@ -15132,7 +15228,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "322_HSS_F266.pdf": {
+  "handouts/322_HSS_F266.pdf": {
     "course_code": "HSS F266",
     "course_title": null,
     "instructor_in_charge": "SANGEETA SHARMA",
@@ -15151,7 +15247,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "323_HSS_F316.pdf": {
+  "handouts/323_HSS_F316.pdf": {
     "course_code": "HSS F316",
     "course_title": "Popular Literature and Culture of South Asia",
     "instructor_in_charge": "Dr. Shriya Raina",
@@ -15199,7 +15295,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "324_HSS_F323.pdf": {
+  "handouts/324_HSS_F323.pdf": {
     "course_code": "HSS F323",
     "course_title": "Organizational Psychology",
     "instructor_in_charge": "Prof. Rajneesh Choubisa",
@@ -15261,7 +15357,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "325_HSS_F324.pdf": {
+  "handouts/325_HSS_F324.pdf": {
     "course_code": "HSS F324",
     "course_title": "SCIENCE FICTION",
     "instructor_in_charge": "Susan Haris",
@@ -15309,7 +15405,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "326_HSS_F328.pdf": {
+  "handouts/326_HSS_F328.pdf": {
     "course_code": "HSS F328",
     "course_title": "Human Resource Development",
     "instructor_in_charge": "Prof. Rajneesh Choubisa",
@@ -15371,7 +15467,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "327_HSS_F329.pdf": {
+  "handouts/327_HSS_F329.pdf": {
     "course_code": "HSS F329",
     "course_title": "Musicology - An - Introduction",
     "instructor_in_charge": "Dr. Hricha Rashmi",
@@ -15390,7 +15486,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "328_HSS_F334.pdf": {
+  "handouts/328_HSS_F334.pdf": {
     "course_code": "HSS F334",
     "course_title": "SRIMAD BHAGAVAD GITA",
     "instructor_in_charge": "PROF. VINAY CHAMOLA",
@@ -15444,7 +15540,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "329_HSS_F343.pdf": {
+  "handouts/329_HSS_F343.pdf": {
     "course_code": "HSS F343",
     "course_title": "Professional Ethics",
     "instructor_in_charge": "Anupam Yadav",
@@ -15492,7 +15588,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "330_HSS_F346.pdf": {
+  "handouts/330_HSS_F346.pdf": {
     "course_code": "HSS F346",
     "course_title": "INTERNATIONALRELATIONS",
     "instructor_in_charge": "Dr. VeenaR",
@@ -15549,7 +15645,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "331_HSS_F349.pdf": {
+  "handouts/331_HSS_F349.pdf": {
     "course_code": "HSS F349",
     "course_title": "ECOCRITICISM",
     "instructor_in_charge": "Susan Haris",
@@ -15597,7 +15693,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "332_HSS_U141.pdf": {
+  "handouts/332_HSS_U141.pdf": {
     "course_code": "HSS U141",
     "course_title": "Academic Writing Lab",
     "instructor_in_charge": "CHINTALAPALLI VIJAYAKUMAR",
@@ -15645,7 +15741,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "333_INSTR_F211.pdf": {
+  "handouts/333_INSTR_F211.pdf": {
     "course_code": "INSTR F211",
     "course_title": "Electrical Machines",
     "instructor_in_charge": "HARI OM BANSAL",
@@ -15707,7 +15803,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "334_INSTR_F214.pdf": {
+  "handouts/334_INSTR_F214.pdf": {
     "course_code": "INSTR F214",
     "course_title": "ELECTRONIC DEVICES",
     "instructor_in_charge": "NAVNEET GUPTA  (Chamber Bo.: 2210-H)",
@@ -15755,7 +15851,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "335_INSTR_F215.pdf": {
+  "handouts/335_INSTR_F215.pdf": {
     "course_code": "INSTR F215",
     "course_title": "Digital Design",
     "instructor_in_charge": "(lec) Saurabh Gandhi  [https://tinyurl.com/f215-contact; office 2220-M]",
@@ -15820,7 +15916,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "336_INSTR_F266.pdf": {
+  "handouts/336_INSTR_F266.pdf": {
     "course_code": "INSTR F266",
     "course_title": "Study Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -15839,7 +15935,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "337_INSTR_F311.pdf": {
+  "handouts/337_INSTR_F311.pdf": {
     "course_code": "INSTR F311",
     "course_title": "Electronic Instruments and Instrumentation Technology",
     "instructor_in_charge": "Sujan Yenuganti",
@@ -15887,7 +15983,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "338_INSTR_F312.pdf": {
+  "handouts/338_INSTR_F312.pdf": {
     "course_code": "INSTR F312",
     "course_title": "Transducers and Measurement Systems",
     "instructor_in_charge": "K. K. GUPTA",
@@ -15935,7 +16031,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "339_INSTR_F313.pdf": {
+  "handouts/339_INSTR_F313.pdf": {
     "course_code": "INSTR F313",
     "course_title": "ANALOG AND DIGITAL VLSI DESIGN",
     "instructor_in_charge": "ANU GUPTA",
@@ -15983,7 +16079,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "340_INSTR_F366.pdf": {
+  "handouts/340_INSTR_F366.pdf": {
     "course_code": "INSTR F366",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -16002,7 +16098,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "341_INSTR_F367.pdf": {
+  "handouts/341_INSTR_F367.pdf": {
     "course_code": "INSTR F367",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -16021,7 +16117,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "342_INSTR_F376.pdf": {
+  "handouts/342_INSTR_F376.pdf": {
     "course_code": "INSTR F376",
     "course_title": "Design Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -16040,7 +16136,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "343_INSTR_F377.pdf": {
+  "handouts/343_INSTR_F377.pdf": {
     "course_code": "INSTR F377",
     "course_title": "Design Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -16059,7 +16155,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "344_INSTR_F491.pdf": {
+  "handouts/344_INSTR_F491.pdf": {
     "course_code": "INSTR F491",
     "course_title": "Laboratory Project",
     "instructor_in_charge": "NAVNEET GUPTA",
@@ -16078,7 +16174,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "345_MAC_F211.pdf": {
+  "handouts/345_MAC_F211.pdf": {
     "course_code": "MAC F211",
     "course_title": "Linear Algebra and its Applications",
     "instructor_in_charge": "J ITENDER KUMAR",
@@ -16116,7 +16212,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "346_MAC_F212.pdf": {
+  "handouts/346_MAC_F212.pdf": {
     "course_code": "MAC F212",
     "course_title": "Object Oriented Programming",
     "instructor_in_charge": "Dr. Pratik Narang",
@@ -16171,7 +16267,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "347_MAC_F213.pdf": {
+  "handouts/347_MAC_F213.pdf": {
     "course_code": "MAC F213",
     "course_title": "Discrete Mathematics",
     "instructor_in_charge": "DIVYUM SHARMA",
@@ -16212,7 +16308,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "348_MAC_F214.pdf": {
+  "handouts/348_MAC_F214.pdf": {
     "course_code": "MAC F214",
     "course_title": null,
     "instructor_in_charge": null,
@@ -16231,7 +16327,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "349_MAC_F266.pdf": {
+  "handouts/349_MAC_F266.pdf": {
     "course_code": "MAC F266",
     "course_title": "Study Project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -16293,7 +16389,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "350_MAC_F311.pdf": {
+  "handouts/350_MAC_F311.pdf": {
     "course_code": "MAC F311",
     "course_title": "ALGEBRA I",
     "instructor_in_charge": "RAHUL KUMAR",
@@ -16339,7 +16435,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "351_MAC_F312.pdf": {
+  "handouts/351_MAC_F312.pdf": {
     "course_code": "MAC F312",
     "course_title": "Foundations of Data Science",
     "instructor_in_charge": "Prof. NILADRI CHATTERJEE",
@@ -16358,7 +16454,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "352_MAC_F314.pdf": {
+  "handouts/352_MAC_F314.pdf": {
     "course_code": "MAC F314",
     "course_title": "Mathematical Modelling",
     "instructor_in_charge": "DHIRAJ KUMAR DAS",
@@ -16399,7 +16495,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "353_MAC_F366.pdf": {
+  "handouts/353_MAC_F366.pdf": {
     "course_code": "MAC F366",
     "course_title": "Laboratory project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -16461,7 +16557,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "354_MAC_F367.pdf": {
+  "handouts/354_MAC_F367.pdf": {
     "course_code": "MAC F367",
     "course_title": "Laboratory project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -16523,7 +16619,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "355_MAC_F376.pdf": {
+  "handouts/355_MAC_F376.pdf": {
     "course_code": "MAC F376",
     "course_title": "Design Project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -16585,7 +16681,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "356_MAC_F377.pdf": {
+  "handouts/356_MAC_F377.pdf": {
     "course_code": "MAC F377",
     "course_title": "Design Project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -16647,7 +16743,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "357_MAC_F491.pdf": {
+  "handouts/357_MAC_F491.pdf": {
     "course_code": "MAC F491",
     "course_title": "Special Project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -16711,7 +16807,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "358_MATH_F101.pdf": {
+  "handouts/358_MATH_F101.pdf": {
     "course_code": "MATH F101",
     "course_title": "Multivariable Calculus",
     "instructor_in_charge": "PRAMOD EYYUNNI",
@@ -16765,7 +16861,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "359_MATH_F211.pdf": {
+  "handouts/359_MATH_F211.pdf": {
     "course_code": "MATH F211",
     "course_title": "Differential Equations/ Mathematics-III",
     "instructor_in_charge": "KRISHNENDRA SHEKHAWAT",
@@ -16802,7 +16898,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "360_MATH_F212.pdf": {
+  "handouts/360_MATH_F212.pdf": {
     "course_code": "MATH F212",
     "course_title": "OPTIMIZATION",
     "instructor_in_charge": "SHIVI AGARWAL",
@@ -16845,7 +16941,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "361_MATH_F213.pdf": {
+  "handouts/361_MATH_F213.pdf": {
     "course_code": "MATH F213",
     "course_title": "Discrete Mathematics",
     "instructor_in_charge": "DIVYUM SHARMA",
@@ -16886,7 +16982,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "362_MATH_F214.pdf": {
+  "handouts/362_MATH_F214.pdf": {
     "course_code": "MATH F214",
     "course_title": null,
     "instructor_in_charge": null,
@@ -16905,7 +17001,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "363_MATH_F215.pdf": {
+  "handouts/363_MATH_F215.pdf": {
     "course_code": "MATH F215",
     "course_title": "ALGEBRA I",
     "instructor_in_charge": "RAHUL KUMAR",
@@ -16951,7 +17047,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "364_MATH_F266.pdf": {
+  "handouts/364_MATH_F266.pdf": {
     "course_code": "MATH F266",
     "course_title": "Study Project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -17013,7 +17109,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "365_MATH_F311.pdf": {
+  "handouts/365_MATH_F311.pdf": {
     "course_code": "MATH F311",
     "course_title": "INTRODUCTION TO TOPOLOGY",
     "instructor_in_charge": "SHUCHITA GOYAL",
@@ -17045,7 +17141,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "366_MATH_F312.pdf": {
+  "handouts/366_MATH_F312.pdf": {
     "course_code": "MATH F312",
     "course_title": "Ordinary Differential Equations",
     "instructor_in_charge": "BALRAM DUBEY, Email: bdubey@pilani.bits-pilani.ac.in, Chamber No: 6067-B",
@@ -17093,7 +17189,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "367_MATH_F313.pdf": {
+  "handouts/367_MATH_F313.pdf": {
     "course_code": "MATH F313",
     "course_title": "Numerical Analysis",
     "instructor_in_charge": "Devendra Kumar",
@@ -17137,7 +17233,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "368_MATH_F366.pdf": {
+  "handouts/368_MATH_F366.pdf": {
     "course_code": "MATH F366",
     "course_title": "Laboratory project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -17199,7 +17295,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "369_MATH_F376.pdf": {
+  "handouts/369_MATH_F376.pdf": {
     "course_code": "MATH F376",
     "course_title": "Design Project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -17261,7 +17357,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "370_MATH_F377.pdf": {
+  "handouts/370_MATH_F377.pdf": {
     "course_code": "MATH F377",
     "course_title": "Design Project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -17323,7 +17419,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "371_MATH_F421.pdf": {
+  "handouts/371_MATH_F421.pdf": {
     "course_code": "MATH F421",
     "course_title": "Combinatorial Mathematics",
     "instructor_in_charge": "KRISHNENDRA SHEKHAWAT (6067Q, Department of Mathematics)",
@@ -17342,7 +17438,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "372_MATH_F428.pdf": {
+  "handouts/372_MATH_F428.pdf": {
     "course_code": "MATH F428",
     "course_title": "TIME SERIES ANALYSIS AND FORECASTING",
     "instructor_in_charge": "SUMANTA PASARI",
@@ -17394,7 +17490,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "373_MATH_F432.pdf": {
+  "handouts/373_MATH_F432.pdf": {
     "course_code": "MATH F432",
     "course_title": "Applied Statistical Methods",
     "instructor_in_charge": "SUMANTA PASARI",
@@ -17451,7 +17547,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "374_MATH_F491.pdf": {
+  "handouts/374_MATH_F491.pdf": {
     "course_code": "MATH F491",
     "course_title": "Special Project",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -17515,7 +17611,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "375_MATH_U101.pdf": {
+  "handouts/375_MATH_U101.pdf": {
     "course_code": "MATH U101",
     "course_title": "Multivariable Calculus",
     "instructor_in_charge": "PRAMOD EYYUNNI",
@@ -17569,7 +17665,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "376_MATH_U110.pdf": {
+  "handouts/376_MATH_U110.pdf": {
     "course_code": "MATH U110",
     "course_title": "Essential Precalculus and Calculus",
     "instructor_in_charge": "ASHISH TIWARI",
@@ -17615,7 +17711,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "377_ME_F211.pdf": {
+  "handouts/377_ME_F211.pdf": {
     "course_code": "ME F211",
     "course_title": null,
     "instructor_in_charge": "Prof. Sharad Shrivastava",
@@ -17667,7 +17763,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "378_ME_F212.pdf": {
+  "handouts/378_ME_F212.pdf": {
     "course_code": "ME F212",
     "course_title": "Fluid Mechanics",
     "instructor_in_charge": "Prof. Shyam Sunder Yadav",
@@ -17717,7 +17813,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "379_ME_F216.pdf": {
+  "handouts/379_ME_F216.pdf": {
     "course_code": "ME F216",
     "course_title": null,
     "instructor_in_charge": null,
@@ -17767,7 +17863,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "380_ME_F217.pdf": {
+  "handouts/380_ME_F217.pdf": {
     "course_code": "ME F217",
     "course_title": "Applied Thermodynamics",
     "instructor_in_charge": "Prof. Suvanjan Bhattacharyya",
@@ -17819,7 +17915,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "381_ME_F314.pdf": {
+  "handouts/381_ME_F314.pdf": {
     "course_code": "ME F314",
     "course_title": "DESIGN OF MACHINE ELEMENTS",
     "instructor_in_charge": "Prof. MANI SANKAR DASGUPTA",
@@ -17860,7 +17956,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "382_ME_F315.pdf": {
+  "handouts/382_ME_F315.pdf": {
     "course_code": "ME F315",
     "course_title": "[Advanced Manufacturing Processes]",
     "instructor_in_charge": "[Tufan Chandra Bera]",
@@ -17908,7 +18004,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "383_ME_F316.pdf": {
+  "handouts/383_ME_F316.pdf": {
     "course_code": "ME F316",
     "course_title": "MANUFACTURING MANAGEMENT",
     "instructor_in_charge": "GIRISH KANT GARG",
@@ -17949,7 +18045,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "384_ME_F317.pdf": {
+  "handouts/384_ME_F317.pdf": {
     "course_code": "ME F317",
     "course_title": "Engines, Motors, and Mobility",
     "instructor_in_charge": "Prof. A R Harikrishnan",
@@ -18004,7 +18100,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "385_ME_F321.pdf": {
+  "handouts/385_ME_F321.pdf": {
     "course_code": "ME F321",
     "course_title": null,
     "instructor_in_charge": "Madhurjya Dev Choudhury",
@@ -18066,7 +18162,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "386_ME_F323.pdf": {
+  "handouts/386_ME_F323.pdf": {
     "course_code": "ME F323",
     "course_title": "Energy Storage Technologies",
     "instructor_in_charge": "Dr. Srinibas Tripathy",
@@ -18114,7 +18210,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "387_ME_F340.pdf": {
+  "handouts/387_ME_F340.pdf": {
     "course_code": "ME F340",
     "course_title": "Introduction to Sport Engineering",
     "instructor_in_charge": "M. S. Dasgupta",
@@ -18162,7 +18258,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "388_ME_F415.pdf": {
+  "handouts/388_ME_F415.pdf": {
     "course_code": "ME F415",
     "course_title": "Gas Dynamics",
     "instructor_in_charge": "Biswadip Shome",
@@ -18218,12 +18314,41 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "389_ME_F423.pdf": {
+  "handouts/389_ME_F423.pdf": {
     "course_code": "ME F423",
     "course_title": "Micro Fluidics And Its Applications",
     "instructor_in_charge": "Prof. A R Harikrishnan",
     "other_instructors": [],
-    "evaluation_components": [],
+    "evaluation_components": [
+      {
+        "Components": "Mid-semester exam",
+        "Duration": "90 min.",
+        "Weightage (%)": "30",
+        "Date & Time": "10/10/2025",
+        "Remarks": "Closed book"
+      },
+      {
+        "Components": "Minor projects*",
+        "Duration": "-",
+        "Weightage (%)": "25",
+        "Date & Time": "Continuous",
+        "Remarks": "Open book"
+      },
+      {
+        "Components": "Assignment",
+        "Duration": "-",
+        "Weightage (%)": "10",
+        "Date & Time": "Will be announced in class",
+        "Remarks": "Open book"
+      },
+      {
+        "Components": "Comprehensive exam",
+        "Duration": "3 hrs.",
+        "Weightage (%)": "35",
+        "Date & Time": "13/12/2025",
+        "Remarks": "Partially closed and partially open book"
+      }
+    ],
     "makeup_policy": "It will be as per the institute rules. Only genuine cases will be considered. No makeup will be provided for the quizzes under any circumstances.",
     "attendance_policy": null,
     "topics": "This elective course introduces the fundamental principles and emerging applications of microfluidics. This is one of the dominating areas in prime movers. The course emphasizes both theoretical foundations and practical insights relevant to microscale fluid behavior, fabrication methods and devices. Scope and Objective of the Course: The scope of this course spans across fundamental science, device engineering, and emerging real-world applications at the micro- and nano-scale. This course provides a comprehensive understanding of microscale fluid dynamics, and control principles central to microfluidic systems. The course objectives are to understand the basics of microfluidics and the physics governing microfluidic flows and interfaces, to explore various microfabrication techniques suitable for fluidic devices and to analyze and understand the microfluidic systems applications in various engineering domains. Text Books: (T1). Nguyen, N. T., Werely, S. T., \u201cFundamentals and applications of Microfluidics\u201d, Artech house Inc., 2002. Reference Books: R1. Bruus, H., \u201cTheoretical Microfluidics\u201d, Oxford University Press Inc., 2008. R2. Tabeling, P., \u201cIntroduction to microfluidics\u201d, Oxford University Press Inc., 2005.. R3. Kirby, B.J., \u201cMicro- and Nanoscale Fluid Mechanics: Transport in Microfluidic Devices\u201d, Cambridge University Press, 2010. R4. Colin, S., \u201cMicrofluidics\u201d, John Wiley & Sons, 2009 Please Consider Your Environmental Responsibilities Do Not Print Unless Necessary Birla Institute of Technology & Science, Pilani Pilani Campus ACADEMIC\u2014 UNDER GRADUATE STUDIES DIVISION Course Plan: Module Lecture Ref. Topic to be discussed/ Learning Learning Objective to outcomes text Introduction to 1-2 Introduction to microfluidics What is microfluidics, importance and T1, Ch1, Microfluidics applications, Challenges, R1 Ch1 Commercial activities 3-4 Scaling in microfluidics Physics of miniaturization, Scaling T1, Ch1, laws R1 Ch1, R2 Ch1 5-6 Intermolecular forces, States of Governing equations and matter, Continuum assumption, T1, Ch2, Constitutive relations Governing equations, Constitutive R1 Ch2 relations. Micro-scale fluid 7-13 Low Re flows, Slip theory, Entrance T1, Ch2, mechanics and effects, Stokes drag on a sphere, Exact R1 Ch3, Micro scale flows and solutions, Couette flow, Poiseuille pressure driven R2 Ch2, pressure driven microflows flow, microflows class notes 14-18 Droplet Microfluidics Bubble and droplet generation; annularR1 Ch13 and slug-annular flow regimes R2 Ch2, class notes Capillary flows 19-22 Capillarity and Interfacial Surface tension and interfacial R1 Ch7, Phenomenon energy,Young-Laplace equation, class Contact angle, Capillary length and notes capillary rise, Interfacial boundary conditions, Marangoni effect 23-27 Electrohydrodynamics fundamentals.R1 Ch8, Electro-osmosis, Debye layer, Thin ch9, R2 Electrokinetics and EDL limit, Ideal electroosmotic flow Ch4, Electro osmotic flows (EOF), Ideal EOF with back class pressure, EOF of power-law fluids. notes Electrokinetics 28-32 Electrophoresis and Introduction to the concept of T1 Ch2, Dielectrophoresis electrophoresis and dielectrophoresis, R1 Ch10 Direct electro-wetting,Electro-wettingR2 Ch4, on dielectric. class notes Please Consider Your Environmental Responsibilities Do Not Print Unless Necessary Birla Institute of Technology & Science, Pilani Pilani Campus ACADEMIC\u2014 UNDER GRADUATE STUDIES DIVISION 33-37 Material and methods for Materials, Clean room,Silicon micro fabrication crystallography, Miller indices. Oxidation, photolithography- mask, spin coating, exposure and Microfabricatio T1 Ch3, development,Etching,Bulk and n techniques R2 Ch6 Surface micromachining, Wafer bonding. Polymer microfabrication,PMMA/COC/PDMS substrates. 38-40 Introduction to some microfluidic components such as micropumps, Microfluidics Microfluidics components droplet generators, mixers and T2 Ch3. components and and applications of understand application of microfluidicsR2 Ch7 applications microfluidics, Lab visits in some practical applications, lab visits Evaluation Scheme Weightage Components Duration Date & Time Remarks (%) 10/10/2025 Mid-semester exam 90 min. 30 Closed book Minor projects* Open book - 25 Continuous Assignment - 10 Will be Open book announced in class 13/12/2025 Partially closed and Comprehensive exam 3 hrs. 35 partially open book * The students will be encouraged to design and conduct some experiments in the lab as part of the course assignments/projects to have experiential learning. Notices: All notices related to this course will be updated on the Nalanda. The students should also check their emails regularly. Make-up Policy: It will be as per the institute rules. Only genuine cases will be considered. No makeup will be provided for the quizzes under any circumstances.",
@@ -18231,13 +18356,13 @@
       "file": "handouts/389_ME_F423.pdf",
       "page": 3
     },
-    "has_midsem": false,
-    "has_compre": false,
-    "has_project": false,
+    "has_midsem": true,
+    "has_compre": true,
+    "has_project": true,
     "has_quiz": false,
     "has_lab": false
   },
-  "390_ME_F427.pdf": {
+  "handouts/390_ME_F427.pdf": {
     "course_code": "ME F427",
     "course_title": "Continuum Mechanics",
     "instructor_in_charge": "Prof. Amit R. Singh",
@@ -18278,7 +18403,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "391_ME_F428.pdf": {
+  "handouts/391_ME_F428.pdf": {
     "course_code": "ME F428",
     "course_title": "SMART MATERIALS",
     "instructor_in_charge": "Dr. Hemant Sharma (Chamber: 2219-J)",
@@ -18380,7 +18505,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "392_ME_F443.pdf": {
+  "handouts/392_ME_F443.pdf": {
     "course_code": "ME F443",
     "course_title": "Quality Control, Assurance and Reliability",
     "instructor_in_charge": "Prof. Tribeni Roy",
@@ -18421,7 +18546,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "393_ME_F461.pdf": {
+  "handouts/393_ME_F461.pdf": {
     "course_code": "ME F461",
     "course_title": "Refrigeration and Air-conditioning",
     "instructor_in_charge": "MANOJ KUMAR SONI",
@@ -18485,7 +18610,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "394_ME_G511.pdf": {
+  "handouts/394_ME_G511.pdf": {
     "course_code": "ME G511",
     "course_title": "Mechanism and Robotics",
     "instructor_in_charge": "Dr. Prateek Kala",
@@ -18529,7 +18654,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "395_ME_G511.pdf": {
+  "handouts/395_ME_G511.pdf": {
     "course_code": "ME G511",
     "course_title": "Mechanism and Robotics",
     "instructor_in_charge": "Dr. Prateek Kala",
@@ -18573,7 +18698,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "396_ME_G512.pdf": {
+  "handouts/396_ME_G512.pdf": {
     "course_code": "ME G512",
     "course_title": "Finite Element Method",
     "instructor_in_charge": "Gaurav Watts",
@@ -18628,7 +18753,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "397_ME_G512.pdf": {
+  "handouts/397_ME_G512.pdf": {
     "course_code": "ME G512",
     "course_title": "Finite Element Method",
     "instructor_in_charge": "Gaurav Watts",
@@ -18683,7 +18808,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "398_ME_G532.pdf": {
+  "handouts/398_ME_G532.pdf": {
     "course_code": "ME G532",
     "course_title": "Machine Tool Engineering",
     "instructor_in_charge": "Prof. Anuj Sharma",
@@ -18731,7 +18856,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "399_ME_G532.pdf": {
+  "handouts/399_ME_G532.pdf": {
     "course_code": "ME G532",
     "course_title": "Machine Tool Engineering",
     "instructor_in_charge": "Prof. Anuj Sharma",
@@ -18779,7 +18904,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "400_ME_G545.pdf": {
+  "handouts/400_ME_G545.pdf": {
     "course_code": "ME G545",
     "course_title": null,
     "instructor_in_charge": "Madhurjya Dev Choudhury",
@@ -18839,7 +18964,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "401_ME_G545.pdf": {
+  "handouts/401_ME_G545.pdf": {
     "course_code": "ME G545",
     "course_title": null,
     "instructor_in_charge": "Madhurjya Dev Choudhury",
@@ -18899,7 +19024,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "402_ME_G552.pdf": {
+  "handouts/402_ME_G552.pdf": {
     "course_code": "ME G552",
     "course_title": "Industrial Robotics and Controls",
     "instructor_in_charge": "Dr. Yogesh Singh",
@@ -18910,7 +19035,7 @@
     "topics": "This course provides a comprehensive foundation in industrial robotic systems and robot control. Topics include principles of robot kinematics, statics, dynamics, and control; rigid body motion and coordinate transformations; rotation matrices, Denavit-Hartenberg parameters forward and inverse kinematics; Jacobian analysis, workspace and singularity analysis; trajectory planning and motion optimization; robot statics and dynamics using Euler\u2013Lagrange and Newton\u2013Euler formulations; control system for robot, independent joint control, computed torque control, and force control; end-effector and gripper design for robotic manipulation and precision assembly; sensor-integrated robotic systems; collaborative robotics; robotic work-cell implementation; and case studies and applications of industrial robots in intelligent manufacturing environments.\n\nThis course provides fundamental, theoretical, and applied knowledge of industrial robotics and robot control with a strong emphasis on hands-on learning and industry-oriented applications. The course develops a rigorous foundation in robot kinematics, dynamics, motion planning, and control required for the modelling, analysis, and operation of industrial robotic manipulators. Students will gain practical exposure to industrial robotic systems used in modern manufacturing environments for robotic manipulation, precision assembly, collaborative robotics, and intelligent production systems. Laboratory sessions and project-based learning will focus on robotic manipulator programming, trajectory generation, end-effector design, sensor-integrated robotic systems, and robotic work-cell implementation using industrial-grade platforms. Course Outcome: Upon successful completion of this course, students will be able to: CO1 Apply principles of robot kinematics, dynamics, and control to model and analyze industrial robotic manipulators. CO2 Design and implement motion planning and control strategies for industrial robotic tasks such as pick-and- place, assembly, and material handling. CO3 Design and deploy sensor-integrated robotic work cells for real-world manufacturing applications with closed-loop control. CO4 Demonstrate hands-on proficiency and industry readiness by solving practical robotics problems through labs, projects, and industry-led sessions. _",
     "source": {
       "file": "handouts/402_ME_G552.pdf",
-      "page": 3
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -18918,7 +19043,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "403_ME_G553.pdf": {
+  "handouts/403_ME_G553.pdf": {
     "course_code": "ME G553",
     "course_title": "Moulding Methods for Electronic Components",
     "instructor_in_charge": "Radha Raman Mishra",
@@ -18954,7 +19079,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "404_ME_G615.pdf": {
+  "handouts/404_ME_G615.pdf": {
     "course_code": "ME G615",
     "course_title": "Computer Aided Design & Additive Manufacturing",
     "instructor_in_charge": "Sunil Sinhmar (sunil.sinhmar@pilani.bits-pilani.ac.in, Chamber No.",
@@ -19004,7 +19129,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "405_ME_G615.pdf": {
+  "handouts/405_ME_G615.pdf": {
     "course_code": "ME G615",
     "course_title": "Computer Aided Design & Additive Manufacturing",
     "instructor_in_charge": "Sunil Sinhmar (sunil.sinhmar@pilani.bits-pilani.ac.in, Chamber No.",
@@ -19054,50 +19179,137 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "406_ME_G641.pdf": {
+  "handouts/406_ME_G641.pdf": {
     "course_code": "ME G641",
     "course_title": "Theory of Elasticity & Plasticity",
     "instructor_in_charge": "J S Rathore",
     "other_instructors": [],
-    "evaluation_components": [],
+    "evaluation_components": [
+      {
+        "Evaluation Component": "Mid Sem",
+        "Duration (Min)": "90 min",
+        "Weightage (%)": "25",
+        "Date & Time": "As per timetable",
+        "Remarks": "CB"
+      },
+      {
+        "Evaluation Component": "Seminar",
+        "Duration (Min)": "50 min",
+        "Weightage (%)": "20",
+        "Date & Time": "Weekly",
+        "Remarks": null
+      },
+      {
+        "Evaluation Component": "Project",
+        "Duration (Min)": "--",
+        "Weightage (%)": "20",
+        "Date & Time": null,
+        "Remarks": null
+      },
+      {
+        "Evaluation Component": "Compre. Exam",
+        "Duration (Min)": "180 min",
+        "Weightage (%)": "35",
+        "Date & Time": "As per timetable",
+        "Remarks": "CB/OB"
+      }
+    ],
     "makeup_policy": "Make-up will be granted only to genuine cases. For cases related to illness, proper documentary evidence is essential. Prior permission is necessary.",
     "attendance_policy": null,
     "topics": "The course has wide-ranging application in Engineering structures, Machine tool structures, metal forming, and cold working. The studies deal with the determination of stresses and displacements in common structural forms beams, shafts, shells etc. subjected to external forces. The course covers basic theory of elasticity, 2-D and 3-D problems of elasticity, Theories of plastic flow, Flow of ideally plastic and strain hardening metals, and theory of metal forming processes.",
     "source": {
       "file": "handouts/406_ME_G641.pdf",
-      "page": 1
+      "page": 2
     },
-    "has_midsem": false,
-    "has_compre": false,
-    "has_project": false,
+    "has_midsem": true,
+    "has_compre": true,
+    "has_project": true,
     "has_quiz": false,
     "has_lab": false
   },
-  "407_ME_G641.pdf": {
+  "handouts/407_ME_G641.pdf": {
     "course_code": "ME G641",
     "course_title": "Theory of Elasticity & Plasticity",
     "instructor_in_charge": "J S Rathore",
     "other_instructors": [],
-    "evaluation_components": [],
+    "evaluation_components": [
+      {
+        "Evaluation Component": "Mid Sem",
+        "Duration (Min)": "90 min",
+        "Weightage (%)": "25",
+        "Date & Time": "As per timetable",
+        "Remarks": "CB"
+      },
+      {
+        "Evaluation Component": "Seminar",
+        "Duration (Min)": "50 min",
+        "Weightage (%)": "20",
+        "Date & Time": "Weekly",
+        "Remarks": null
+      },
+      {
+        "Evaluation Component": "Project",
+        "Duration (Min)": "--",
+        "Weightage (%)": "20",
+        "Date & Time": null,
+        "Remarks": null
+      },
+      {
+        "Evaluation Component": "Compre. Exam",
+        "Duration (Min)": "180 min",
+        "Weightage (%)": "35",
+        "Date & Time": "As per timetable",
+        "Remarks": "CB/OB"
+      }
+    ],
     "makeup_policy": "Make-up will be granted only to genuine cases. For cases related to illness, proper documentary evidence is essential. Prior permission is necessary.",
     "attendance_policy": null,
     "topics": "The course has wide-ranging application in Engineering structures, Machine tool structures, metal forming, and cold working. The studies deal with the determination of stresses and displacements in common structural forms beams, shafts, shells etc. subjected to external forces. The course covers basic theory of elasticity, 2-D and 3-D problems of elasticity, Theories of plastic flow, Flow of ideally plastic and strain hardening metals, and theory of metal forming processes.",
     "source": {
       "file": "handouts/407_ME_G641.pdf",
-      "page": 1
+      "page": 2
     },
-    "has_midsem": false,
-    "has_compre": false,
-    "has_project": false,
+    "has_midsem": true,
+    "has_compre": true,
+    "has_project": true,
     "has_quiz": false,
     "has_lab": false
   },
-  "408_ME_U423.pdf": {
+  "handouts/408_ME_U423.pdf": {
     "course_code": "ME U423",
     "course_title": "Micro Fluidics And Its Applications",
     "instructor_in_charge": "Prof. A R Harikrishnan",
     "other_instructors": [],
-    "evaluation_components": [],
+    "evaluation_components": [
+      {
+        "Components": "Mid-semester exam",
+        "Duration": "90 min.",
+        "Weightage (%)": "30",
+        "Date & Time": "10/10/2025",
+        "Remarks": "Closed book"
+      },
+      {
+        "Components": "Minor projects*",
+        "Duration": "-",
+        "Weightage (%)": "25",
+        "Date & Time": "Continuous",
+        "Remarks": "Open book"
+      },
+      {
+        "Components": "Assignment",
+        "Duration": "-",
+        "Weightage (%)": "10",
+        "Date & Time": "Will be announced in class",
+        "Remarks": "Open book"
+      },
+      {
+        "Components": "Comprehensive exam",
+        "Duration": "3 hrs.",
+        "Weightage (%)": "35",
+        "Date & Time": "13/12/2025",
+        "Remarks": "Partially closed and partially open book"
+      }
+    ],
     "makeup_policy": "It will be as per the institute rules. Only genuine cases will be considered. No makeup will be provided for the quizzes under any circumstances.",
     "attendance_policy": null,
     "topics": "This elective course introduces the fundamental principles and emerging applications of microfluidics. This is one of the dominating areas in prime movers. The course emphasizes both theoretical foundations and practical insights relevant to microscale fluid behavior, fabrication methods and devices. Scope and Objective of the Course: The scope of this course spans across fundamental science, device engineering, and emerging real-world applications at the micro- and nano-scale. This course provides a comprehensive understanding of microscale fluid dynamics, and control principles central to microfluidic systems. The course objectives are to understand the basics of microfluidics and the physics governing microfluidic flows and interfaces, to explore various microfabrication techniques suitable for fluidic devices and to analyze and understand the microfluidic systems applications in various engineering domains. Prerequisite: Basic fluid Mechanics understanding Text Books: (T1). Nguyen, N. T., Werely, S. T., \u201cFundamentals and applications of Microfluidics\u201d, Artech house Inc., 2002. Reference Books: R1. Bruus, H., \u201cTheoretical Microfluidics\u201d, Oxford University Press Inc., 2008. R2. Tabeling, P., \u201cIntroduction to microfluidics\u201d, Oxford University Press Inc., 2005.. R3. Kirby, B.J., \u201cMicro- and Nanoscale Fluid Mechanics: Transport in Microfluidic Devices\u201d, Cambridge University Press, 2010. R4. Colin, S., \u201cMicrofluidics\u201d, John Wiley & Sons, 2009 Please Consider Your Environmental Responsibilities Do Not Print Unless Necessary Birla Institute of Technology & Science, Pilani Pilani Campus ACADEMIC\u2014 UNDER GRADUATE STUDIES DIVISION Course Plan: Module Lecture Ref. Topic to be discussed/ Learning Learning Objective to outcomes text Introduction to 1-2 Introduction to microfluidics What is microfluidics, importance and T1, Ch1, Microfluidics applications, Challenges, R1 Ch1 Commercial activities 3-4 Scaling in microfluidics Physics of miniaturization, Scaling T1, Ch1, laws R1 Ch1, R2 Ch1 5-6 Intermolecular forces, States of Governing equations and matter, Continuum assumption, T1, Ch2, Constitutive relations Governing equations, Constitutive R1 Ch2 relations. Micro-scale fluid 7-13 Low Re flows, Slip theory, Entrance T1, Ch2, mechanics and effects, Stokes drag on a sphere, Exact R1 Ch3, Micro scale flows and solutions, Couette flow, Poiseuille pressure driven R2 Ch2, pressure driven microflows flow, microflows class notes 14-18 Droplet Microfluidics Bubble and droplet generation; annularR1 Ch13 and slug-annular flow regimes R2 Ch2, class notes Capillary flows 19-22 Capillarity and Interfacial Surface tension and interfacial R1 Ch7, Phenomenon energy,Young-Laplace equation, class Contact angle, Capillary length and notes capillary rise, Interfacial boundary conditions, Marangoni effect 23-27 Electrohydrodynamics fundamentals.R1 Ch8, Electro-osmosis, Debye layer, Thin ch9, R2 Electrokinetics and EDL limit, Ideal electroosmotic flow Ch4, Electro osmotic flows (EOF), Ideal EOF with back class pressure, EOF of power-law fluids. notes Electrokinetics 28-32 Electrophoresis and Introduction to the concept of T1 Ch2, Dielectrophoresis electrophoresis and dielectrophoresis, R1 Ch10 Direct electro-wetting,Electro-wettingR2 Ch4, on dielectric. class notes Please Consider Your Environmental Responsibilities Do Not Print Unless Necessary Birla Institute of Technology & Science, Pilani Pilani Campus ACADEMIC\u2014 UNDER GRADUATE STUDIES DIVISION 33-37 Material and methods for Materials, Clean room,Silicon micro fabrication crystallography, Miller indices. Oxidation, photolithography- mask, spin coating, exposure and Microfabricatio T1 Ch3, development,Etching,Bulk and n techniques R2 Ch6 Surface micromachining, Wafer bonding. Polymer microfabrication,PMMA/COC/PDMS substrates. 38-40 Introduction to some microfluidic components such as micropumps, Microfluidics Microfluidics components droplet generators, mixers and T2 Ch3. components and and applications of understand application of microfluidicsR2 Ch7 applications microfluidics, Lab visits in some practical applications, lab visits Evaluation Scheme Weightage Components Duration Date & Time Remarks (%) 10/10/2025 Mid-semester exam 90 min. 30 Closed book Minor projects* Open book - 25 Continuous Assignment - 10 Will be Open book announced in class 13/12/2025 Partially closed and Comprehensive exam 3 hrs. 35 partially open book * The students will be encouraged to design and conduct some experiments in the lab as part of the course assignments/projects to have experiential learning. Notices: All notices related to this course will be updated on the Nalanda. The students should also check their emails regularly. Make-up Policy: It will be as per the institute rules. Only genuine cases will be considered. No makeup will be provided for the quizzes under any circumstances.",
@@ -19105,13 +19317,13 @@
       "file": "handouts/408_ME_U423.pdf",
       "page": 3
     },
-    "has_midsem": false,
-    "has_compre": false,
-    "has_project": false,
+    "has_midsem": true,
+    "has_compre": true,
+    "has_project": true,
     "has_quiz": false,
     "has_lab": false
   },
-  "409_ME_U428.pdf": {
+  "handouts/409_ME_U428.pdf": {
     "course_code": "ME U428",
     "course_title": "SMART MATERIALS",
     "instructor_in_charge": "Dr. Hemant Sharma (Chamber: 2219-J)",
@@ -19213,7 +19425,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "410_ME_U443.pdf": {
+  "handouts/410_ME_U443.pdf": {
     "course_code": "ME U443",
     "course_title": "Quality Control, Assurance and Reliability",
     "instructor_in_charge": "Prof. Tribeni Roy",
@@ -19254,7 +19466,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "411_MEL_G623.pdf": {
+  "handouts/411_MEL_G623.pdf": {
     "course_code": "MEL G623",
     "course_title": "ADVANCED VLSI DESIGN",
     "instructor_in_charge": "PRASHANT KUMAR",
@@ -19309,7 +19521,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "412_MEL_G623.pdf": {
+  "handouts/412_MEL_G623.pdf": {
     "course_code": "MEL G623",
     "course_title": "ADVANCED VLSI DESIGN",
     "instructor_in_charge": "PRASHANT KUMAR",
@@ -19364,7 +19576,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "413_MEL_G624.pdf": {
+  "handouts/413_MEL_G624.pdf": {
     "course_code": "MEL G624",
     "course_title": "Advanced VLSI Architectures",
     "instructor_in_charge": "Dr. Govind Prasad",
@@ -19407,7 +19619,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "414_MEL_G624.pdf": {
+  "handouts/414_MEL_G624.pdf": {
     "course_code": "MEL G624",
     "course_title": "Advanced VLSI Architectures",
     "instructor_in_charge": "Dr. Govind Prasad",
@@ -19450,7 +19662,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "415_MEL_G625.pdf": {
+  "handouts/415_MEL_G625.pdf": {
     "course_code": "MEL G625",
     "course_title": "Advance Analog and Mixed Signal Design",
     "instructor_in_charge": "Neeraj Mishra",
@@ -19509,7 +19721,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "416_MEL_G625.pdf": {
+  "handouts/416_MEL_G625.pdf": {
     "course_code": "MEL G625",
     "course_title": "Advance Analog and Mixed Signal Design",
     "instructor_in_charge": "Neeraj Mishra",
@@ -19568,7 +19780,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "417_MEL_G627.pdf": {
+  "handouts/417_MEL_G627.pdf": {
     "course_code": "MEL G627",
     "course_title": "VLSI Fabrication Technology",
     "instructor_in_charge": "Dr. Satyendra Kumar Mourya",
@@ -19630,7 +19842,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "418_MEL_G627.pdf": {
+  "handouts/418_MEL_G627.pdf": {
     "course_code": "MEL G627",
     "course_title": "VLSI Fabrication Technology",
     "instructor_in_charge": "Dr. Satyendra Kumar Mourya",
@@ -19692,7 +19904,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "419_MEL_G628.pdf": {
+  "handouts/419_MEL_G628.pdf": {
     "course_code": "MEL G628",
     "course_title": "Digital VLSI Design",
     "instructor_in_charge": "Dr. Nitin Chaturvedi",
@@ -19744,7 +19956,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "420_MEL_G631.pdf": {
+  "handouts/420_MEL_G631.pdf": {
     "course_code": "MEL G631",
     "course_title": "Physics and Modeling of Microelectronic Devices",
     "instructor_in_charge": "Rahul Kumar",
@@ -19794,7 +20006,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "421_MEL_G631.pdf": {
+  "handouts/421_MEL_G631.pdf": {
     "course_code": "MEL G631",
     "course_title": "Physics and Modeling of Microelectronic Devices",
     "instructor_in_charge": "Rahul Kumar",
@@ -19844,7 +20056,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "422_MEL_G643.pdf": {
+  "handouts/422_MEL_G643.pdf": {
     "course_code": "MEL G643",
     "course_title": "Verification, Test, and Testability of VLSI Circuits",
     "instructor_in_charge": "ABHIJIT ASATI",
@@ -19888,7 +20100,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "423_MEL_G643.pdf": {
+  "handouts/423_MEL_G643.pdf": {
     "course_code": "MEL G643",
     "course_title": "Verification, Test, and Testability of VLSI Circuits",
     "instructor_in_charge": "ABHIJIT ASATI",
@@ -19932,7 +20144,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "424_MF_F211.pdf": {
+  "handouts/424_MF_F211.pdf": {
     "course_code": "MF F211",
     "course_title": null,
     "instructor_in_charge": "Prof. Sharad Shrivastava",
@@ -19984,7 +20196,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "425_MF_F216.pdf": {
+  "handouts/425_MF_F216.pdf": {
     "course_code": "MF F216",
     "course_title": null,
     "instructor_in_charge": null,
@@ -20034,7 +20246,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "426_MF_F217.pdf": {
+  "handouts/426_MF_F217.pdf": {
     "course_code": "MF F217",
     "course_title": "Machine Drawing",
     "instructor_in_charge": "Prof. Amit R. Singh",
@@ -20077,7 +20289,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "427_MF_F218.pdf": {
+  "handouts/427_MF_F218.pdf": {
     "course_code": "MF F218",
     "course_title": "Transport phenomena in Manufacturing",
     "instructor_in_charge": "Dr. Aneesh A. M., Email: aneesh.am@pilani.bits-pilani.ac.in",
@@ -20132,7 +20344,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "428_MF_F314.pdf": {
+  "handouts/428_MF_F314.pdf": {
     "course_code": "MF F314",
     "course_title": "DESIGN OF MACHINE ELEMENTS",
     "instructor_in_charge": "Prof. MANI SANKAR DASGUPTA",
@@ -20173,7 +20385,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "429_MF_F315.pdf": {
+  "handouts/429_MF_F315.pdf": {
     "course_code": "MF F315",
     "course_title": "AUTOMATION AND CONTROL",
     "instructor_in_charge": "PRATEEK KALA",
@@ -20221,7 +20433,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "430_MF_F316.pdf": {
+  "handouts/430_MF_F316.pdf": {
     "course_code": "MF F316",
     "course_title": "Machining and Machine Tools",
     "instructor_in_charge": "Prof. Tribeni Roy",
@@ -20269,7 +20481,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "431_MF_F418.pdf": {
+  "handouts/431_MF_F418.pdf": {
     "course_code": "MF F418",
     "course_title": "Lean Manufacturing",
     "instructor_in_charge": "Abhijeet K. Digalwar",
@@ -20317,7 +20529,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "432_MF_F422.pdf": {
+  "handouts/432_MF_F422.pdf": {
     "course_code": "MF F422",
     "course_title": "Supply Chain Modelling and Empirical Analysis",
     "instructor_in_charge": "SRIKANTA ROUTROY",
@@ -20369,7 +20581,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "433_MGTS_U102.pdf": {
+  "handouts/433_MGTS_U102.pdf": {
     "course_code": "MGTS U102",
     "course_title": "INNOVATION AND DESIGN THINKING",
     "instructor_in_charge": "Leela Rani",
@@ -20452,7 +20664,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "434_MPBA_G501.pdf": {
+  "handouts/434_MPBA_G501.pdf": {
     "course_code": "MPBA G501",
     "course_title": "Managerial Economics",
     "instructor_in_charge": "Leela Rani",
@@ -20516,7 +20728,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "435_MPBA_G502.pdf": {
+  "handouts/435_MPBA_G502.pdf": {
     "course_code": "MPBA G502",
     "course_title": "Financial Statement Analysis and Reporting",
     "instructor_in_charge": "Prof. Saurabh Chadha",
@@ -20560,7 +20772,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "436_MPBA_G502.pdf": {
+  "handouts/436_MPBA_G502.pdf": {
     "course_code": "MPBA G502",
     "course_title": "Financial Statement Analysis and Reporting",
     "instructor_in_charge": "Prof. Saurabh Chadha",
@@ -20604,7 +20816,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "437_MPBA_G503.pdf": {
+  "handouts/437_MPBA_G503.pdf": {
     "course_code": "MPBA G503",
     "course_title": "Marketing",
     "instructor_in_charge": "ANIL BHAT",
@@ -20659,7 +20871,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "438_MPBA_G503.pdf": {
+  "handouts/438_MPBA_G503.pdf": {
     "course_code": "MPBA G503",
     "course_title": "Marketing",
     "instructor_in_charge": "ANIL BHAT",
@@ -20714,7 +20926,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "439_MPBA_G504.pdf": {
+  "handouts/439_MPBA_G504.pdf": {
     "course_code": "MPBA G504",
     "course_title": "Managing People & Organization",
     "instructor_in_charge": "Dr. Jayashree Mahesh",
@@ -20727,7 +20939,7 @@
     "topics": "The course studies human behavior in organizations at three levels: individual, group, and organizational systems. It examines variables and key concepts related to individual attitudes, motivation, and leadership, along with group dynamics, organizational structure, and change management, while also covering the strategic role of HRM in attracting, developing, motivating, and retaining talent through recruitment and selection, training and development, performance management, employee engagement, compensation, and talent management.\n\nIn the contemporary time, organizations across the world are facing economic and social consequences of global economic pressures and globalization. Under such scenario, they encounter many challenges and get various opportunities as well. Moreover, management of these challenges and opportunities has become crucial which essentially relies on an understanding of human behavior. The success of any organization in today's dynamic and volatile business environment is dependent upon the motivation and commitment of its employees. It is in this context the significance of organizational behavior comes into play. As people from diverse backgrounds and with different cultural values have to work together in the global economy, the study of organizational behavior assumes greater importance and relevance. This course focuses on the fundamental theories of behavior in organizations and managing employees in organizations with the objective of equipping students with the necessary concepts, tools, and techniques for understanding behavior in organizations, this course attempts to unfold human behavior at three levels (the individual, the group, and the organization). This course involves active learning and develops students' foundation against which the competencies required to create a successful organization can be built and developed.\n\nRef. Learning Outcome No. No. An Overview of Organizational Introduction To T1: Week Behaviour (OB); nature of OB, challenges 1 Organizational Chapter 1 and opportunities in OB, and diversity in Behaviour 1 & 2 organizations T1: Attitudes: Components, link with Week Managing Chapter behavior, and major job attitudes; Job 2 2 Individuals 3 Satisfaction: Measurement, causes, and impact Defining motivation, Early theories and Individual & Group T1: contemporary theories of motivation, Week 3 Dynamics - Chapter Integrating contemporary theories of 3 Motivation 7 & 8 motivation, Motivating by job design (JCM), Managerial implications Understanding the tenets of trait, T1: behavioral, contingency and Week Managing Groups 1: 4 Chapter contemporary theories of leadership, roles 4 Leadership 13 of leader in creating positive impact and ethical organizations Managing Groups 2: T1: Common organizational designs (OD), Week 5 Organizational Chapter New design options, why do structures 5 Structure 14 differ? Introduction to T2: Understanding the nature and scope of 6 Human Resource Chapter HRM; understanding the context of HRM Management (HRM) 1&2 Week 6 Job Analysis, HR planning - Methods for T2: collecting job analysis information, 7 Workforce Planning Chapter writing job descriptions & specifications, 4,5 sources of candidates Recruitment and selection, process of T2: Week Employee Testing recruitment, different methods of 8 Chapter 7 and Selection recruitment, process of selection, methods 6,7 of selection Training and Development -Orienting & T2: Week Learning and Training Employees, analyzing training 9 Chapter 8 Development needs & Designing, implementing and 8 evaluating the program Appraising and managing performance - T2: Week Managing Basic Concepts in Performance 10 Chapter 9 Performance Management & Appraisal, Techniques for 9 appraising Performance Power, influence, Bases of power, types of Managing Groups 3: T1: power, power tactic;, Politics: power in 11 Power, Influence and Chapter action, causes and consequences of Politics 11 political behavior Week 10 What is organizational culture? What do T1: cultures do? Creating and sustaining Organization System 12 Chapter culture, how employees learn it? Creating 1: Managing Culture 15 organizational culture, Organizational climate T1: Change, Forces for change, managing Week Organization System 13 Chapter change, Creating a culture for change 11 2: Managing Change 17 T2: Week Compensation Strategy and Steps in Establishing Pay 14 Chapter 12 Management Rates, Competency-Based Pay 11&12 Class Career and Talent Management \u2013 Role of notes & Week Managing Future employer, employee in engagement, 15 in-class 13 Workforce managing retention, life cycle and discussi managing diverse workforce ons Week Project and Course Application of Concepts to Real Life 16 14 Review Situations Note: Reading Assignment: Specific portions from different chapters/notes/ sources will be given as reading assignments in the class. Remaining lecture sessions will be used for case analyses, projects, assignments and other presentations/ discussions. In addition, non-evaluative case studies for learning purpose will be analyzed in classes. If the classes have to be delivered via online mode using Google Meet platform (as per the Institute directives), the recurring link will be shared at an appropriate time. The pace of coverage will vary with class interest, the liveliness, new insights & quality of discussions or lack thereof. Hence, information on specific in-class activities to be assigned during the scheduled class is not specified in this handout.",
     "source": {
       "file": "handouts/439_MPBA_G504.pdf",
-      "page": 4
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -20735,7 +20947,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "440_MPBA_G504.pdf": {
+  "handouts/440_MPBA_G504.pdf": {
     "course_code": "MPBA G504",
     "course_title": "Managing People & Organization",
     "instructor_in_charge": "Dr. Jayashree Mahesh",
@@ -20748,7 +20960,7 @@
     "topics": "The course studies human behavior in organizations at three levels: individual, group, and organizational systems. It examines variables and key concepts related to individual attitudes, motivation, and leadership, along with group dynamics, organizational structure, and change management, while also covering the strategic role of HRM in attracting, developing, motivating, and retaining talent through recruitment and selection, training and development, performance management, employee engagement, compensation, and talent management.\n\nIn the contemporary time, organizations across the world are facing economic and social consequences of global economic pressures and globalization. Under such scenario, they encounter many challenges and get various opportunities as well. Moreover, management of these challenges and opportunities has become crucial which essentially relies on an understanding of human behavior. The success of any organization in today's dynamic and volatile business environment is dependent upon the motivation and commitment of its employees. It is in this context the significance of organizational behavior comes into play. As people from diverse backgrounds and with different cultural values have to work together in the global economy, the study of organizational behavior assumes greater importance and relevance. This course focuses on the fundamental theories of behavior in organizations and managing employees in organizations with the objective of equipping students with the necessary concepts, tools, and techniques for understanding behavior in organizations, this course attempts to unfold human behavior at three levels (the individual, the group, and the organization). This course involves active learning and develops students' foundation against which the competencies required to create a successful organization can be built and developed.\n\nRef. Learning Outcome No. No. An Overview of Organizational Introduction To T1: Week Behaviour (OB); nature of OB, challenges 1 Organizational Chapter 1 and opportunities in OB, and diversity in Behaviour 1 & 2 organizations T1: Attitudes: Components, link with Week Managing Chapter behavior, and major job attitudes; Job 2 2 Individuals 3 Satisfaction: Measurement, causes, and impact Defining motivation, Early theories and Individual & Group T1: contemporary theories of motivation, Week 3 Dynamics - Chapter Integrating contemporary theories of 3 Motivation 7 & 8 motivation, Motivating by job design (JCM), Managerial implications Understanding the tenets of trait, T1: behavioral, contingency and Week Managing Groups 1: 4 Chapter contemporary theories of leadership, roles 4 Leadership 13 of leader in creating positive impact and ethical organizations Managing Groups 2: T1: Common organizational designs (OD), Week 5 Organizational Chapter New design options, why do structures 5 Structure 14 differ? Introduction to T2: Understanding the nature and scope of 6 Human Resource Chapter HRM; understanding the context of HRM Management (HRM) 1&2 Week 6 Job Analysis, HR planning - Methods for T2: collecting job analysis information, 7 Workforce Planning Chapter writing job descriptions & specifications, 4,5 sources of candidates Recruitment and selection, process of T2: Week Employee Testing recruitment, different methods of 8 Chapter 7 and Selection recruitment, process of selection, methods 6,7 of selection Training and Development -Orienting & T2: Week Learning and Training Employees, analyzing training 9 Chapter 8 Development needs & Designing, implementing and 8 evaluating the program Appraising and managing performance - T2: Week Managing Basic Concepts in Performance 10 Chapter 9 Performance Management & Appraisal, Techniques for 9 appraising Performance Power, influence, Bases of power, types of Managing Groups 3: T1: power, power tactic;, Politics: power in 11 Power, Influence and Chapter action, causes and consequences of Politics 11 political behavior Week 10 What is organizational culture? What do T1: cultures do? Creating and sustaining Organization System 12 Chapter culture, how employees learn it? Creating 1: Managing Culture 15 organizational culture, Organizational climate T1: Change, Forces for change, managing Week Organization System 13 Chapter change, Creating a culture for change 11 2: Managing Change 17 T2: Week Compensation Strategy and Steps in Establishing Pay 14 Chapter 12 Management Rates, Competency-Based Pay 11&12 Class Career and Talent Management \u2013 Role of notes & Week Managing Future employer, employee in engagement, 15 in-class 13 Workforce managing retention, life cycle and discussi managing diverse workforce ons Week Project and Course Application of Concepts to Real Life 16 14 Review Situations Note: Reading Assignment: Specific portions from different chapters/notes/ sources will be given as reading assignments in the class. Remaining lecture sessions will be used for case analyses, projects, assignments and other presentations/ discussions. In addition, non-evaluative case studies for learning purpose will be analyzed in classes. If the classes have to be delivered via online mode using Google Meet platform (as per the Institute directives), the recurring link will be shared at an appropriate time. The pace of coverage will vary with class interest, the liveliness, new insights & quality of discussions or lack thereof. Hence, information on specific in-class activities to be assigned during the scheduled class is not specified in this handout.",
     "source": {
       "file": "handouts/440_MPBA_G504.pdf",
-      "page": 4
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -20756,7 +20968,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "441_MPBA_G505.pdf": {
+  "handouts/441_MPBA_G505.pdf": {
     "course_code": "MPBA G505",
     "course_title": "Statistics & Basic Econometrics",
     "instructor_in_charge": "Udayan Chanda",
@@ -20848,7 +21060,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "442_MPBA_G505.pdf": {
+  "handouts/442_MPBA_G505.pdf": {
     "course_code": "MPBA G505",
     "course_title": "Statistics & Basic Econometrics",
     "instructor_in_charge": "Udayan Chanda",
@@ -20940,7 +21152,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "443_MPBA_G506.pdf": {
+  "handouts/443_MPBA_G506.pdf": {
     "course_code": "MPBA G506",
     "course_title": "Data Management & Warehousing (DMW)",
     "instructor_in_charge": "Prof. Abhishek Verma",
@@ -20961,7 +21173,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "444_MPBA_G506.pdf": {
+  "handouts/444_MPBA_G506.pdf": {
     "course_code": "MPBA G506",
     "course_title": "Data Management & Warehousing (DMW)",
     "instructor_in_charge": "Prof. Abhishek Verma",
@@ -20982,7 +21194,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "445_MPBA_G507.pdf": {
+  "handouts/445_MPBA_G507.pdf": {
     "course_code": "MPBA G507",
     "course_title": "Programming for Analytics",
     "instructor_in_charge": "Prof. Pabitra Biswas",
@@ -21034,7 +21246,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "446_MPBA_G507.pdf": {
+  "handouts/446_MPBA_G507.pdf": {
     "course_code": "MPBA G507",
     "course_title": "Programming for Analytics",
     "instructor_in_charge": "Prof. Pabitra Biswas",
@@ -21086,7 +21298,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "447_MPBA_G514.pdf": {
+  "handouts/447_MPBA_G514.pdf": {
     "course_code": "MPBA G514",
     "course_title": "Deep Learning for Business",
     "instructor_in_charge": "Prof. Abhishek Verma",
@@ -21143,7 +21355,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "448_MPBA_G514.pdf": {
+  "handouts/448_MPBA_G514.pdf": {
     "course_code": "MPBA G514",
     "course_title": "Deep Learning for Business",
     "instructor_in_charge": "Prof. Abhishek Verma",
@@ -21200,7 +21412,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "449_MPBA_G515.pdf": {
+  "handouts/449_MPBA_G515.pdf": {
     "course_code": "MPBA G515",
     "course_title": "PRESCRIPTIVE ANALYTICS WITH MATHEMATICAL",
     "instructor_in_charge": "PROF RAJESH MATAI",
@@ -21260,7 +21472,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "450_MPBA_G515.pdf": {
+  "handouts/450_MPBA_G515.pdf": {
     "course_code": "MPBA G515",
     "course_title": "PRESCRIPTIVE ANALYTICS WITH MATHEMATICAL",
     "instructor_in_charge": "PROF RAJESH MATAI",
@@ -21320,7 +21532,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "451_MPBA_G517.pdf": {
+  "handouts/451_MPBA_G517.pdf": {
     "course_code": "MPBA G517",
     "course_title": "Big Data Analytics",
     "instructor_in_charge": "Praveen Goyal",
@@ -21361,7 +21573,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "452_MPBA_G520.pdf": {
+  "handouts/452_MPBA_G520.pdf": {
     "course_code": "MPBA G520",
     "course_title": "Analytics for Supply Chain",
     "instructor_in_charge": "Dr Satyendra Kumar Sharma",
@@ -21411,7 +21623,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "453_MPBA_G520.pdf": {
+  "handouts/453_MPBA_G520.pdf": {
     "course_code": "MPBA G520",
     "course_title": "Analytics for Supply Chain",
     "instructor_in_charge": "Dr Satyendra Kumar Sharma",
@@ -21461,7 +21673,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "454_MPBA_G523.pdf": {
+  "handouts/454_MPBA_G523.pdf": {
     "course_code": "MPBA G523",
     "course_title": "IT PROJECT MANAGEMENT",
     "instructor_in_charge": null,
@@ -21511,7 +21723,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "455_MPBA_G523.pdf": {
+  "handouts/455_MPBA_G523.pdf": {
     "course_code": "MPBA G523",
     "course_title": "IT PROJECT MANAGEMENT",
     "instructor_in_charge": null,
@@ -21561,7 +21773,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "456_MPBA_G524.pdf": {
+  "handouts/456_MPBA_G524.pdf": {
     "course_code": "MPBA G524",
     "course_title": "MARKETING ANALYTICS",
     "instructor_in_charge": null,
@@ -21623,7 +21835,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "457_MPBA_G524.pdf": {
+  "handouts/457_MPBA_G524.pdf": {
     "course_code": "MPBA G524",
     "course_title": "MARKETING ANALYTICS",
     "instructor_in_charge": null,
@@ -21685,7 +21897,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "458_MPBA_G526.pdf": {
+  "handouts/458_MPBA_G526.pdf": {
     "course_code": "MPBA G526",
     "course_title": "Pricing Analytics",
     "instructor_in_charge": "Praveen Goyal",
@@ -21726,7 +21938,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "459_MPBA_G529.pdf": {
+  "handouts/459_MPBA_G529.pdf": {
     "course_code": "MPBA G529",
     "course_title": "Marketing Research & Metrics",
     "instructor_in_charge": null,
@@ -21739,7 +21951,7 @@
     "topics": "All organizations need to research their markets periodically and employ various elements of marketing research process viz. problem definition, development of an approach to the problem, research design formulation, fieldwork & data collection, data preparation & analysis and finally report preparation and presentation. The emphasis of the course is proportionately focused on foundational concepts, methodology & techniques, and marketing research applications. A number of cases will be assigned for discussion in the class. The course pedagogy lays special emphasis on \u201clearning by doing\u201d and a project assignment in this course characterizes this orientation.\n\nTo impart necessary foundational concepts, methodologies and tools/techniques for role of a market researcher. That role envisages generation of actionable, reliable and accurate information to identify various marketing problems viz. demand forecasting, segmentation, targeting, positioning, new product development etc. and find their effective solutions.\n\nof major of descriptive research observation methods. III Conditions of causality, role of Ch.7 To explain causality, reliability validity in experimentation, and validity issues, and various classification of experimental designs in context experimental designs, test of causal research design. marketing Measurement and scaling Ch.8 Introduce concepts of procedures, nominal, ordinal, measurement and interval, ratio. description of scaling : Comparative comparative and non- scaling comparative scaling tech Non-comparative techniques; Ch.9 Explain non-comparative continuous and itemized techniques rating scales; Likert, semantic differential and staple scale IV Purpose, objectives and steps Ch.10 To explain the purpose, process involved in of designing the questionnaire and designing Page 2 of BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE,Pilani Pilani Campus AUGS/ AGSR Division questionnaire. design. Sampling design process; Ch.11 Explain sampling ; design and sampling frame, determination of procedure sample size, classification of sampling techniques. Page 3 of BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE,Pilani Pilani Campus AUGS/ AGSR Division Nature of field-work and data- Ch.13 Field work collection process Coding, transcribing and data Ch.14 Data preparation cleaning V Tests of association and tests Ch.15 Hypothesis testing of difference One-way analysis of Ch.16 Analysis of variance variance, interpretation of results Introduction to regression Ch.17 Correlation and analysis, assumptions, & regression/Discriminant regression coefficients, Ch.18 Analysis significance testing, two-group discriminant analysis. Concept and exposition of factor Ch.19 Factor Analysis model Distance measures, hierarchical Ch.20 Cluster Analysis clustering algorithms. MDS and conjoint analysis Ch.21 Multidimensional as techniques for analyzing Analysis and Conjoint consumer perceptions and Analysis preferences VI Report preparation, report Ch.22 Report preparation and writing and presentation presentation VI Marketing Metrics For measuring Marketing Performance fifteen key metrics will be discussed.viz: Classical marketing metrics, Essential financial metrics & New Age marketing metrics. Page 3 of BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE,Pilani Pilani Campus AUGS/ AGSR Division",
     "source": {
       "file": "handouts/459_MPBA_G529.pdf",
-      "page": 5
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -21747,7 +21959,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "460_MPBA_G529.pdf": {
+  "handouts/460_MPBA_G529.pdf": {
     "course_code": "MPBA G529",
     "course_title": "Marketing Research & Metrics",
     "instructor_in_charge": null,
@@ -21760,7 +21972,7 @@
     "topics": "All organizations need to research their markets periodically and employ various elements of marketing research process viz. problem definition, development of an approach to the problem, research design formulation, fieldwork & data collection, data preparation & analysis and finally report preparation and presentation. The emphasis of the course is proportionately focused on foundational concepts, methodology & techniques, and marketing research applications. A number of cases will be assigned for discussion in the class. The course pedagogy lays special emphasis on \u201clearning by doing\u201d and a project assignment in this course characterizes this orientation.\n\nTo impart necessary foundational concepts, methodologies and tools/techniques for role of a market researcher. That role envisages generation of actionable, reliable and accurate information to identify various marketing problems viz. demand forecasting, segmentation, targeting, positioning, new product development etc. and find their effective solutions.\n\nof major of descriptive research observation methods. III Conditions of causality, role of Ch.7 To explain causality, reliability validity in experimentation, and validity issues, and various classification of experimental designs in context experimental designs, test of causal research design. marketing Measurement and scaling Ch.8 Introduce concepts of procedures, nominal, ordinal, measurement and interval, ratio. description of scaling : Comparative comparative and non- scaling comparative scaling tech Non-comparative techniques; Ch.9 Explain non-comparative continuous and itemized techniques rating scales; Likert, semantic differential and staple scale IV Purpose, objectives and steps Ch.10 To explain the purpose, process involved in of designing the questionnaire and designing Page 2 of BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE,Pilani Pilani Campus AUGS/ AGSR Division questionnaire. design. Sampling design process; Ch.11 Explain sampling ; design and sampling frame, determination of procedure sample size, classification of sampling techniques. Page 3 of BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE,Pilani Pilani Campus AUGS/ AGSR Division Nature of field-work and data- Ch.13 Field work collection process Coding, transcribing and data Ch.14 Data preparation cleaning V Tests of association and tests Ch.15 Hypothesis testing of difference One-way analysis of Ch.16 Analysis of variance variance, interpretation of results Introduction to regression Ch.17 Correlation and analysis, assumptions, & regression/Discriminant regression coefficients, Ch.18 Analysis significance testing, two-group discriminant analysis. Concept and exposition of factor Ch.19 Factor Analysis model Distance measures, hierarchical Ch.20 Cluster Analysis clustering algorithms. MDS and conjoint analysis Ch.21 Multidimensional as techniques for analyzing Analysis and Conjoint consumer perceptions and Analysis preferences VI Report preparation, report Ch.22 Report preparation and writing and presentation presentation VI Marketing Metrics For measuring Marketing Performance fifteen key metrics will be discussed.viz: Classical marketing metrics, Essential financial metrics & New Age marketing metrics. Page 3 of BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE,Pilani Pilani Campus AUGS/ AGSR Division",
     "source": {
       "file": "handouts/460_MPBA_G529.pdf",
-      "page": 5
+      "page": null
     },
     "has_midsem": false,
     "has_compre": false,
@@ -21768,7 +21980,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "461_MPBA_G530.pdf": {
+  "handouts/461_MPBA_G530.pdf": {
     "course_code": "MPBA G530",
     "course_title": "Financial Analytics",
     "instructor_in_charge": "PABITRA BISWAS",
@@ -21812,7 +22024,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "462_MPBA_G531.pdf": {
+  "handouts/462_MPBA_G531.pdf": {
     "course_code": "MPBA G531",
     "course_title": "FINANCIAL DERIVATIVES AND ANALYSIS",
     "instructor_in_charge": "Prof. Daitri Tiwary",
@@ -21866,7 +22078,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "463_MPBA_G532.pdf": {
+  "handouts/463_MPBA_G532.pdf": {
     "course_code": "MPBA G532",
     "course_title": "Financial Modelling and Valuation",
     "instructor_in_charge": "Prof. Saurabh Chadha (Dept. of Management)",
@@ -21910,7 +22122,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "464_MPBA_G532.pdf": {
+  "handouts/464_MPBA_G532.pdf": {
     "course_code": "MPBA G532",
     "course_title": "Financial Modelling and Valuation",
     "instructor_in_charge": "Prof. Saurabh Chadha (Dept. of Management)",
@@ -21954,7 +22166,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "465_MPBA_G534.pdf": {
+  "handouts/465_MPBA_G534.pdf": {
     "course_code": "MPBA G534",
     "course_title": "People Analytics",
     "instructor_in_charge": "MOHAMMAD FARAZ NAIM",
@@ -22006,7 +22218,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "466_MPBA_G534.pdf": {
+  "handouts/466_MPBA_G534.pdf": {
     "course_code": "MPBA G534",
     "course_title": "People Analytics",
     "instructor_in_charge": "MOHAMMAD FARAZ NAIM",
@@ -22058,7 +22270,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "467_MSE_G515.pdf": {
+  "handouts/467_MSE_G515.pdf": {
     "course_code": "MSE G515",
     "course_title": "Supply Chain Modelling and Empirical Analysis",
     "instructor_in_charge": "SRIKANTA ROUTROY (Pilani Campus)",
@@ -22110,7 +22322,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "468_MSE_G515.pdf": {
+  "handouts/468_MSE_G515.pdf": {
     "course_code": "MSE G515",
     "course_title": "Supply Chain Modelling and Empirical Analysis",
     "instructor_in_charge": "SRIKANTA ROUTROY (Pilani Campus)",
@@ -22162,7 +22374,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "469_MSE_G521.pdf": {
+  "handouts/469_MSE_G521.pdf": {
     "course_code": "MSE G521",
     "course_title": "WORLD CLASS MANUFACTURING",
     "instructor_in_charge": "ABHIJEET K. DIGALWAR",
@@ -22203,7 +22415,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "470_MSE_G521.pdf": {
+  "handouts/470_MSE_G521.pdf": {
     "course_code": "MSE G521",
     "course_title": "WORLD CLASS MANUFACTURING",
     "instructor_in_charge": "ABHIJEET K. DIGALWAR",
@@ -22244,7 +22456,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "471_PHA_F211.pdf": {
+  "handouts/471_PHA_F211.pdf": {
     "course_code": "PHA F211",
     "course_title": "Pharmaceutical Analysis",
     "instructor_in_charge": "Dr. Sandeep Sundriyal",
@@ -22285,7 +22497,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "472_PHA_F242.pdf": {
+  "handouts/472_PHA_F242.pdf": {
     "course_code": "PHA F242",
     "course_title": "Biological Chemistry",
     "instructor_in_charge": "Richa Shrivastava, richa.shrivastava@pilani.bits-pilani.ac.in, 3170-B",
@@ -22319,7 +22531,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "473_PHA_F311.pdf": {
+  "handouts/473_PHA_F311.pdf": {
     "course_code": "PHA F311",
     "course_title": "Pharmacology-I",
     "instructor_in_charge": "Prof. Rajeev Taliyan",
@@ -22362,7 +22574,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "474_PHA_F312.pdf": {
+  "handouts/474_PHA_F312.pdf": {
     "course_code": "PHA F312",
     "course_title": "Medicinal Chemistry-I",
     "instructor_in_charge": "R. Mahesh",
@@ -22416,7 +22628,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "475_PHA_F313.pdf": {
+  "handouts/475_PHA_F313.pdf": {
     "course_code": "PHA F313",
     "course_title": "Instrumental Methods of Analysis",
     "instructor_in_charge": "Prof. Jagpreet Sidhu",
@@ -22462,7 +22674,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "476_PHA_F315.pdf": {
+  "handouts/476_PHA_F315.pdf": {
     "course_code": "PHA F315",
     "course_title": "PHARMACEUTICAL FORMULATIONS II",
     "instructor_in_charge": "Ankit Jain",
@@ -22510,7 +22722,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "477_PHA_F413.pdf": {
+  "handouts/477_PHA_F413.pdf": {
     "course_code": "PHA F413",
     "course_title": "Pharmaceutical Management and Quality Control",
     "instructor_in_charge": "Prof. Murali M Pandey",
@@ -22551,7 +22763,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "478_PHA_F415.pdf": {
+  "handouts/478_PHA_F415.pdf": {
     "course_code": "PHA F415",
     "course_title": "Pathophysiology",
     "instructor_in_charge": "Rajeev Taliyan",
@@ -22594,7 +22806,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "479_PHA_F419.pdf": {
+  "handouts/479_PHA_F419.pdf": {
     "course_code": "PHA F419",
     "course_title": "Herbal Drug Technology",
     "instructor_in_charge": "Prof. Paul Atish Tulshiram",
@@ -22658,7 +22870,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "480_PHA_G532.pdf": {
+  "handouts/480_PHA_G532.pdf": {
     "course_code": "PHA G532",
     "course_title": "QUALITY ASSURANCE & REGULATORY AFFAIRS",
     "instructor_in_charge": "Dr. Gaikwad Anil Bhanudas",
@@ -22708,7 +22920,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "481_PHA_G534.pdf": {
+  "handouts/481_PHA_G534.pdf": {
     "course_code": "PHA G534",
     "course_title": "Separation and Structure Elucidation Techniques",
     "instructor_in_charge": "Prof. Paul Atish Tulshiram",
@@ -22765,7 +22977,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "482_PHA_G534.pdf": {
+  "handouts/482_PHA_G534.pdf": {
     "course_code": "PHA G534",
     "course_title": "Separation and Structure Elucidation Techniques",
     "instructor_in_charge": "Prof. Paul Atish Tulshiram",
@@ -22822,7 +23034,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "483_PHA_G537.pdf": {
+  "handouts/483_PHA_G537.pdf": {
     "course_code": "PHA G537",
     "course_title": "PARENTERAL PRODUCT DEVELOPMENT",
     "instructor_in_charge": "ANIL JINDAL",
@@ -22860,7 +23072,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "484_PHA_G538.pdf": {
+  "handouts/484_PHA_G538.pdf": {
     "course_code": "PHA G538",
     "course_title": "Immunopharmacology",
     "instructor_in_charge": "Aniruddha Roy",
@@ -22901,7 +23113,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "485_PHA_G538.pdf": {
+  "handouts/485_PHA_G538.pdf": {
     "course_code": "PHA G538",
     "course_title": "Immunopharmacology",
     "instructor_in_charge": "Aniruddha Roy",
@@ -22942,7 +23154,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "486_PHA_G540.pdf": {
+  "handouts/486_PHA_G540.pdf": {
     "course_code": "PHA G540",
     "course_title": "Modern Pharmaceutical Analytical Techniques",
     "instructor_in_charge": "Prof. S. Murugesan",
@@ -22988,7 +23200,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "487_PHA_G540.pdf": {
+  "handouts/487_PHA_G540.pdf": {
     "course_code": "PHA G540",
     "course_title": "Modern Pharmaceutical Analytical Techniques",
     "instructor_in_charge": "Prof. S. Murugesan",
@@ -23034,7 +23246,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "488_PHA_G541.pdf": {
+  "handouts/488_PHA_G541.pdf": {
     "course_code": "PHA G541",
     "course_title": "Computer Aided Drug Design",
     "instructor_in_charge": "Prof. S. Murugesan",
@@ -23077,7 +23289,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "489_PHA_G541.pdf": {
+  "handouts/489_PHA_G541.pdf": {
     "course_code": "PHA G541",
     "course_title": "Computer Aided Drug Design",
     "instructor_in_charge": "Prof. S. Murugesan",
@@ -23120,7 +23332,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "490_PHA_G542.pdf": {
+  "handouts/490_PHA_G542.pdf": {
     "course_code": "PHA G542",
     "course_title": "Advanced Physical Pharmaceutics",
     "instructor_in_charge": "Dr. Gautam Singhvi",
@@ -23170,7 +23382,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "491_PHA_G543.pdf": {
+  "handouts/491_PHA_G543.pdf": {
     "course_code": "PHA G543",
     "course_title": "CLINICAL RESEARCH",
     "instructor_in_charge": "HEMANT R. JADHAV",
@@ -23211,7 +23423,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "492_PHA_G543.pdf": {
+  "handouts/492_PHA_G543.pdf": {
     "course_code": "PHA G543",
     "course_title": "CLINICAL RESEARCH",
     "instructor_in_charge": "HEMANT R. JADHAV",
@@ -23252,7 +23464,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "493_PHA_G612.pdf": {
+  "handouts/493_PHA_G612.pdf": {
     "course_code": "PHA G612",
     "course_title": "Pharmacokinetics & Clinical Pharmacy",
     "instructor_in_charge": "Dr. Pragyanshu Khare",
@@ -23302,7 +23514,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "494_PHA_G612.pdf": {
+  "handouts/494_PHA_G612.pdf": {
     "course_code": "PHA G612",
     "course_title": "Pharmacokinetics & Clinical Pharmacy",
     "instructor_in_charge": "Dr. Pragyanshu Khare",
@@ -23352,7 +23564,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "495_PHA_G613.pdf": {
+  "handouts/495_PHA_G613.pdf": {
     "course_code": "PHA G613",
     "course_title": "Pharmaceutical Biotechnology",
     "instructor_in_charge": "Dr. Gautam Ku mar",
@@ -23402,7 +23614,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "496_PHA_G613.pdf": {
+  "handouts/496_PHA_G613.pdf": {
     "course_code": "PHA G613",
     "course_title": "Pharmaceutical Biotechnology",
     "instructor_in_charge": "Dr. Gautam Ku mar",
@@ -23452,7 +23664,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "497_PHA_G616.pdf": {
+  "handouts/497_PHA_G616.pdf": {
     "course_code": "PHA G616",
     "course_title": "Pharmaceutical Administration & Management (PAM)",
     "instructor_in_charge": "Ankit Jain",
@@ -23493,7 +23705,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "498_PHA_G617.pdf": {
+  "handouts/498_PHA_G617.pdf": {
     "course_code": "PHA G617",
     "course_title": "Advanced Drug Delivery Systems",
     "instructor_in_charge": "Prof. Murali Monohar Pandey",
@@ -23536,7 +23748,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "499_PHA_G618.pdf": {
+  "handouts/499_PHA_G618.pdf": {
     "course_code": "PHA G618",
     "course_title": "Retrosynthetic Analysis",
     "instructor_in_charge": "Dr. Sandeep Sundriyal",
@@ -23577,7 +23789,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "500_PHA_G618.pdf": {
+  "handouts/500_PHA_G618.pdf": {
     "course_code": "PHA G618",
     "course_title": "Retrosynthetic Analysis",
     "instructor_in_charge": "Dr. Sandeep Sundriyal",
@@ -23618,7 +23830,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "501_PHA_G619.pdf": {
+  "handouts/501_PHA_G619.pdf": {
     "course_code": "PHA G619",
     "course_title": "Screening Methods and Techniques in Pharmacology",
     "instructor_in_charge": "Richa Shrivastava",
@@ -23668,7 +23880,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "502_PHA_G619.pdf": {
+  "handouts/502_PHA_G619.pdf": {
     "course_code": "PHA G619",
     "course_title": "Screening Methods and Techniques in Pharmacology",
     "instructor_in_charge": "Richa Shrivastava",
@@ -23718,7 +23930,7 @@
     "has_quiz": true,
     "has_lab": true
   },
-  "503_PHA_G623.pdf": {
+  "handouts/503_PHA_G623.pdf": {
     "course_code": "PHA G623",
     "course_title": "Pharmaceutical Applications of Polymers and Biopolymers",
     "instructor_in_charge": "Aniruddha Roy",
@@ -23759,7 +23971,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "504_PHA_G623.pdf": {
+  "handouts/504_PHA_G623.pdf": {
     "course_code": "PHA G623",
     "course_title": "Pharmaceutical Applications of Polymers and Biopolymers",
     "instructor_in_charge": "Aniruddha Roy",
@@ -23800,7 +24012,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "505_PHA_G624.pdf": {
+  "handouts/505_PHA_G624.pdf": {
     "course_code": "PHA G624",
     "course_title": "Principles of Toxicology",
     "instructor_in_charge": "Pragyanshu Khare",
@@ -23848,7 +24060,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "506_PHA_G624.pdf": {
+  "handouts/506_PHA_G624.pdf": {
     "course_code": "PHA G624",
     "course_title": "Principles of Toxicology",
     "instructor_in_charge": "Pragyanshu Khare",
@@ -23896,7 +24108,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "507_PHA_G625.pdf": {
+  "handouts/507_PHA_G625.pdf": {
     "course_code": "PHA G625",
     "course_title": "Cellular and Molecular Pharmacology",
     "instructor_in_charge": "Dr. Gaikwad Anil Bhanudas",
@@ -23940,7 +24152,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "508_PHY_F211.pdf": {
+  "handouts/508_PHY_F211.pdf": {
     "course_code": "PHY F211",
     "course_title": "Classical Mechanics",
     "instructor_in_charge": "Biswanath Layek",
@@ -23992,7 +24204,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "509_PHY_F212.pdf": {
+  "handouts/509_PHY_F212.pdf": {
     "course_code": "PHY F212",
     "course_title": "Electromagnetic Theory 1",
     "instructor_in_charge": "Rakesh Choubisa",
@@ -24046,7 +24258,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "510_PHY_F213.pdf": {
+  "handouts/510_PHY_F213.pdf": {
     "course_code": "PHY F213",
     "course_title": "OPTICS",
     "instructor_in_charge": "Niladri Sarkar",
@@ -24065,7 +24277,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "511_PHY_F214.pdf": {
+  "handouts/511_PHY_F214.pdf": {
     "course_code": "PHY F214",
     "course_title": "Electromagnetic and Optics Laboratory",
     "instructor_in_charge": "Sajal Mukherjee",
@@ -24105,7 +24317,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "512_PHY_F311.pdf": {
+  "handouts/512_PHY_F311.pdf": {
     "course_code": "PHY F311",
     "course_title": "QUANTUM MECHANICS II",
     "instructor_in_charge": "ARPAN DAS",
@@ -24146,7 +24358,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "513_PHY_F312.pdf": {
+  "handouts/513_PHY_F312.pdf": {
     "course_code": "PHY F312",
     "course_title": "STATISTICAL MECHANICS",
     "instructor_in_charge": "Tapomoy Guha Sarkar",
@@ -24189,7 +24401,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "514_PHY_F313.pdf": {
+  "handouts/514_PHY_F313.pdf": {
     "course_code": "PHY F313",
     "course_title": "Computational Physics",
     "instructor_in_charge": "Tanmoy Mondal",
@@ -24232,7 +24444,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "515_PHY_F318.pdf": {
+  "handouts/515_PHY_F318.pdf": {
     "course_code": "PHY F318",
     "course_title": "Atoms and Photons",
     "instructor_in_charge": "Amol R Holkundkar",
@@ -24273,7 +24485,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "516_PHY_F413.pdf": {
+  "handouts/516_PHY_F413.pdf": {
     "course_code": "PHY F413",
     "course_title": "Particle Physics",
     "instructor_in_charge": "Rishikesh Vaidya",
@@ -24323,7 +24535,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "517_PHY_F416.pdf": {
+  "handouts/517_PHY_F416.pdf": {
     "course_code": "PHY F416",
     "course_title": "SOFT CONDENSED MATTER PHYSICS",
     "instructor_in_charge": "Prof Navin Singh",
@@ -24371,7 +24583,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "518_PHY_F422.pdf": {
+  "handouts/518_PHY_F422.pdf": {
     "course_code": "PHY F422",
     "course_title": "Group Theory and Applications",
     "instructor_in_charge": "Bhavesh Chauhan",
@@ -24419,7 +24631,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "519_PHY_F426.pdf": {
+  "handouts/519_PHY_F426.pdf": {
     "course_code": "PHY F426",
     "course_title": "Physics of Semiconductor Devices",
     "instructor_in_charge": "MANJULADEVI V.",
@@ -24460,7 +24672,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "520_PHY_G541.pdf": {
+  "handouts/520_PHY_G541.pdf": {
     "course_code": "PHY G541",
     "course_title": "Physics of Semiconductor Devices",
     "instructor_in_charge": "MANJULADEVI V.",
@@ -24501,7 +24713,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "521_PHY_G541.pdf": {
+  "handouts/521_PHY_G541.pdf": {
     "course_code": "PHY G541",
     "course_title": "Physics of Semiconductor Devices",
     "instructor_in_charge": "MANJULADEVI V.",
@@ -24542,7 +24754,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "522_PHY_U101.pdf": {
+  "handouts/522_PHY_U101.pdf": {
     "course_code": "PHY U101",
     "course_title": "Classical and Quantum Waves",
     "instructor_in_charge": "Kaushar Vaidya",
@@ -24585,7 +24797,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "523_PHY_U102.pdf": {
+  "handouts/523_PHY_U102.pdf": {
     "course_code": "PHY U102",
     "course_title": "Introduction to Classical and Quantum Waves",
     "instructor_in_charge": "Madhukar Mishra",
@@ -24604,7 +24816,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "524_PHY_U110.pdf": {
+  "handouts/524_PHY_U110.pdf": {
     "course_code": "PHY U110",
     "course_title": "Physics Laboratory",
     "instructor_in_charge": "Debashis Bandyopadhyay",
@@ -24654,7 +24866,7 @@
     "has_quiz": false,
     "has_lab": true
   },
-  "525_SAN_G511.pdf": {
+  "handouts/525_SAN_G511.pdf": {
     "course_code": "SAN G511",
     "course_title": "Sanitation Technology",
     "instructor_in_charge": "ANUPAM SINGHAL",
@@ -24706,7 +24918,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "526_SAN_G511.pdf": {
+  "handouts/526_SAN_G511.pdf": {
     "course_code": "SAN G511",
     "course_title": "Sanitation Technology",
     "instructor_in_charge": "ANUPAM SINGHAL",
@@ -24758,7 +24970,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "527_SCM_G511.pdf": {
+  "handouts/527_SCM_G511.pdf": {
     "course_code": "SCM G511",
     "course_title": "Fundamentals of Supply Chain \u2013 Concepts",
     "instructor_in_charge": "SRIKANTA ROUTROY",
@@ -24810,7 +25022,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "528_SCM_G511.pdf": {
+  "handouts/528_SCM_G511.pdf": {
     "course_code": "SCM G511",
     "course_title": "Fundamentals of Supply Chain \u2013 Concepts",
     "instructor_in_charge": "SRIKANTA ROUTROY",
@@ -24862,7 +25074,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "529_SCM_G513.pdf": {
+  "handouts/529_SCM_G513.pdf": {
     "course_code": "SCM G513",
     "course_title": "Advanced Operations Management",
     "instructor_in_charge": "AMIT KUMAR JAIN",
@@ -24919,7 +25131,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "530_SCM_G514.pdf": {
+  "handouts/530_SCM_G514.pdf": {
     "course_code": "SCM G514",
     "course_title": "Logistics and Procurement",
     "instructor_in_charge": "AMIT KUMAR JAIN",
@@ -24976,7 +25188,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "531_SCM_G515.pdf": {
+  "handouts/531_SCM_G515.pdf": {
     "course_code": "SCM G515",
     "course_title": "Management Accounting",
     "instructor_in_charge": "PAVAN KUMAR PENUMAKALA (Hyderabad Campus)",
@@ -25036,7 +25248,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "532_SCM_G515.pdf": {
+  "handouts/532_SCM_G515.pdf": {
     "course_code": "SCM G515",
     "course_title": "Management Accounting",
     "instructor_in_charge": "PAVAN KUMAR PENUMAKALA (Hyderabad Campus)",
@@ -25096,7 +25308,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "533_SNS_F211.pdf": {
+  "handouts/533_SNS_F211.pdf": {
     "course_code": "SNS F211",
     "course_title": "Fundamentals of Nanoscience and Nanotechnology",
     "instructor_in_charge": "Prof. Sarbani Ghosh",
@@ -25144,7 +25356,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "534_SNS_F214.pdf": {
+  "handouts/534_SNS_F214.pdf": {
     "course_code": "SNS F214",
     "course_title": "Fundamentals of Solid-State Physics",
     "instructor_in_charge": "Jayendra N. Bandyopadhyay",
@@ -25192,7 +25404,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "535_SNS_F242.pdf": {
+  "handouts/535_SNS_F242.pdf": {
     "course_code": "SNS F242",
     "course_title": "ELECTRONIC DEVICES",
     "instructor_in_charge": "NAVNEET GUPTA  (Chamber Bo.: 2210-H)",
@@ -25240,7 +25452,7 @@
     "has_quiz": true,
     "has_lab": false
   },
-  "536_SS_G514.pdf": {
+  "handouts/536_SS_G514.pdf": {
     "course_code": "SS G514",
     "course_title": "Object Oriented Analysis and Design",
     "instructor_in_charge": "MUKESH KUMAR ROHIL",
@@ -25292,7 +25504,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "537_SS_G514.pdf": {
+  "handouts/537_SS_G514.pdf": {
     "course_code": "SS G514",
     "course_title": "Object Oriented Analysis and Design",
     "instructor_in_charge": "MUKESH KUMAR ROHIL",
@@ -25344,7 +25556,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "538_SS_G562.pdf": {
+  "handouts/538_SS_G562.pdf": {
     "course_code": "SS G562",
     "course_title": "SOFTWARE ENGINEERING AND MANAGEMENT",
     "instructor_in_charge": "Dr. Tanmaya Mahapatra",
@@ -25392,7 +25604,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "539_SS_G562.pdf": {
+  "handouts/539_SS_G562.pdf": {
     "course_code": "SS G562",
     "course_title": "SOFTWARE ENGINEERING AND MANAGEMENT",
     "instructor_in_charge": "Dr. Tanmaya Mahapatra",
@@ -25440,7 +25652,7 @@
     "has_quiz": false,
     "has_lab": false
   },
-  "540_SW_E101.pdf": {
+  "handouts/540_SW_E101.pdf": {
     "course_code": "SW E101",
     "course_title": "Social Conduct 1",
     "instructor_in_charge": "Prof. Rajneesh Choubisa",

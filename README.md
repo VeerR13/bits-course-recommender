@@ -72,15 +72,18 @@ streamlit run app.py
 
 - Prerequisites are not present in the supplied data, so eligibility checking does not verify
   them. Every recommended course carries `prerequisites_checked: false`.
-- The bulletin names four Humanities Elective subject heads (Languages and Literature, History
-  and Philosophy, Political and Social Sciences, Fine Arts and Professional Arts) but does not
-  list which course codes fall under each head individually. HUEL classification is inferred
-  from a course's department and is always labelled `inferred: true` rather than presented as
-  verified.
+- HUEL is classified from the bulletin's own named "Pool of Humanities courses for first degree
+  programmes" (PDF page 333). A course from the student's own discipline is excluded from
+  counting as HUEL even when it appears in that pool, as stated on the same page.
+- A course is treated as an Open Elective if it is an elective in some discipline other than the
+  student's own, rather than waiting until the student's Discipline and Humanities elective
+  quotas are actually full. This is the interpretation taken, not a limitation.
 - 314 of the 586 offered courses do not appear in any parsed discipline course list, so their
   category comes back as UNKNOWN rather than a forced guess.
-- A number of handouts contain no evaluation table at all, so their properties (midsem, compre,
-  project, quiz, lab, attendance) cannot be verified for those courses and are shown as such.
+- 51 handouts have no usable evaluation table, so their properties (midsem, compre, project,
+  quiz, lab, attendance) cannot be verified for those courses and are shown as such.
+- A recommended course whose properties could not be verified is still shown, never dropped, and
+  is labelled as unverified so the student can judge it themselves.
 - Topic matching is keyword-based (title and handout topics text, lowercased and scored by word
   overlap) rather than semantic - it will miss a match phrased very differently from the course
   text.

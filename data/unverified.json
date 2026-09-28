@@ -48,6 +48,12 @@
     "reason": "no 'Instructor-in-Charge' line found in the header"
   },
   {
+    "file": "handouts/044_BITS_F327.pdf",
+    "course_code": "BITS F327",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
+  },
+  {
     "file": "handouts/048_BITS_F415.pdf",
     "course_code": "BITS F415",
     "field": "course_code",
@@ -132,6 +138,12 @@
     "reason": "handout text says 'BITS G629T/ BITS G561T/ BITS G562T/ BITS G563T/' but filename implies 'BITS G564T'"
   },
   {
+    "file": "handouts/071_BITS_U107.pdf",
+    "course_code": "BITS U107",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
+  },
+  {
     "file": "handouts/072_BITS_U415.pdf",
     "course_code": "BITS U415",
     "field": "course_code",
@@ -186,6 +198,12 @@
     "reason": "handout text says 'CE F434/BITS F494' but filename implies 'CE U434'"
   },
   {
+    "file": "handouts/120_CHE_F214.pdf",
+    "course_code": "CHE F214",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
+  },
+  {
     "file": "handouts/122_CHE_F311.pdf",
     "course_code": "CHE F311",
     "field": "instructor_in_charge",
@@ -196,6 +214,24 @@
     "course_code": "CHE F312",
     "field": "course_code",
     "reason": "handout text says 'CHE F 312' but filename implies 'CHE F312'"
+  },
+  {
+    "file": "handouts/143_CHEM_F242.pdf",
+    "course_code": "CHEM F242",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
+  },
+  {
+    "file": "handouts/156_CHEM_G553.pdf",
+    "course_code": "CHEM G553",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
+  },
+  {
+    "file": "handouts/157_CHEM_G553.pdf",
+    "course_code": "CHEM G553",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
   },
   {
     "file": "handouts/159_CHEM_U110.pdf",
@@ -1116,6 +1152,12 @@
     "reason": "no description/scope/objective heading found"
   },
   {
+    "file": "handouts/402_ME_G552.pdf",
+    "course_code": "ME G552",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
+  },
+  {
     "file": "handouts/409_ME_U428.pdf",
     "course_code": "ME U428",
     "field": "course_code",
@@ -1168,6 +1210,18 @@
     "course_code": "MF F314",
     "field": "course_code",
     "reason": "handout text says 'ME F314 / MF F314' but filename implies 'MF F314'"
+  },
+  {
+    "file": "handouts/439_MPBA_G504.pdf",
+    "course_code": "MPBA G504",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
+  },
+  {
+    "file": "handouts/440_MPBA_G504.pdf",
+    "course_code": "MPBA G504",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
   },
   {
     "file": "handouts/443_MPBA_G506.pdf",
@@ -1236,10 +1290,22 @@
     "reason": "no 'Instructor-in-Charge' line found in the header"
   },
   {
+    "file": "handouts/459_MPBA_G529.pdf",
+    "course_code": "MPBA G529",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
+  },
+  {
     "file": "handouts/460_MPBA_G529.pdf",
     "course_code": "MPBA G529",
     "field": "instructor_in_charge",
     "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/460_MPBA_G529.pdf",
+    "course_code": "MPBA G529",
+    "field": "evaluation_scheme",
+    "reason": "an evaluation table header was found but no rows could be read from it"
   },
   {
     "file": "handouts/473_PHA_F311.pdf",

@@ -56,10 +56,11 @@ def load_data():
     }
 
 
-# CDC/DEL if it's core/elective for the student's own discipline, HUEL if it's in the
-# bulletin's humanities pool (the bulletin never names exact HUEL codes for the four subject
-# heads, so this is always a candidate, never a certainty), OPEL if it's an elective for some
-# other discipline, UNKNOWN if none of that data exists for this course
+# CDC/DEL if it's core/elective for the student's own discipline, HUEL if it's in the bulletin's
+# named "Pool of Humanities courses for first degree programmes" (PDF page 333), OPEL if it's an
+# elective for some other discipline, UNKNOWN if none of that data exists for this course.
+# a course from the student's own discipline is never counted as HUEL even if it is in the pool -
+# that exclusion is stated on the same page 333 and is what the "not own_entries" check below does
 def categorise(course_code, discipline, data):
     entries = data["discipline_by_code"].get(course_code, [])
     own_entries = [e for e in entries if e["discipline"] == discipline]
@@ -73,7 +74,7 @@ def categorise(course_code, discipline, data):
 
     in_humanities_pool = any(e["discipline"] == "Humanities Electives" for e in entries)
     if in_humanities_pool and not own_entries:
-        return {"category": "HUEL", "inferred": True}
+        return {"category": "HUEL", "inferred": False}
 
     if any(e["category"] == "elective" for e in entries):
         return {"category": "OPEL", "inferred": False}
@@ -119,7 +120,11 @@ def remaining_requirements(profile, data):
             continue
 
         done_codes = by_short_category[short]
-        done_units = sum(u for u in (catalog_units(c, data) for c in done_codes) if u is not None)
+        done_units = 0
+        for code in done_codes:
+            units = catalog_units(code, data)
+            if units is not None:
+                done_units += units
         base["computable"] = True
         base["completed_courses"] = done_codes
         base["completed_units"] = done_units
@@ -148,18 +153,30 @@ def eligible_courses(profile, data):
 def match_courses(courses, topic, data):
     if not topic:
         return courses
-    words = [w for w in topic.lower().split() if w]
+    words = topic.lower().split()
     scored = []
     for c in courses:
         text = (c["title"] or "").lower()
         handouts = data["handouts_by_code"].get(c["course_code"], [])
         if handouts and handouts[0].get("topics"):
             text += " " + handouts[0]["topics"].lower()
-        score = sum(1 for w in words if w in text)
+        score = 0
+        for w in words:
+            if w in text:
+                score += 1
         if score > 0:
             scored.append((score, c))
-    scored.sort(key=lambda pair: pair[0], reverse=True)
-    return [c for score, c in scored]
+
+    scored.sort(key=by_score, reverse=True)
+    matched = []
+    for score, c in scored:
+        matched.append(c)
+    return matched
+
+
+# helper for the sort above - picks out just the score half of each (score, course) pair
+def by_score(pair):
+    return pair[0]
 
 
 # has_midsem/has_compre/has_project/has_quiz/has_lab come straight from the handout's evaluation
@@ -250,17 +267,32 @@ def recommend(profile, filters, data):
 
     # a course we could actually verify the requested property on should outrank a guess, which
     # should outrank a course with no signal at all - without ever dropping the last two
-    requested_props = [p for p in ("has_midsem", "has_compre", "has_project", "has_quiz", "has_lab") if filters.get(p) is not None]
+    requested_props = []
+    for prop in ("has_midsem", "has_compre", "has_project", "has_quiz", "has_lab"):
+        if filters.get(prop) is not None:
+            requested_props.append(prop)
     if filters.get("attendance_free"):
         requested_props.append("attendance_free")
+
     if requested_props:
-        def confidence_rank(res, prop):
-            entry = res["properties"][prop]
-            if entry["verified"]:
-                return 0
-            if entry["value"] is True:
-                return 1
-            return 2
-        results.sort(key=lambda res: tuple(confidence_rank(res, p) for p in requested_props))
+        verified_first = []
+        guessed = []
+        no_signal = []
+        for res in results:
+            all_verified = True
+            any_guess = False
+            for prop in requested_props:
+                entry = res["properties"][prop]
+                if not entry["verified"]:
+                    all_verified = False
+                    if entry["value"] is True:
+                        any_guess = True
+            if all_verified:
+                verified_first.append(res)
+            elif any_guess:
+                guessed.append(res)
+            else:
+                no_signal.append(res)
+        results = verified_first + guessed + no_signal
 
     return results

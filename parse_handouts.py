@@ -151,6 +151,7 @@ def extract_header_fields(lines, rel_filename, course_code):
 # names the component (e.g. "Evaluation Component", or just "Component") by keyword instead of
 # assuming a fixed position, and read every other column positionally under whatever header it has
 def find_evaluation_table(pdf, rel_filename, course_code):
+    found_header_without_rows = False
     for page_index, page in enumerate(pdf.pages):
         for table in page.extract_tables():
             if len(table) < 2:
@@ -182,9 +183,16 @@ def find_evaluation_table(pdf, rel_filename, course_code):
                 rows_out.append(row_dict)
                 components.append(name_clean)
 
-            return rows_out, components, page_index + 1
+            if rows_out:
+                return rows_out, components, page_index + 1
+            # the header was there but every row under it failed to parse - keep looking, but
+            # remember this so we can say why, instead of claiming no table existed at all
+            found_header_without_rows = True
 
-    flag(rel_filename, course_code, "evaluation_scheme", "no evaluation scheme table found")
+    if found_header_without_rows:
+        flag(rel_filename, course_code, "evaluation_scheme", "an evaluation table header was found but no rows could be read from it")
+    else:
+        flag(rel_filename, course_code, "evaluation_scheme", "no evaluation scheme table found")
     return [], [], None
 
 
@@ -243,10 +251,11 @@ def main():
     filenames = sorted(f for f in os.listdir(HANDOUTS_DIR) if f.endswith(".pdf"))
     handouts = {}
     for filename in filenames:
+        rel_filename = "handouts/" + filename
         try:
-            handouts[filename] = parse_one_handout(filename)
+            handouts[rel_filename] = parse_one_handout(filename)
         except Exception as e:
-            flag("handouts/" + filename, course_code_from_filename(filename), "whole_file", "failed to parse: " + str(e))
+            flag(rel_filename, course_code_from_filename(filename), "whole_file", "failed to parse: " + str(e))
 
     print("handout files found:", len(filenames))
     print("handouts parsed:", len(handouts))

@@ -178,6 +178,8 @@ if search:
 
     for r in results:
         title = str(r["course_code"]) + " - " + str(r["title"])
+        if not r["handout_available"]:
+            title += "  ⚠️ no handout data"
         with st.expander(title):
             category_line = "Category: " + r["category"]
             if r["category_inferred"]:
@@ -187,23 +189,26 @@ if search:
                 st.write("Satisfies your remaining requirement for: " + r["satisfies_requirement"])
             st.write("Units: " + str(r["units"]))
 
+            # a checkmark means the handout confirmed it, a question mark means we are guessing
+            # or have nothing at all - these must never look the same as a confirmed answer
             for prop_name, label in PROPERTY_LABELS.items():
                 entry = r["properties"].get(prop_name)
                 if entry is None:
                     continue
                 if entry["verified"]:
-                    st.write(label + ": " + str(entry["value"]))
+                    mark = "✅" if entry["value"] else "❌"
+                    st.write(mark + " " + label + ": " + str(entry["value"]) + " (verified from handout)")
                 elif entry["value"] is True:
-                    st.write(label + ": possibly (based on the policy text, not verified)")
+                    st.write("❓ " + label + ": possibly, based on policy text - not verified")
                 else:
-                    st.write(label + ": could not be verified")
+                    st.write("❓ " + label + ": could not be verified")
 
             if r["attendance_policy_text"]:
                 st.caption("Attendance policy text: " + r["attendance_policy_text"])
             if r["makeup_policy_text"]:
                 st.caption("Makeup policy text: " + r["makeup_policy_text"])
             if not r["handout_available"]:
-                st.caption("No handout was found for this course, so its properties could not be verified.")
+                st.warning("No handout was found for this course, so none of its properties could be verified.")
 
             st.caption("Prerequisites: not checked - the supplied data does not contain prerequisite information.")
 
