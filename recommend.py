@@ -153,6 +153,7 @@ def eligible_courses(profile, data):
 QUERY_STOPWORDS = [
     "suggest", "courses", "course", "elective", "electives", "related", "want", "need",
     "some", "any", "with", "for", "and", "the", "to", "a", "an", "me", "i",
+    "it", "is", "of", "in", "on", "at", "this", "that", "behind", "about",
 ]
 
 # a few acronyms expanded into the phrases that actually show up in course titles and topics -

@@ -77,7 +77,9 @@ def all_known_course_codes():
 st.title("BITS Course Recommender")
 st.caption("Recommendations are computed live from the parsed timetable, handouts, and bulletin - nothing here is hardcoded.")
 
-with st.sidebar:
+tab_profile, tab_find = st.tabs(["Profile", "Find Courses"])
+
+with tab_profile:
     st.header("Your Profile")
     with st.form("profile_form"):
         campus = st.text_input("Campus", value=st.session_state.get("campus", "Pilani"))
@@ -108,113 +110,155 @@ with st.sidebar:
         st.session_state["is_2026_fdhdphd"] = is_2026_fdhdphd
         st.session_state["profile_saved"] = True
 
-if not st.session_state.get("profile_saved"):
-    st.info("Fill in your profile in the sidebar and click Save profile to get started.")
-    st.stop()
+with tab_find:
+    if not st.session_state.get("profile_saved"):
+        st.info("Fill in your profile in the Profile tab and click Save profile to get started.")
+    else:
+        profile = {
+            "discipline": st.session_state["discipline"],
+            "completed_courses": st.session_state["completed_courses"],
+            "current_courses": st.session_state["current_courses"],
+            "is_2026_admission_fd_hd_phd": st.session_state["is_2026_fdhdphd"],
+        }
 
-profile = {
-    "discipline": st.session_state["discipline"],
-    "completed_courses": st.session_state["completed_courses"],
-    "current_courses": st.session_state["current_courses"],
-    "is_2026_admission_fd_hd_phd": st.session_state["is_2026_fdhdphd"],
-}
+        st.subheader("Remaining requirements")
+        st.caption("Prerequisites are not present in the supplied data, so eligibility below does not check them.")
 
-st.subheader("Remaining requirements")
-st.caption("Prerequisites are not present in the supplied data, so eligibility below does not check them.")
+        req_rows = rec.remaining_requirements(profile, data)
+        requirement_table = []
+        any_not_computable = False
+        for row in req_rows:
+            if row.get("computable"):
+                requirement_table.append({
+                    "Category": row["category"],
+                    "Units needed": str(row["remaining_units"]),
+                    "Courses needed": str(row["remaining_courses"]),
+                })
+            else:
+                requirement_table.append({"Category": row["category"], "Units needed": "-", "Courses needed": "-"})
+                any_not_computable = True
+        st.table(requirement_table)
+        if any_not_computable:
+            st.caption("Categories showing - had no course list extracted for them, so remaining progress cannot be computed.")
 
-req_rows = rec.remaining_requirements(profile, data)
-for row in req_rows:
-    if "options" in row:
-        st.write("**" + row["category"] + "**: either/or requirement, shown as printed in the bulletin, not tracked as progress")
-        continue
-    if not row.get("computable"):
-        st.write("**" + row["category"] + "**: " + str(row["min_units"]) + "-" + str(row["max_units"] if row["max_units"] is not None else "?") + " units - could not be verified (no course list was extracted for this category)")
-        continue
-    st.write(
-        "**" + row["category"] + "**: " + str(row["completed_units"]) + "/" + str(row["min_units"]) + " units done, "
-        + str(row["remaining_units"]) + " units and " + str(row["remaining_courses"]) + " courses still needed"
-    )
+        st.divider()
+        st.subheader("Ask for a recommendation")
 
-st.divider()
-st.subheader("Ask for a recommendation")
+        question = st.text_input("Ask a question", placeholder="e.g. suggest DELs related to AI with no midsem")
 
-question = st.text_input("Ask a question", placeholder="e.g. suggest DELs related to AI with no midsem")
+        st.write("Or set filters directly:")
+        col1, col2 = st.columns(2)
+        with col1:
+            widget_category = st.selectbox("Category", ["(any)", "CDC", "DEL", "HUEL", "OPEL"])
+            widget_topic = st.text_input("Topic keywords", value="")
+        with col2:
+            widget_no_midsem = st.checkbox("No midsem")
+            widget_project = st.checkbox("Has a project component")
+            widget_quiz = st.checkbox("Has a quiz")
+            widget_no_attendance = st.checkbox("No attendance requirement")
 
-st.write("Or set filters directly:")
-col1, col2 = st.columns(2)
-with col1:
-    widget_category = st.selectbox("Category", ["(any)", "CDC", "DEL", "HUEL", "OPEL"])
-    widget_topic = st.text_input("Topic keywords", value="")
-with col2:
-    widget_no_midsem = st.checkbox("No midsem")
-    widget_project = st.checkbox("Has a project component")
-    widget_quiz = st.checkbox("Has a quiz")
-    widget_no_attendance = st.checkbox("No attendance requirement")
+        search = st.button("Find courses")
 
-search = st.button("Find courses")
+        if search:
+            filters = None
+            if question.strip():
+                filters = ask_gemini(question)
 
-if search:
-    filters = None
-    if question.strip():
-        filters = ask_gemini(question)
+            if filters is None:
+                filters = {}
+                if widget_category != "(any)":
+                    filters["category"] = widget_category
+                if widget_topic.strip():
+                    filters["topic"] = widget_topic.strip()
+                elif question.strip():
+                    # Gemini could not turn the typed question into filters, so at least
+                    # search it as plain keywords instead of silently dropping it
+                    filters["topic"] = question.strip()
+                if widget_no_midsem:
+                    filters["has_midsem"] = False
+                if widget_project:
+                    filters["has_project"] = True
+                if widget_quiz:
+                    filters["has_quiz"] = True
+                if widget_no_attendance:
+                    filters["attendance_free"] = True
 
-    if filters is None:
-        filters = {}
-        if widget_category != "(any)":
-            filters["category"] = widget_category
-        if widget_topic.strip():
-            filters["topic"] = widget_topic.strip()
-        if widget_no_midsem:
-            filters["has_midsem"] = False
-        if widget_project:
-            filters["has_project"] = True
-        if widget_quiz:
-            filters["has_quiz"] = True
-        if widget_no_attendance:
-            filters["attendance_free"] = True
+            # results are kept in session state so picking a course below doesn't lose them
+            st.session_state["last_results"] = rec.recommend(profile, filters, data)
 
-    results = rec.recommend(profile, filters, data)
-    st.write(str(len(results)) + " result(s)")
+        if "last_results" in st.session_state:
+            results = st.session_state["last_results"]
+            shown = results[:25]
+            st.write(str(len(results)) + " result(s)")
+            if len(results) > 25:
+                st.caption("showing 25 of " + str(len(results)) + " matches")
 
-    for r in results:
-        title = str(r["course_code"]) + " - " + str(r["title"])
-        if not r["handout_available"]:
-            title += "  [NO HANDOUT DATA]"
-        with st.expander(title):
-            category_line = "Category: " + r["category"]
-            if r["category_inferred"]:
-                category_line += " (inferred from department, not a verified list - the bulletin does not name exact course codes for this category)"
-            st.write(category_line)
-            if r["satisfies_requirement"]:
-                st.write("Satisfies your remaining requirement for: " + r["satisfies_requirement"])
-            st.write("Units: " + str(r["units"]))
-
-            # "verified" means the handout's own table says so - anything else is a guess or a
-            # blank, and must be labelled plainly so it never reads the same as a real answer
-            for prop_name, label in PROPERTY_LABELS.items():
-                entry = r["properties"].get(prop_name)
-                if entry is None:
-                    continue
-                if entry["verified"]:
-                    st.write(label + ": " + str(entry["value"]) + "  [verified from handout]")
-                elif entry["value"] is True:
-                    st.write(label + ": possibly  [based on policy text, not verified]")
+            result_table = []
+            by_code = {}
+            for r in shown:
+                by_code[r["course_code"]] = r
+                midsem_entry = r["properties"].get("has_midsem")
+                if midsem_entry and midsem_entry["verified"]:
+                    midsem_display = str(midsem_entry["value"])
+                    midsem_verified = True
                 else:
-                    st.write(label + ": not verified")
+                    midsem_display = "-"
+                    midsem_verified = False
+                units_display = str(r["units"]) if r["units"] is not None else "-"
+                result_table.append({
+                    "Code": r["course_code"],
+                    "Title": r["title"],
+                    "Category": r["category"],
+                    "Units": units_display,
+                    "Midsem": midsem_display,
+                    "Verified": midsem_verified,
+                })
 
-            if r["attendance_policy_text"]:
-                st.caption("Attendance policy text: " + r["attendance_policy_text"])
-            if r["makeup_policy_text"]:
-                st.caption("Makeup policy text: " + r["makeup_policy_text"])
-            if not r["handout_available"]:
-                st.warning("No handout was found for this course, so none of its properties could be verified.")
+            if result_table:
+                st.table(result_table)
 
-            st.caption("Prerequisites: not checked - the supplied data does not contain prerequisite information.")
+                codes_shown = list(by_code.keys())
+                selected_code = st.selectbox("Pick a course for details", codes_shown)
+                r = by_code[selected_code]
 
-            source_bits = []
-            if r["sources"]["timetable"]:
-                source_bits.append("timetable p." + str(r["sources"]["timetable"]["page"]))
-            if r["sources"]["handout"]:
-                source_bits.append(r["sources"]["handout"]["file"] + " p." + str(r["sources"]["handout"]["page"]))
-            if source_bits:
-                st.caption("Source: " + ", ".join(source_bits))
+                st.subheader(selected_code + " - " + r["title"])
+                if not r["handout_available"]:
+                    st.warning("No handout was found for this course, so none of its properties could be verified.")
+
+                category_line = "Category: " + r["category"]
+                if r["category_inferred"]:
+                    category_line += " (inferred from department, not a verified list - the bulletin does not name exact course codes for this category)"
+                st.write(category_line)
+                if r["satisfies_requirement"]:
+                    st.write("Satisfies your remaining requirement for: " + r["satisfies_requirement"])
+
+                # "verified" means the handout's own table says so - anything else is a guess or
+                # a blank, and must be labelled plainly so it never reads the same as a real answer
+                property_table = []
+                for prop_name, label in PROPERTY_LABELS.items():
+                    entry = r["properties"].get(prop_name)
+                    if entry is None:
+                        continue
+                    if entry["verified"]:
+                        value_text = str(entry["value"]) + "  [verified from handout]"
+                    elif entry["value"] is True:
+                        value_text = "possibly  [based on policy text, not verified]"
+                    else:
+                        value_text = "not verified"
+                    property_table.append({"Property": label, "Value": value_text})
+                st.table(property_table)
+
+                if r["attendance_policy_text"]:
+                    st.caption("Attendance policy text: " + r["attendance_policy_text"])
+                if r["makeup_policy_text"]:
+                    st.caption("Makeup policy text: " + r["makeup_policy_text"])
+
+                st.caption("Prerequisites: not checked - the supplied data does not contain prerequisite information.")
+
+                source_bits = []
+                if r["sources"]["timetable"]:
+                    source_bits.append("timetable p." + str(r["sources"]["timetable"]["page"]))
+                if r["sources"]["handout"]:
+                    source_bits.append(r["sources"]["handout"]["file"] + " p." + str(r["sources"]["handout"]["page"]))
+                if source_bits:
+                    st.caption("Source: " + ", ".join(source_bits))
