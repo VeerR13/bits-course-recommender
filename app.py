@@ -74,6 +74,31 @@ def all_known_course_codes():
     return sorted(codes)
 
 
+# the digit right after the code's leading letter is its year level, e.g. "F211" is level 2
+def course_level(course_code):
+    parts = course_code.split()
+    if len(parts) < 2:
+        return None
+    for ch in parts[1]:
+        if ch.isdigit():
+            return int(ch)
+    return None
+
+
+# a rough guess only - the discipline's core courses a student in this semester has plausibly
+# already finished, based on course code level. always editable, never treated as fact
+def likely_completed_core(discipline, current_semester):
+    max_level = (current_semester + 1) // 2 - 1
+    codes = []
+    for entries in data["discipline_by_code"].values():
+        for e in entries:
+            if e["discipline"] == discipline and e["category"] == "core":
+                level = course_level(e["course_code"])
+                if level is not None and level <= max_level:
+                    codes.append(e["course_code"])
+    return sorted(codes)
+
+
 st.title("BITS Course Recommender")
 st.caption("Recommendations are computed live from the parsed timetable, handouts, and bulletin - nothing here is hardcoded.")
 
@@ -91,7 +116,9 @@ with tab_profile:
         minor = st.text_input("Minor (if any)", value=st.session_state.get("minor", ""))
         st.caption("Minor programme rules were not extracted from the bulletin, so minor requirements are not checked.")
         interests = st.text_input("Interests", value=st.session_state.get("interests", ""))
-        completed_courses = st.multiselect("Completed courses", all_known_course_codes(), default=st.session_state.get("completed_courses", []))
+        completed_default = st.session_state.get("completed_courses", likely_completed_core(discipline, current_semester))
+        completed_courses = st.multiselect("Completed courses", all_known_course_codes(), default=completed_default)
+        st.caption("Pre-filled from the course code's year level as a starting point - correct this if it's wrong.")
         current_courses = st.multiselect("Currently taking", all_known_course_codes(), default=st.session_state.get("current_courses", []))
         is_2026_fdhdphd = st.checkbox("2026 admission into FD/HD/PhD (unlocks com cod >= 5000 courses)", value=st.session_state.get("is_2026_fdhdphd", False))
         saved = st.form_submit_button("Save profile")
@@ -227,7 +254,7 @@ with tab_find:
 
                 category_line = "Category: " + r["category"]
                 if r["category_inferred"]:
-                    category_line += " (inferred from department, not a verified list - the bulletin does not name exact course codes for this category)"
+                    category_line += " (inferred)"
                 st.write(category_line)
                 if r["satisfies_requirement"]:
                     st.write("Satisfies your remaining requirement for: " + r["satisfies_requirement"])

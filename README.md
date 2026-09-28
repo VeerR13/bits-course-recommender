@@ -92,6 +92,9 @@ streamlit run app.py
 - Timetable clash detection is not implemented.
 - Minor programme rules were not extracted, so the profile collects a minor but does not check
   its requirements.
+- The profile form pre-fills likely completed core courses from the course code's year level as
+  a convenience. This is a form default the student confirms or corrects, not a rule applied by
+  the recommender.
 - Dual Degree patterns, Higher Degree (M.E./M.Pharm./MBA/Ph.D.) structure, and general
   institute requirement course lists (Science Foundation, Technical Arts, etc.) were not parsed
   from the bulletin, so remaining-requirement progress for those categories cannot be computed.
