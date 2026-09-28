@@ -218,6 +218,39 @@ def looks_attendance_free(handout):
     return any(phrase in text for phrase in NO_ATTENDANCE_PHRASES)
 
 
+# verified beats a guess, a guess beats nothing. nothing gets dropped
+def rank_by_confidence(results, filters):
+    requested_props = []
+    for prop in ("has_midsem", "has_compre", "has_project", "has_quiz", "has_lab"):
+        if filters.get(prop) is not None:
+            requested_props.append(prop)
+    if filters.get("attendance_free"):
+        requested_props.append("attendance_free")
+
+    if not requested_props:
+        return results
+
+    verified_first = []
+    guessed = []
+    no_signal = []
+    for res in results:
+        all_verified = True
+        any_guess = False
+        for prop in requested_props:
+            entry = res["properties"][prop]
+            if not entry["verified"]:
+                all_verified = False
+                if entry["value"] is True:
+                    any_guess = True
+        if all_verified:
+            verified_first.append(res)
+        elif any_guess:
+            guessed.append(res)
+        else:
+            no_signal.append(res)
+    return verified_first + guessed + no_signal
+
+
 def recommend(profile, filters, data):
     req_status = remaining_requirements(profile, data)
     remaining_by_category = {}
@@ -285,33 +318,4 @@ def recommend(profile, filters, data):
             },
         })
 
-    # verified beats a guess, a guess beats nothing. nothing gets dropped
-    requested_props = []
-    for prop in ("has_midsem", "has_compre", "has_project", "has_quiz", "has_lab"):
-        if filters.get(prop) is not None:
-            requested_props.append(prop)
-    if filters.get("attendance_free"):
-        requested_props.append("attendance_free")
-
-    if requested_props:
-        verified_first = []
-        guessed = []
-        no_signal = []
-        for res in results:
-            all_verified = True
-            any_guess = False
-            for prop in requested_props:
-                entry = res["properties"][prop]
-                if not entry["verified"]:
-                    all_verified = False
-                    if entry["value"] is True:
-                        any_guess = True
-            if all_verified:
-                verified_first.append(res)
-            elif any_guess:
-                guessed.append(res)
-            else:
-                no_signal.append(res)
-        results = verified_first + guessed + no_signal
-
-    return results
+    return rank_by_confidence(results, filters)
