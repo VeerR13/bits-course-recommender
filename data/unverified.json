@@ -1,149 +1,5 @@
 [
   {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CE F231",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '1201(M W) 6104(Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CE G549",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '1233(M W) 1219(Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CE G549",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '1233(M W) 1219(Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CHE F415",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '1203(M) 6117(W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CHE G553",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '1203(M) 6117(W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CHE G553",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '1203(M) 6117(W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CHEM F335",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6161(T) 6151(M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CS G527",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6109(T) 6101(M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "CS G527",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6109(T) 6101(M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "MAC F213",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6107(M W) 1223(Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "MATH F213",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6107(M W) 1223(Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "ME G553",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '1234(T) 1202(M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "MPBA G504",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '(F) 6154(M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "MPBA G517",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6108(F) 6108(T) 6157(Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "MPBA G532",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6157(M W) 6108(Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "PHA G538",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6160(F) 6161(T Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "PHA G538",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6160(F) 6161(T Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "PHA G616",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6153(F) 6104(M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "PHA G617",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6107(F) 6108(M) 6108(Th)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "PHA G625",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6161(F) 6162(M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "PHA G625",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6161(F) 6162(M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "PHY F111",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '6161(T) (M W)'"
-  },
-  {
-    "file": "/Users/veerraghuvanshi/Downloads/dataset/timetable.pdf",
-    "course_code": "SAN G511",
-    "field": "room",
-    "reason": "room differs by day, stored as raw text: '1220(M W) (Th)'"
-  },
-  {
-    "file": "handouts/001_AN_F314.pdf",
-    "course_code": "AN F314",
-    "field": "evaluation_scheme",
-    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
-  },
-  {
     "file": "handouts/003_BIO_F211.pdf",
     "course_code": "BIO F211",
     "field": "instructor_in_charge",
@@ -192,12 +48,6 @@
     "reason": "no 'Instructor-in-Charge' line found in the header"
   },
   {
-    "file": "handouts/046_BITS_F364.pdf",
-    "course_code": "BITS F364",
-    "field": "makeup_policy",
-    "reason": "heading found but no text followed before the next section"
-  },
-  {
     "file": "handouts/048_BITS_F415.pdf",
     "course_code": "BITS F415",
     "field": "course_code",
@@ -214,12 +64,6 @@
     "course_code": "BITS F431",
     "field": "course_code",
     "reason": "handout text says '[BITS F431]' but filename implies 'BITS F431'"
-  },
-  {
-    "file": "handouts/053_BITS_F437.pdf",
-    "course_code": "BITS F437",
-    "field": "attendance_policy",
-    "reason": "heading found but no text followed before the next section"
   },
   {
     "file": "handouts/055_BITS_F462.pdf",
@@ -304,12 +148,6 @@
     "course_code": "BITS U467",
     "field": "course_code",
     "reason": "handout text says 'BITS F467 / BITS U467' but filename implies 'BITS U467'"
-  },
-  {
-    "file": "handouts/079_CE_F312.pdf",
-    "course_code": "CE F312",
-    "field": "evaluation_scheme",
-    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
   },
   {
     "file": "handouts/085_CE_F434.pdf",
@@ -590,6 +428,12 @@
   {
     "file": "handouts/217_ECON_F212.pdf",
     "course_code": "ECON F212",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
+  },
+  {
+    "file": "handouts/217_ECON_F212.pdf",
+    "course_code": "ECON F212",
     "field": "course_code",
     "reason": "handout text says '[ ECON F212/FIN F212]' but filename implies 'ECON F212'"
   },
@@ -816,28 +660,22 @@
     "reason": "handout text says 'Soft Switching Converter Technologies' but filename implies 'EEE G554'"
   },
   {
-    "file": "handouts/269_EEE_G554.pdf",
-    "course_code": "EEE G554",
-    "field": "attendance_policy",
-    "reason": "extracted text looks too short, may be cut off: 'NA'"
-  },
-  {
     "file": "handouts/270_EEE_G554.pdf",
     "course_code": "EEE G554",
     "field": "course_code",
     "reason": "handout text says 'Soft Switching Converter Technologies' but filename implies 'EEE G554'"
   },
   {
-    "file": "handouts/270_EEE_G554.pdf",
-    "course_code": "EEE G554",
-    "field": "attendance_policy",
-    "reason": "extracted text looks too short, may be cut off: 'NA'"
-  },
-  {
     "file": "handouts/284_EEE_U422.pdf",
     "course_code": "EEE U422",
     "field": "course_code",
     "reason": "handout text says 'EEE F 422' but filename implies 'EEE U422'"
+  },
+  {
+    "file": "handouts/287_FIN_F212.pdf",
+    "course_code": "FIN F212",
+    "field": "instructor_in_charge",
+    "reason": "no 'Instructor-in-Charge' line found in the header"
   },
   {
     "file": "handouts/287_FIN_F212.pdf",
@@ -904,12 +742,6 @@
     "course_code": "GS F331",
     "field": "course_code",
     "reason": "handout text says 'GSF 331' but filename implies 'GS F331'"
-  },
-  {
-    "file": "handouts/311_GS_F344.pdf",
-    "course_code": "GS F344",
-    "field": "attendance_policy",
-    "reason": "heading found but no text followed before the next section"
   },
   {
     "file": "handouts/312_GS_F366.pdf",
@@ -1248,22 +1080,10 @@
     "reason": "no 'Course Title' line found in the header"
   },
   {
-    "file": "handouts/388_ME_F415.pdf",
-    "course_code": "ME F415",
-    "field": "evaluation_scheme",
-    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
-  },
-  {
     "file": "handouts/391_ME_F428.pdf",
     "course_code": "ME F428",
     "field": "course_code",
     "reason": "handout text says 'ME F428/ ME U428' but filename implies 'ME F428'"
-  },
-  {
-    "file": "handouts/391_ME_F428.pdf",
-    "course_code": "ME F428",
-    "field": "evaluation_scheme",
-    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
   },
   {
     "file": "handouts/392_ME_F443.pdf",
@@ -1300,12 +1120,6 @@
     "course_code": "ME U428",
     "field": "course_code",
     "reason": "handout text says 'ME F428/ ME U428' but filename implies 'ME U428'"
-  },
-  {
-    "file": "handouts/409_ME_U428.pdf",
-    "course_code": "ME U428",
-    "field": "evaluation_scheme",
-    "reason": "weightage column looks misaligned, values stored positionally may be shifted"
   },
   {
     "file": "handouts/410_ME_U443.pdf",
@@ -1540,5 +1354,83 @@
     "course_code": "SW E101",
     "field": "evaluation_scheme",
     "reason": "no evaluation scheme table found"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "CHE F376",
+    "field": "credits",
+    "reason": "could not read L/P/U cleanly, found numbers: []"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "CHE F376",
+    "field": "credits",
+    "reason": "no L/P/U numbers found for this course"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "CHE F491",
+    "field": "credits",
+    "reason": "could not read L/P/U cleanly, found numbers: []"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "CHE F491",
+    "field": "credits",
+    "reason": "no L/P/U numbers found for this course"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "SS G514",
+    "field": "credits",
+    "reason": "could not read L/P/U cleanly, found numbers: []"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "SS G514",
+    "field": "credits",
+    "reason": "no L/P/U numbers found for this course"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "SS G514",
+    "field": "credits",
+    "reason": "could not read L/P/U cleanly, found numbers: []"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "SS G514",
+    "field": "credits",
+    "reason": "no L/P/U numbers found for this course"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "ME F418",
+    "field": "credits",
+    "reason": "could not read L/P/U cleanly, found numbers: []"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "ME F418",
+    "field": "credits",
+    "reason": "no L/P/U numbers found for this course"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "BIO G642",
+    "field": "credits",
+    "reason": "could not read L/P/U cleanly, found numbers: ['4', '4']"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "BITS F232",
+    "field": "credits",
+    "reason": "could not read L/P/U cleanly, found numbers: []"
+  },
+  {
+    "file": "bulletin.pdf",
+    "course_code": "BITS F232",
+    "field": "credits",
+    "reason": "no L/P/U numbers found for this course"
   }
 ]

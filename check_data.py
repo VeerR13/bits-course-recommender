@@ -2,6 +2,7 @@ import json
 
 courses_data = json.load(open("data/courses.json"))
 handouts_data = json.load(open("data/handouts.json"))
+discipline_courses = json.load(open("data/discipline_courses.json"))
 unverified = json.load(open("data/unverified.json"))
 
 courses = courses_data["courses"]
@@ -36,6 +37,15 @@ for filename, rec in handouts_data.items():
     if not rec["has_midsem"]:
         no_midsem += 1
 print("handouts with has_midsem = False:", no_midsem, "out of", len(handouts_data))
+
+print()
+print("===== bulletin discipline courses =====")
+disciplines = set(c["discipline"] for c in discipline_courses)
+core_count = len([c for c in discipline_courses if c["category"] == "core"])
+elective_count = len([c for c in discipline_courses if c["category"] == "elective"])
+print("disciplines/pools:", len(disciplines))
+print("core course entries:", core_count)
+print("elective course entries:", elective_count)
 
 print()
 print("===== unverified.json summary =====")

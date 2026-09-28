@@ -1,0 +1,84 @@
+{
+  "general_institute_requirement": [
+    {
+      "category": "Category",
+      "units_required": "Number of Units Required",
+      "courses_required": "Number of Courses Required"
+    },
+    {
+      "category": "Humanities Electives",
+      "units_required": "8",
+      "courses_required": "3"
+    },
+    {
+      "category": "Science Foundation",
+      "units_required": "9",
+      "courses_required": "3"
+    },
+    {
+      "category": "Mathematics Foundation",
+      "units_required": "12",
+      "courses_required": "4"
+    },
+    {
+      "category": "Engineering Foundation",
+      "units_required": "6",
+      "courses_required": "2"
+    },
+    {
+      "category": "Technical Arts",
+      "units_required": "10",
+      "courses_required": "4"
+    },
+    {
+      "category": "General Awareness / Professional Courses",
+      "units_required": "6 to 9",
+      "courses_required": "3 to 6"
+    },
+    {
+      "category": "Sub-Total",
+      "units_required": "51 to 54",
+      "courses_required": "19 to 22"
+    },
+    {
+      "category": "Core",
+      "units_required": "33 to 48",
+      "courses_required": "10 to 16"
+    },
+    {
+      "category": "Elective",
+      "units_required": "12 to 27",
+      "courses_required": "4 to 9"
+    },
+    {
+      "category": "Sub-Total",
+      "units_required": "57 to 60",
+      "courses_required": "15 to 20"
+    },
+    {
+      "category": "(III) Open Electives",
+      "units_required": "15 to 27",
+      "courses_required": "5 to 9"
+    },
+    {
+      "category": "Course-work Sub-Total",
+      "units_required": "129 (min)",
+      "courses_required": "41 (min)"
+    },
+    {
+      "category": "(IV) PS-I and II OR Thesis",
+      "units_required": "25 OR 9 to 20",
+      "courses_required": "2 OR 1"
+    },
+    {
+      "category": "Total",
+      "units_required": "144 (min)",
+      "courses_required": "42 (min)"
+    }
+  ],
+  "open_elective_rule": "Open Electives enable students to pursue courses that are not part of the discipline requirement nor part of the Humanities requirement. Normally any elective course will be treated as an Open Elective once the student's requirements under Discipline Electives and Humanities Electives have been accounted for. (Academic Regulations, page 9)",
+  "source": {
+    "file": "bulletin.pdf",
+    "page": 209
+  }
+}
