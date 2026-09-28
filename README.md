@@ -84,9 +84,11 @@ streamlit run app.py
   quiz, lab, attendance) cannot be verified for those courses and are shown as such.
 - A recommended course whose properties could not be verified is still shown, never dropped, and
   is labelled as unverified so the student can judge it themselves.
-- Topic matching is keyword-based (title and handout topics text, lowercased and scored by word
-  overlap) rather than semantic - it will miss a match phrased very differently from the course
-  text.
+- Topic matching is whole-word matching over the course title and handout topics text, not
+  semantic. A small fixed dictionary expands a few acronyms (AI, ML, NLP, OS, DBMS) into the
+  phrases that actually appear in course text, and a hit in the title ranks above a hit only in
+  the topics text. It will still miss a course phrased very differently from its own text, and
+  it will not catch anything outside that short acronym list.
 - Timetable clash detection is not implemented.
 - Minor programme rules were not extracted, so the profile collects a minor but does not check
   its requirements.

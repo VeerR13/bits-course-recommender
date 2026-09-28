@@ -1,4 +1,5 @@
 import json
+import re
 
 GENERAL_CATEGORY_TO_SHORT = {
     "Discipline Core": "CDC",
@@ -149,20 +150,63 @@ def eligible_courses(profile, data):
     return result
 
 
-# plain keyword scoring over the course title and the handout's topics text - no embeddings
+QUERY_STOPWORDS = [
+    "suggest", "courses", "course", "elective", "electives", "related", "want", "need",
+    "some", "any", "with", "for", "and", "the", "to", "a", "an", "me", "i",
+]
+
+# a few acronyms expanded into the phrases that actually show up in course titles and topics -
+# not a general synonym system, just enough to stop "AI" and friends from matching nothing
+ACRONYM_EXPANSIONS = {
+    "ai": ["artificial intelligence", "machine learning", "neural", "deep learning"],
+    "ml": ["machine learning", "neural", "deep learning"],
+    "nlp": ["natural language"],
+    "os": ["operating system"],
+    "dbms": ["database"],
+}
+
+
+# turns a typed query into the words actually worth searching for - drops filler words, strips
+# trailing punctuation, and expands a known acronym into its real phrases instead of itself
+def query_terms(topic):
+    terms = []
+    for word in topic.lower().split():
+        word = word.strip(".,!?;:'\"()")
+        if not word or word in QUERY_STOPWORDS:
+            continue
+        for expanded in ACRONYM_EXPANSIONS.get(word, [word]):
+            if expanded not in terms:
+                terms.append(expanded)
+    return terms
+
+
+# matches a whole word or phrase, not just a substring - "ai" must not match inside "available"
+def term_in_text(term, text):
+    return re.search(r"\b" + re.escape(term) + r"\b", text) is not None
+
+
+# a term found in the course title counts for more than one only found in the handout's topics
+# text, and each term is counted at most once - title first, topics only if the title missed it
 def match_courses(courses, topic, data):
     if not topic:
         return courses
-    words = topic.lower().split()
+    terms = query_terms(topic)
+    if not terms:
+        return courses
+
     scored = []
     for c in courses:
-        text = (c["title"] or "").lower()
+        title_text = (c["title"] or "").lower()
+        topics_text = ""
         handouts = data["handouts_by_code"].get(c["course_code"], [])
         if handouts and handouts[0].get("topics"):
-            text += " " + handouts[0]["topics"].lower()
+            topics_text = handouts[0]["topics"].lower()
+
         score = 0
-        for w in words:
-            if w in text:
+        for term in terms:
+            if term_in_text(term, title_text):
+                score += 3
+            elif term_in_text(term, topics_text):
                 score += 1
         if score > 0:
             scored.append((score, c))
